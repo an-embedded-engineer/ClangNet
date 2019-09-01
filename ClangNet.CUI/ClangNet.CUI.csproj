@@ -11,13 +11,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClangNet.Samples\ClangNet.Samples.csproj" />
+    <None Remove="libclang.dll" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="libclang.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <ProjectReference Include="..\ClangNet.Samples\ClangNet.Samples.csproj" />
   </ItemGroup>
 
 </Project>
