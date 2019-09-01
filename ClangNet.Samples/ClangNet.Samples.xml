@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClangNet.Samples</name>
+    </assembly>
+    <members>
+        <member name="T:ClangNet.Samples.ClangFileEx">
+            <summary>
+            Managed Clang File Extensions
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.ClangFileEx.ToFullPath(ClangNet.ClangFile)">
+            <summary>
+            Convert to Full Path
+            </summary>
+            <param name="file">Clang File</param>
+            <returns>Full Path</returns>
+        </member>
+        <member name="T:ClangNet.Samples.ClangSourceLocationEx">
+            <summary>
+            Managed Clang Source Location Extensions
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.ClangSourceLocationEx.GetFilePath(ClangNet.ClangSourceLocation,System.Boolean)">
+            <summary>
+            Get File Path
+            </summary>
+            <param name="loc">Clang Source Location</param>
+            <param name="absolute">Absolute Path Flag</param>
+            <returns>File Path</returns>
+        </member>
+        <member name="M:ClangNet.Samples.ClangSourceLocationEx.ToStringEx(ClangNet.ClangSourceLocation,System.Boolean)">
+            <summary>
+            Convert to String Extended
+            </summary>
+            <param name="loc">Clang Source Location</param>
+            <param name="absolute">Absolute Path Flag</param>
+            <returns>Source Location</returns>
+        </member>
+        <member name="T:ClangNet.Samples.ATranslationUnitHandler">
+            <summary>
+            Abstract Translation Unit Handler
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.ATranslationUnitHandler.SourcePath">
+            <summary>
+            Source Path
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.ATranslationUnitHandler.CommandLineArgs">
+            <summary>
+            Command Line Arguments
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.ATranslationUnitHandler.ParseOptions">
+            <summary>
+            Translation Unit Parse Options
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.ATranslationUnitHandler.DisplayDiagnostic">
+            <summary>
+            Display Diagnostics Flag
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.ATranslationUnitHandler.ExecuteCore(ClangNet.ClangIndex,ClangNet.ClangTranslationUnit)">
+            <summary>
+            Execute Translation Unit Handler Core
+            </summary>
+            <param name="index">Clang Index</param>
+            <param name="tu">Clang Translation Unit</param>
+        </member>
+        <member name="M:ClangNet.Samples.ATranslationUnitHandler.Execute(System.String,System.String[],ClangNet.TranslationUnitFlags,System.Boolean)">
+            <summary>
+            Execute Translation Unit Handler
+            </summary>
+            <param name="src_path">Source Path</param>
+            <param name="command_line_args">Command Line Arguments</param>
+            <param name="options">Parse Options</param>
+            <param name="display_diag">Display Diagnostics Flag</param>
+        </member>
+        <member name="T:ClangNet.Samples.CursorVisitor">
+            <summary>
+            Cursor Visitor Sample
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.CursorVisitor.Execute(System.String,System.String[],ClangNet.TranslationUnitFlags,System.Boolean)">
+            <summary>
+            Execute Cursor Visitor Sample
+            </summary>
+            <param name="src_path">Source Path</param>
+            <param name="command_line_args">Command Line Arguments</param>
+            <param name="options">Translation Unit Parse Options</param>
+            <param name="display_diag">Display Diagnostics</param>
+        </member>
+        <member name="T:ClangNet.Samples.CursorVisitor.CursorVisitorImpl">
+            <summary>
+            Cursor Visitor Implementation
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.CursorVisitor.CursorVisitorImpl.SystemIncludes">
+            <summary>
+            System Include Header Paths
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.CursorVisitor.CursorVisitorImpl.UserIncludes">
+            <summary>
+            User Include Header Paths
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.CursorVisitor.CursorVisitorImpl.ExecuteCore(ClangNet.ClangIndex,ClangNet.ClangTranslationUnit)">
+            <summary>
+            Execute Core Logic
+            </summary>
+            <param name="index">Clang Index</param>
+            <param name="tu">Clang Translation Unit</param>
+        </member>
+        <member name="M:ClangNet.Samples.CursorVisitor.CursorVisitorImpl.Visitor(ClangNet.ClangCursor,ClangNet.ClangCursor,System.Int32)">
+            <summary>
+            Cursor Visitor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <param name="parent">Parent Clang Cursor</param>
+            <param name="depth">Depth</param>
+            <returns>Child Visit Result</returns>
+        </member>
+        <member name="M:ClangNet.Samples.CursorVisitor.CursorVisitorImpl.VisitChild(ClangNet.ClangCursor,System.Int32)">
+            <summary>
+            Visit Child Clang Cursor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <param name="depth">Depth</param>
+        </member>
+        <member name="M:ClangNet.Samples.CursorVisitor.CursorVisitorImpl.DumpIncludes(System.String,System.Collections.Generic.ISet{System.String})">
+            <summary>
+            Dump Include File Paths
+            </summary>
+            <param name="type">Include File Type</param>
+            <param name="includes">Include File Paths</param>
+        </member>
+        <member name="T:ClangNet.Samples.InclusionVisitor">
+            <summary>
+            Inclusion Visitor Sample
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.InclusionVisitor.Execute(System.String,System.String[],ClangNet.TranslationUnitFlags,System.Boolean)">
+            <summary>
+            Execute Inclusion Visitor Sample
+            </summary>
+            <param name="src_path">Source Path</param>
+            <param name="command_line_args">Command Line Arguments</param>
+            <param name="options">Translation Unit Parse Options</param>
+            <param name="display_diag">Display Diagnostics</param>
+        </member>
+        <member name="T:ClangNet.Samples.InclusionVisitor.InclusionVisitorImpl">
+            <summary>
+            Inclusion Visitor Implementation
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.InclusionVisitor.InclusionVisitorImpl.ExecuteCore(ClangNet.ClangIndex,ClangNet.ClangTranslationUnit)">
+            <summary>
+            Execute Core Logic
+            </summary>
+            <param name="index">Clang Index</param>
+            <param name="tu">Clang Translation Unit</param>
+        </member>
+        <member name="M:ClangNet.Samples.InclusionVisitor.InclusionVisitorImpl.Visitor(ClangNet.ClangFile,ClangNet.ClangSourceLocation[],System.IntPtr)">
+            <summary>
+            Inclusion Visitor
+            </summary>
+            <param name="file">Clang File</param>
+            <param name="location_stack">Clang Source Location Stack</param>
+            <param name="client_data">Native Client Data Pointer</param>
+        </member>
+        <member name="T:ClangNet.ALogger">
+            <summary>
+            Abstract Logger
+            </summary>
+        </member>
+        <member name="M:ClangNet.ALogger.Dispose">
+            <summary>
+            Dispose Logger
+            </summary>
+        </member>
+        <member name="M:ClangNet.ALogger.WriteMessage(System.String,System.Boolean)">
+            <summary>
+            Write Log Message
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.ALogger.Verb(System.String,System.Boolean)">
+            <summary>
+            Send Verbatim Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.ALogger.Info(System.String,System.Boolean)">
+            <summary>
+            Send Information Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.ALogger.Warn(System.String,System.Boolean)">
+            <summary>
+            Send Warning Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.ALogger.Error(System.String,System.Boolean)">
+            <summary>
+            Send Error Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="T:ClangNet.BufferLogger">
+            <summary>
+            Buffer Logger
+            </summary>
+        </member>
+        <member name="P:ClangNet.BufferLogger.Buffer">
+            <summary>
+            String Buffer
+            </summary>
+        </member>
+        <member name="M:ClangNet.BufferLogger.Dispose">
+            <summary>
+            Dispose Logger
+            </summary>
+        </member>
+        <member name="M:ClangNet.BufferLogger.WriteMessage(System.String,System.Boolean)">
+            <summary>
+            Write Log Message
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="T:ClangNet.ConsoleLogger">
+            <summary>
+            Console Logger
+            </summary>
+        </member>
+        <member name="M:ClangNet.ConsoleLogger.Dispose">
+            <summary>
+            Dispose Logger
+            </summary>
+        </member>
+        <member name="M:ClangNet.ConsoleLogger.WriteMessage(System.String,System.Boolean)">
+            <summary>
+            Write Log Message
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="T:ClangNet.FileLogger">
+            <summary>
+            File Logger
+            </summary>
+        </member>
+        <member name="P:ClangNet.FileLogger.Writer">
+            <summary>
+            Stream Writer
+            </summary>
+        </member>
+        <member name="M:ClangNet.FileLogger.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="filename">File Name</param>
+        </member>
+        <member name="M:ClangNet.FileLogger.Dispose">
+            <summary>
+            Dispose Logger
+            </summary>
+        </member>
+        <member name="M:ClangNet.FileLogger.WriteMessage(System.String,System.Boolean)">
+            <summary>
+            Write Log Message
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="T:ClangNet.ILogger">
+            <summary>
+            Logger Interface
+            </summary>
+        </member>
+        <member name="M:ClangNet.ILogger.Verb(System.String,System.Boolean)">
+            <summary>
+            Send Verbatim Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.ILogger.Info(System.String,System.Boolean)">
+            <summary>
+            Send Information Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.ILogger.Warn(System.String,System.Boolean)">
+            <summary>
+            Send Warning Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.ILogger.Error(System.String,System.Boolean)">
+            <summary>
+            Send Error Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="T:ClangNet.LogManager">
+            <summary>
+            Log Manager
+            </summary>
+        </member>
+        <member name="P:ClangNet.LogManager.Loggers">
+            <summary>
+            Logger Interface List
+            </summary>
+        </member>
+        <member name="M:ClangNet.LogManager.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:ClangNet.LogManager.#ctor(ClangNet.ILogger[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="loggers">Logger Interface List</param>
+        </member>
+        <member name="M:ClangNet.LogManager.Add(ClangNet.ILogger)">
+            <summary>
+            Add Logger
+            </summary>
+            <param name="logger">Logger Interface</param>
+        </member>
+        <member name="M:ClangNet.LogManager.Add(System.Collections.Generic.IEnumerable{ClangNet.ILogger})">
+            <summary>
+            Add Loggers
+            </summary>
+            <param name="loggers">Logger Interface List</param>
+        </member>
+        <member name="M:ClangNet.LogManager.Dispose">
+            <summary>
+            Dispose Logger
+            </summary>
+        </member>
+        <member name="M:ClangNet.LogManager.Verb(System.String,System.Boolean)">
+            <summary>
+            Send Verbatim Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.LogManager.Info(System.String,System.Boolean)">
+            <summary>
+            Send Information Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.LogManager.Warn(System.String,System.Boolean)">
+            <summary>
+            Send Warning Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.LogManager.Error(System.String,System.Boolean)">
+            <summary>
+            Send Error Log
+            </summary>
+            <param name="message">Log Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="T:ClangNet.AMessageable">
+            <summary>
+            Abstract Messageable
+            </summary>
+        </member>
+        <member name="M:ClangNet.AMessageable.SendMessage(System.String,System.Boolean)">
+            <summary>
+            Send Message
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.AMessageable.SendInfoMessage(System.String,System.Boolean)">
+            <summary>
+            Send Information Message
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.AMessageable.SendWarnMessage(System.String,System.Boolean)">
+            <summary>
+            Send Warning Message
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.AMessageable.SendErrorMessage(System.String,System.Boolean)">
+            <summary>
+            Send Error Message
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="T:ClangNet.MessageReceivedEventHandler">
+            <summary>
+            Message Received Event Handler
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="T:ClangNet.Messenger">
+            <summary>
+            Messenger
+            </summary>
+        </member>
+        <member name="P:ClangNet.Messenger.OnVerbMessageReceived">
+            <summary>
+            Verbatim Message Received Event
+            </summary>
+        </member>
+        <member name="P:ClangNet.Messenger.OnInfoMessageReceived">
+            <summary>
+            Information Message Received Event
+            </summary>
+        </member>
+        <member name="P:ClangNet.Messenger.OnWarnMessageReceived">
+            <summary>
+            Warning Message Received Event
+            </summary>
+        </member>
+        <member name="P:ClangNet.Messenger.OnErrorMessageReceived">
+            <summary>
+            Error Message Received Event
+            </summary>
+        </member>
+        <member name="M:ClangNet.Messenger.Verb(System.String,System.Boolean)">
+            <summary>
+            Send Verbatim Message
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.Messenger.Info(System.String,System.Boolean)">
+            <summary>
+            Send Information Message
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.Messenger.Warn(System.String,System.Boolean)">
+            <summary>
+            Send Warning Message
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+        <member name="M:ClangNet.Messenger.Error(System.String,System.Boolean)">
+            <summary>
+            Send Error Message
+            </summary>
+            <param name="message">Message</param>
+            <param name="new_line">Append New Line Flag</param>
+        </member>
+    </members>
+</doc>

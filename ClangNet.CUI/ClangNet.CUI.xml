@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClangNet.CUI</name>
+    </assembly>
+    <members>
+        <member name="T:ClangNet.CUI.Program">
+            <summary>
+            Program
+            </summary>
+        </member>
+        <member name="M:ClangNet.CUI.Program.Main(System.String[])">
+            <summary>
+            Main Function
+            </summary>
+            <param name="args">Arguments</param>
+        </member>
+        <member name="T:ClangNet.CUI.Program.ProgramImpl">
+            <summary>
+            Program Implementation
+            </summary>
+        </member>
+        <member name="M:ClangNet.CUI.Program.ProgramImpl.Execute">
+            <summary>
+            Execute
+            </summary>
+        </member>
+        <member name="M:ClangNet.CUI.Program.ProgramImpl.CreateParameters">
+            <summary>
+            Create Parameters(Source Path &amp; Command Line Arguments)
+            </summary>
+            <returns>Parameters</returns>
+        </member>
+        <member name="M:ClangNet.CUI.Program.ProgramImpl.CreateLogger">
+            <summary>
+            Create Logger
+            </summary>
+            <returns>Logger Interface</returns>
+        </member>
+        <member name="M:ClangNet.CUI.Program.ProgramImpl.InitializeMessenger(ClangNet.ILogger)">
+            <summary>
+            Initialize Messenger
+            </summary>
+            <param name="logger">Logger Interface</param>
+        </member>
+    </members>
+</doc>
