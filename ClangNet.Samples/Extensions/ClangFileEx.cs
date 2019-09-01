@@ -16,7 +16,7 @@ namespace ClangNet.Samples
         {
             var file_name = Path.GetFullPath(file.FileName);
 
-            return file_name.Replace("/", @"\");
+            return file_name.Replace(@"\", @"/");
         }
     }
 

@@ -15,7 +15,7 @@
         {
             var floc = loc.FileLocation;
 
-            var file = absolute ? floc.File.ToFullPath() : floc.File.FileName;
+            var file = absolute ? floc.File.ToFullPath() : floc.File.FileName.Replace(@"\", "/");
 
             return file;
         }
@@ -30,7 +30,7 @@
         {
             var floc = loc.FileLocation;
 
-            var file = absolute ? floc.File.ToFullPath() : floc.File.FileName;
+            var file = absolute ? floc.File.ToFullPath() : floc.File.FileName.Replace(@"\", "/");
 
             var line = floc.Line;
 

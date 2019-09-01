@@ -341,3 +341,4 @@ healthchecksdb
 
 # Libclang Library
 libclang.dll
+libclang.dylib

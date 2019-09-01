@@ -2,14 +2,14 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/d357d1b3-948f-447c-b29b-2bd0cf5eec16.htm" />
-  <HelpTOCNode Id="63426df4-e201-4e30-a6b7-3d73a91017fa" Title="Version History" Url="html/907fa73b-1b00-477d-ba57-e9090e48c207.htm">
+  <HelpTOCNode Id="a9e90571-762f-401c-aad8-5a4226f6e923" Title="Version History" Url="html/907fa73b-1b00-477d-ba57-e9090e48c207.htm">
     <HelpTOCNode Title="Version 1.0.0.0" Url="html/c5687b03-9f95-4576-82d3-81347ab9e7e1.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="c6b43dcf-c495-4494-a215-7ffdd2ac156f" Title="ClangNet" Url="html/15690703-9428-8faf-18a7-cde07e62bf21.htm">
-    <HelpTOCNode Id="0a06b8b5-49fa-4a86-aad7-1a7e31615b5a" Title="ClangNet" Url="html/0692bb4c-8ed0-2d95-2dd3-7249dae64810.htm">
-      <HelpTOCNode Id="4ff5b7f1-196a-4829-b3ca-0af77dd46d48" Title="ALogger クラス" Url="html/0bd1c970-3596-096c-c27f-c62bb81da06f.htm">
+  <HelpTOCNode Id="994b3641-5a13-4829-8c1a-4f253839317f" Title="ClangNet" Url="html/15690703-9428-8faf-18a7-cde07e62bf21.htm">
+    <HelpTOCNode Id="cafec826-2d48-43cf-ac96-797e1bde235f" Title="ClangNet" Url="html/0692bb4c-8ed0-2d95-2dd3-7249dae64810.htm">
+      <HelpTOCNode Id="91d38e66-7df7-45fd-8d0e-49b990970d70" Title="ALogger クラス" Url="html/0bd1c970-3596-096c-c27f-c62bb81da06f.htm">
         <HelpTOCNode Title="ALogger コンストラクター " Url="html/6a4524e1-6ff8-4159-b1b5-f2442a9127d3.htm" />
-        <HelpTOCNode Id="88ecc9a3-cda1-4278-9de7-afc239739ce7" Title="ALogger メソッド" Url="html/b46bca33-168f-18e3-2b34-2bd455cbf1c6.htm">
+        <HelpTOCNode Id="2319b934-35eb-42f3-9719-4b107a454aa3" Title="ALogger メソッド" Url="html/b46bca33-168f-18e3-2b34-2bd455cbf1c6.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/0c119e02-ea68-7133-40d5-32d597238b96.htm" />
           <HelpTOCNode Title="Error メソッド " Url="html/426d5a53-6c4f-5be1-78b1-ddf9fcd01509.htm" />
           <HelpTOCNode Title="Info メソッド " Url="html/da08ed9b-cab3-a7e5-2c05-db2c916eb05d.htm" />
@@ -18,9 +18,9 @@
           <HelpTOCNode Title="WriteMessage メソッド " Url="html/32707d40-cfb1-541b-5a68-9db6cd659d04.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="affce430-9f36-404d-993c-9d1292fefbbe" Title="AMessageable クラス" Url="html/71d09e0c-7679-a6a3-62d8-3a8fb9cfc6d1.htm">
+      <HelpTOCNode Id="f3ef58c9-17bf-4bad-879d-8671014ef627" Title="AMessageable クラス" Url="html/71d09e0c-7679-a6a3-62d8-3a8fb9cfc6d1.htm">
         <HelpTOCNode Title="AMessageable コンストラクター " Url="html/1a214ba4-0034-7c5c-8ed4-1d04489b5ae7.htm" />
-        <HelpTOCNode Id="f39d6efb-dc0d-4792-bb34-c18c9f5bffbc" Title="AMessageable メソッド" Url="html/537c22d4-ce19-9ce0-6760-ec47ba675907.htm">
+        <HelpTOCNode Id="947cdd96-1dae-4ce6-a5be-7a6e30891c58" Title="AMessageable メソッド" Url="html/537c22d4-ce19-9ce0-6760-ec47ba675907.htm">
           <HelpTOCNode Title="SendErrorMessage メソッド " Url="html/4b475f97-a112-ebb6-979c-cdbebd123373.htm" />
           <HelpTOCNode Title="SendInfoMessage メソッド " Url="html/0b4f847d-574a-fe20-0195-98861ca76468.htm" />
           <HelpTOCNode Title="SendMessage メソッド " Url="html/2e03097f-6875-fb4c-cf3f-55d15f6e36f8.htm" />
@@ -28,9 +28,9 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="AvailabilityKind 列挙体" Url="html/a1055777-3dbe-876b-a014-e11cb5fbbfda.htm" />
-      <HelpTOCNode Id="26e5b350-df54-45cd-9e6c-9c855f973422" Title="BoolEx クラス" Url="html/5e69ee81-6d16-0bf3-9740-9201e0811941.htm">
-        <HelpTOCNode Id="13546d41-c350-42ee-841d-313c580c81ff" Title="BoolEx メソッド" Url="html/80d7769e-22ec-0df4-a7b2-d38b8af207c9.htm">
-          <HelpTOCNode Id="0a978472-0d06-46b4-83c5-3ab8e7a8ebd2" Title="ToBool メソッド " Url="html/893c429d-b860-9e3f-c984-92767a4f6ce8.htm">
+      <HelpTOCNode Id="a75b0b68-0156-4d19-b2b0-477c90736c44" Title="BoolEx クラス" Url="html/5e69ee81-6d16-0bf3-9740-9201e0811941.htm">
+        <HelpTOCNode Id="c478b635-9996-4a04-b3fb-6a56e94f8d97" Title="BoolEx メソッド" Url="html/80d7769e-22ec-0df4-a7b2-d38b8af207c9.htm">
+          <HelpTOCNode Id="29be4fa8-b6e0-46ae-ae5f-161bc868baa2" Title="ToBool メソッド " Url="html/893c429d-b860-9e3f-c984-92767a4f6ce8.htm">
             <HelpTOCNode Title="ToBool メソッド (Int32)" Url="html/3cb00a83-ae64-57a6-a975-ef2477acf73c.htm" />
             <HelpTOCNode Title="ToBool メソッド (UInt32)" Url="html/7ef82fa5-756a-a9f2-d32c-7e248e777d06.htm" />
           </HelpTOCNode>
@@ -38,20 +38,20 @@
           <HelpTOCNode Title="ToUInt メソッド " Url="html/3ae3df3c-8812-8e8e-8d29-8cdac10f5aa9.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a5fbac41-0326-45db-b9c8-9c8da6b7b2d9" Title="BufferLogger クラス" Url="html/385d1bde-13c3-16b6-4327-f6cd2d1a10b1.htm">
+      <HelpTOCNode Id="9ffa1f6a-4f73-4383-bfe8-a39e827fdeb0" Title="BufferLogger クラス" Url="html/385d1bde-13c3-16b6-4327-f6cd2d1a10b1.htm">
         <HelpTOCNode Title="BufferLogger コンストラクター " Url="html/c39fd99e-35d9-11cf-679f-fd3a0e38b884.htm" />
-        <HelpTOCNode Id="638f1e46-0b19-484f-a963-95a8e883df27" Title="BufferLogger プロパティ" Url="html/821b9849-f63c-baa0-7860-83f4526f1ec9.htm">
+        <HelpTOCNode Id="da966e23-98ea-4728-83d5-8c9c97b4e2e6" Title="BufferLogger プロパティ" Url="html/821b9849-f63c-baa0-7860-83f4526f1ec9.htm">
           <HelpTOCNode Title="Buffer プロパティ " Url="html/501d6a4d-a5a6-6d8f-642d-966bc4b133d5.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e52f4742-5c04-4f68-9be2-50afd8e14556" Title="BufferLogger メソッド" Url="html/64ae8ba4-c5e0-3ed2-f803-94b721dc1bd8.htm">
+        <HelpTOCNode Id="75732b4c-4173-4680-99ca-42ce5d9c2fda" Title="BufferLogger メソッド" Url="html/64ae8ba4-c5e0-3ed2-f803-94b721dc1bd8.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/534225be-a770-f383-4092-ff11e0570d7a.htm" />
           <HelpTOCNode Title="WriteMessage メソッド " Url="html/82bf106c-bb0a-6cb9-46e9-4c1a7e7bc007.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="CallingConvention 列挙体" Url="html/0772be6a-d3b1-1288-722c-212576fc69e4.htm" />
       <HelpTOCNode Title="ChildVisitResult 列挙体" Url="html/1d2008c2-c538-0b6b-bc9f-c0b13156092d.htm" />
-      <HelpTOCNode Id="474a46cd-6e88-44b1-b6f3-6cf5e60713cc" Title="Clang クラス" Url="html/d7084104-9ac4-58b1-f694-31c4e976bfa4.htm">
-        <HelpTOCNode Id="a95ad5f7-5823-47ee-81dd-9b0fc77d18e0" Title="Clang メソッド" Url="html/eec5322a-5759-92ca-d3e3-61a81ae44538.htm">
+      <HelpTOCNode Id="78306b78-fc53-41b9-b09e-f1a1b8e688c0" Title="Clang クラス" Url="html/d7084104-9ac4-58b1-f694-31c4e976bfa4.htm">
+        <HelpTOCNode Id="95be0619-00f5-4b1e-9825-660c78ce33d2" Title="Clang メソッド" Url="html/eec5322a-5759-92ca-d3e3-61a81ae44538.htm">
           <HelpTOCNode Title="ConstructUSRObjCCategory メソッド " Url="html/e2db5061-c98d-0b3f-ee43-8620a1116d70.htm" />
           <HelpTOCNode Title="ConstructUSRObjCClass メソッド " Url="html/eacea8cd-1012-e49c-8d90-18e051334689.htm" />
           <HelpTOCNode Title="ConstructUSRObjCIVar メソッド " Url="html/a180a93b-4d87-5ce5-4060-e20a5a2e8716.htm" />
@@ -72,7 +72,7 @@
           <HelpTOCNode Title="GetNullCursor メソッド " Url="html/796332db-a403-0d22-de2b-495c32e5c578.htm" />
           <HelpTOCNode Title="GetNullLocation メソッド " Url="html/7cbe0708-6060-77c1-9925-d4306b203b6f.htm" />
           <HelpTOCNode Title="GetNullRange メソッド " Url="html/3a99c586-d317-40f0-ff22-6af8d0058a90.htm" />
-          <HelpTOCNode Id="b2c51f14-9a52-4c41-9ba1-f22a6b58fe6f" Title="GetRemappings メソッド " Url="html/3801dae0-a948-9378-709e-4f085c6ee054.htm">
+          <HelpTOCNode Id="da322db5-91f0-44ab-ae54-5ff7b4f767bf" Title="GetRemappings メソッド " Url="html/3801dae0-a948-9378-709e-4f085c6ee054.htm">
             <HelpTOCNode Title="GetRemappings メソッド (String)" Url="html/6f2f56d3-074b-2681-fd4f-aff2dc90663e.htm" />
             <HelpTOCNode Title="GetRemappings メソッド (String[])" Url="html/c4c224aa-8bb6-bcdd-9572-f18e1ba84818.htm" />
           </HelpTOCNode>
@@ -80,9 +80,9 @@
           <HelpTOCNode Title="ToggleCrashRecovery メソッド " Url="html/4efe2c5c-c8bb-8956-e490-c3f4ad9cbd06.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a9e1a30e-52f0-4a3e-aa40-3e57815c6374" Title="ClangCodeCompleteResults クラス" Url="html/3316fd20-984c-d536-7283-ec9bbe14898e.htm">
+      <HelpTOCNode Id="e528e025-3caa-4e58-9850-d2553a404325" Title="ClangCodeCompleteResults クラス" Url="html/3316fd20-984c-d536-7283-ec9bbe14898e.htm">
         <HelpTOCNode Title="ClangCodeCompleteResults コンストラクター " Url="html/c76a1aab-3685-8079-1b05-f8730faa28d2.htm" />
-        <HelpTOCNode Id="392e46cb-f6bc-433e-b58b-cda9505579a8" Title="ClangCodeCompleteResults プロパティ" Url="html/d0e7747f-eb27-2028-c775-b69a47ae1aa4.htm">
+        <HelpTOCNode Id="335840de-6a4c-4551-920f-a007afda1757" Title="ClangCodeCompleteResults プロパティ" Url="html/d0e7747f-eb27-2028-c775-b69a47ae1aa4.htm">
           <HelpTOCNode Title="ContainerUSR プロパティ " Url="html/7e1487a2-d743-cf70-dff5-30c11c56a142.htm" />
           <HelpTOCNode Title="Contexts プロパティ " Url="html/59d2957a-9bb9-4ec2-7926-6dbf02ac3ee2.htm" />
           <HelpTOCNode Title="DiagnosticsCount プロパティ " Url="html/80394cf5-d696-32f2-e2fa-22a8947663e5.htm" />
@@ -92,7 +92,7 @@
           <HelpTOCNode Title="Results プロパティ " Url="html/f8d8e902-7223-f6ff-c883-12590052e3b3.htm" />
           <HelpTOCNode Title="Source プロパティ " Url="html/ae1352e5-93ee-7527-b50f-04368ca32e4b.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="96af66b5-400c-4327-858a-886787a8e8f2" Title="ClangCodeCompleteResults メソッド" Url="html/0eb3695f-13c3-b809-eff8-f46bea3b200c.htm">
+        <HelpTOCNode Id="05c899ce-58c0-4083-a26d-646e49ec1e06" Title="ClangCodeCompleteResults メソッド" Url="html/0eb3695f-13c3-b809-eff8-f46bea3b200c.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/ad3cf3af-5230-19ec-9d9d-610ce22f7be9.htm" />
           <HelpTOCNode Title="GetCompletionFixIt メソッド " Url="html/6932544e-efd9-e789-3513-1af31be47717.htm" />
           <HelpTOCNode Title="GetCompletionNumFixIts メソッド " Url="html/d7f43325-a649-6281-5a75-65cacf7e350d.htm" />
@@ -101,17 +101,17 @@
           <HelpTOCNode Title="Sort メソッド " Url="html/9fb53070-f168-f980-5653-b213b0beac0e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="03edaf0e-a95a-4556-a94a-4b6cf5abc363" Title="ClangCommandLineOptions 構造体" Url="html/17373a03-5011-811b-162b-5b7930b3870b.htm">
+      <HelpTOCNode Id="2e0d66f1-7fca-4856-a444-02e97b97beab" Title="ClangCommandLineOptions 構造体" Url="html/17373a03-5011-811b-162b-5b7930b3870b.htm">
         <HelpTOCNode Title="ClangCommandLineOptions コンストラクター " Url="html/2482baf8-ea49-2189-a22e-005a7160791c.htm" />
-        <HelpTOCNode Id="d166a969-47d6-455c-845f-9a87bfd6b9d8" Title="ClangCommandLineOptions プロパティ" Url="html/75298b2e-570d-9810-0d52-8e89be38273c.htm">
+        <HelpTOCNode Id="b299c950-56e7-4c21-8b75-c165da6cc3a1" Title="ClangCommandLineOptions プロパティ" Url="html/75298b2e-570d-9810-0d52-8e89be38273c.htm">
           <HelpTOCNode Title="Disable プロパティ " Url="html/91c854d7-5623-67e4-218f-f2f29a94b681.htm" />
           <HelpTOCNode Title="Enable プロパティ " Url="html/8a83007e-2035-9352-f3c7-b00a225b74c9.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangCommandLineOptions メソッド" Url="html/540633ea-ad8f-1554-458e-27712dec0ff8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2ca7c338-d27d-4302-9afa-c71f52c3caa5" Title="ClangComment クラス" Url="html/b6dcf5d2-08a5-6a4e-eeed-590197e03da6.htm">
+      <HelpTOCNode Id="ad90cdab-a4cf-4fd7-a2ea-6ad1aa3dca7b" Title="ClangComment クラス" Url="html/b6dcf5d2-08a5-6a4e-eeed-590197e03da6.htm">
         <HelpTOCNode Title="ClangComment コンストラクター " Url="html/53dc8289-6c30-e086-7742-e9486438ddf8.htm" />
-        <HelpTOCNode Id="280da744-d2d8-43d2-a1bf-e5d07f7bb487" Title="ClangComment プロパティ" Url="html/6b353e27-54cf-6788-2359-9d890e77eb41.htm">
+        <HelpTOCNode Id="5b1e02fc-4fe5-49fb-8df3-f3bd874a82a0" Title="ClangComment プロパティ" Url="html/6b353e27-54cf-6788-2359-9d890e77eb41.htm">
           <HelpTOCNode Title="BlockCommandArgumentCount プロパティ " Url="html/1156efeb-b91f-b792-3d82-221caac0e2bf.htm" />
           <HelpTOCNode Title="BlockCommandName プロパティ " Url="html/7b03d072-5e0e-af21-5dd7-b068cdbb2d16.htm" />
           <HelpTOCNode Title="BlockCommandParagraph プロパティ " Url="html/18bf410e-d247-868e-c82e-ae8e4cffda3c.htm" />
@@ -140,7 +140,7 @@
           <HelpTOCNode Title="Text プロパティ " Url="html/a02ea98e-ced5-146b-fb56-fdbab86c4800.htm" />
           <HelpTOCNode Title="VerbatimeLineText プロパティ " Url="html/4081dc95-6c27-954d-fb70-e418787ea083.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b1e0938b-e471-4d26-9a40-c1bf9ce59e4e" Title="ClangComment メソッド" Url="html/3d449f01-8de1-fb9f-6d59-4f41b5c0161f.htm">
+        <HelpTOCNode Id="e6dd0662-eb48-4945-91d3-b90a630c1e0d" Title="ClangComment メソッド" Url="html/3d449f01-8de1-fb9f-6d59-4f41b5c0161f.htm">
           <HelpTOCNode Title="GetBlockCommandArgumentText メソッド " Url="html/9f2d5a9e-fc99-489c-3620-25a5e1ebffd6.htm" />
           <HelpTOCNode Title="GetChild メソッド " Url="html/48ea1db8-5b40-648e-a237-a9c8622206f7.htm" />
           <HelpTOCNode Title="GetHtmlStartTagAttributeName メソッド " Url="html/e4107762-6eba-d399-0bd4-b17e7c929bdf.htm" />
@@ -149,43 +149,43 @@
           <HelpTOCNode Title="GetTemplateParamCommandIndex メソッド " Url="html/d44b451f-d688-7a74-a683-29341b07c980.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a7b76edf-57d6-43ac-824f-80a0f0bd86ae" Title="ClangCompilationDatabase クラス" Url="html/cccc4733-86c9-d40b-7a17-c9a6f4282803.htm">
+      <HelpTOCNode Id="d1a3cb13-4c25-45c3-a2df-4375782fd71f" Title="ClangCompilationDatabase クラス" Url="html/cccc4733-86c9-d40b-7a17-c9a6f4282803.htm">
         <HelpTOCNode Title="ClangCompilationDatabase コンストラクター " Url="html/c5051223-ea98-b0e6-6ea2-b311dad5c11a.htm" />
-        <HelpTOCNode Id="d114b4f2-a1db-4a35-b86b-e77e8ba4c1eb" Title="ClangCompilationDatabase プロパティ" Url="html/1e5f9880-4add-3fca-06db-bd468be07ade.htm">
+        <HelpTOCNode Id="46bb6142-88c9-4ea6-aa72-4ee68861b09a" Title="ClangCompilationDatabase プロパティ" Url="html/1e5f9880-4add-3fca-06db-bd468be07ade.htm">
           <HelpTOCNode Title="AllCompileCommands プロパティ " Url="html/f89d7cbf-6b0c-bd41-e95f-d45837e80a41.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c89b3702-7d13-437e-b058-e84e0ed19cde" Title="ClangCompilationDatabase メソッド" Url="html/aba88d6d-2236-8be0-d1a7-8e71c45c1a20.htm">
+        <HelpTOCNode Id="ca0e5860-cc38-40dd-bc95-227e7b4223ae" Title="ClangCompilationDatabase メソッド" Url="html/aba88d6d-2236-8be0-d1a7-8e71c45c1a20.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/99cba014-1f77-f4ca-d749-c4627a3d6ac5.htm" />
           <HelpTOCNode Title="GetCompileCommands メソッド " Url="html/5f4c30fb-7c1f-c806-89a8-62ec89b7a314.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="deb7336f-dc7e-4a3e-9816-595c2e4268a5" Title="ClangCompileCommand クラス" Url="html/fb58c47f-7d7f-82c6-4846-920651e5280e.htm">
+      <HelpTOCNode Id="abc433f2-51ce-4035-9834-cb5c787d9ec6" Title="ClangCompileCommand クラス" Url="html/fb58c47f-7d7f-82c6-4846-920651e5280e.htm">
         <HelpTOCNode Title="ClangCompileCommand コンストラクター " Url="html/e098cbe8-7e7d-e25b-30d6-20d7b7be61e2.htm" />
-        <HelpTOCNode Id="9ed39592-d397-45e3-98df-25a4ce0b1f0f" Title="ClangCompileCommand プロパティ" Url="html/bdc8daea-7672-5724-d5ea-0f6dd6d38822.htm">
+        <HelpTOCNode Id="e8648edd-bda1-4547-ba60-1d71a9ab3fcf" Title="ClangCompileCommand プロパティ" Url="html/bdc8daea-7672-5724-d5ea-0f6dd6d38822.htm">
           <HelpTOCNode Title="ArgumentCount プロパティ " Url="html/c88abe1d-e080-a25e-a929-88c1de88560e.htm" />
           <HelpTOCNode Title="Directory プロパティ " Url="html/02d45e9a-2d76-1bc3-248f-230f8d04750d.htm" />
           <HelpTOCNode Title="Filename プロパティ " Url="html/0c466a1d-ad13-d4c5-2c07-1ccbe12e7b7e.htm" />
           <HelpTOCNode Title="MappedSourceCount プロパティ " Url="html/dc397e45-50c0-a4df-32cd-f890fe7aa3fa.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ffa94543-e6b6-4aee-b805-a2c51a93c8e4" Title="ClangCompileCommand メソッド" Url="html/62da63c2-4550-8916-873d-3fdb7460f1c2.htm">
+        <HelpTOCNode Id="68fa2493-d66b-44bc-872f-1dd6f39764ef" Title="ClangCompileCommand メソッド" Url="html/62da63c2-4550-8916-873d-3fdb7460f1c2.htm">
           <HelpTOCNode Title="GetArgument メソッド " Url="html/297b33d8-ff6d-4415-e26a-211cd660e03a.htm" />
           <HelpTOCNode Title="GetMappedSourceContent メソッド " Url="html/657bec0f-a619-e1d7-9645-b9f82a3678d3.htm" />
           <HelpTOCNode Title="GetMappedSourcePath メソッド " Url="html/68e77eb4-4363-bbf5-25fd-7c5f5ae3976d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="830f7735-a1df-4f7a-bcca-163c841d2f78" Title="ClangCompileCommands クラス" Url="html/2141646b-adbc-bf6a-80de-1065ac1319c6.htm">
+      <HelpTOCNode Id="a2e6bca5-5ccf-42b3-ba45-1b1996c3390c" Title="ClangCompileCommands クラス" Url="html/2141646b-adbc-bf6a-80de-1065ac1319c6.htm">
         <HelpTOCNode Title="ClangCompileCommands コンストラクター " Url="html/e64dba74-17af-8d01-8064-bc677fb07f10.htm" />
-        <HelpTOCNode Id="3e3c6850-a89e-43a1-a31d-200bb30550a5" Title="ClangCompileCommands プロパティ" Url="html/cbef091a-269d-b782-4f00-969194c8a815.htm">
+        <HelpTOCNode Id="4fa883b2-c756-401e-b3ba-5b4e42532b5b" Title="ClangCompileCommands プロパティ" Url="html/cbef091a-269d-b782-4f00-969194c8a815.htm">
           <HelpTOCNode Title="Count プロパティ " Url="html/aa3e0ef8-3bc7-3021-6a2a-2c4d7c3c03ec.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0819bcb2-0810-4dea-9b11-c11b78d514e9" Title="ClangCompileCommands メソッド" Url="html/07f5a632-361f-2571-ed93-01faeede9e1d.htm">
+        <HelpTOCNode Id="c5febbc8-e08d-4486-b507-87e7e8ed085e" Title="ClangCompileCommands メソッド" Url="html/07f5a632-361f-2571-ed93-01faeede9e1d.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/216f97bd-90fd-f8ff-de04-7211eac23018.htm" />
           <HelpTOCNode Title="GetCommand メソッド " Url="html/92a51f48-4a22-f2c0-be38-851aaac2e098.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="882cfec1-5770-484a-8688-15f5257158ad" Title="ClangCompletionChunk 構造体" Url="html/3748dd85-6e56-f45e-c5a8-162c0240f588.htm">
+      <HelpTOCNode Id="8f68bcc3-7456-4141-a190-7e9be7eeeec6" Title="ClangCompletionChunk 構造体" Url="html/3748dd85-6e56-f45e-c5a8-162c0240f588.htm">
         <HelpTOCNode Title="ClangCompletionChunk コンストラクター " Url="html/95e5cd9b-8001-6b68-b944-cc3746266e30.htm" />
-        <HelpTOCNode Id="28743454-6608-455a-9854-d8bdaaae1c73" Title="ClangCompletionChunk プロパティ" Url="html/5d383a85-b1fd-da05-2ec4-288cabad5daa.htm">
+        <HelpTOCNode Id="08063044-99a3-4e36-947c-1c52cd0db07c" Title="ClangCompletionChunk プロパティ" Url="html/5d383a85-b1fd-da05-2ec4-288cabad5daa.htm">
           <HelpTOCNode Title="CompletionString プロパティ " Url="html/01e7fce2-eb7f-d464-976a-50c89ac60f29.htm" />
           <HelpTOCNode Title="Index プロパティ " Url="html/8bfd3c74-74e0-7dc0-2446-a33eb7e7c39b.htm" />
           <HelpTOCNode Title="Kind プロパティ " Url="html/2e4101cc-2510-9af0-9ce8-a87b19ef3bd7.htm" />
@@ -194,18 +194,18 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangCompletionChunk メソッド" Url="html/e18d936f-ecb2-4284-fe62-f14d7c18605b.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="f2bcc66a-4cef-4d6e-b657-1a97af4b9330" Title="ClangCompletionResult クラス" Url="html/90fe0d38-4227-cb24-1c20-0b1139db0bc6.htm">
+      <HelpTOCNode Id="4de3bf0f-0c1c-45bc-9bd4-963288d8956e" Title="ClangCompletionResult クラス" Url="html/90fe0d38-4227-cb24-1c20-0b1139db0bc6.htm">
         <HelpTOCNode Title="ClangCompletionResult コンストラクター " Url="html/4d582333-482f-f29f-c9e8-7e67ce7cfda3.htm" />
-        <HelpTOCNode Id="7dbdfd99-dfaf-4974-bba1-445074ba0498" Title="ClangCompletionResult プロパティ" Url="html/c26ecbb4-22fe-409e-29de-4b3dd5bc4fc8.htm">
+        <HelpTOCNode Id="9abc7467-8da5-49a4-b7a7-5d6cee8e5645" Title="ClangCompletionResult プロパティ" Url="html/c26ecbb4-22fe-409e-29de-4b3dd5bc4fc8.htm">
           <HelpTOCNode Title="CompletionString プロパティ " Url="html/6a7bad3a-7bd9-1dd5-7381-5771a4c3ef3b.htm" />
           <HelpTOCNode Title="CursorKind プロパティ " Url="html/ed9ec78c-8cbf-1b3a-71a2-1e3c4c3dc7c4.htm" />
           <HelpTOCNode Title="Source プロパティ " Url="html/8d5c3259-cbeb-6266-c0da-da4b58ac123b.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangCompletionResult メソッド" Url="html/f8c63f2f-aece-8f22-9423-88a8a410ddcc.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1fd202cf-93f8-493c-9381-42a813befee8" Title="ClangCompletionString クラス" Url="html/6acdd678-ef4c-b4e4-f080-99640835f1e1.htm">
+      <HelpTOCNode Id="c9c1e0f7-726d-4d19-8bd1-4c1b5925d466" Title="ClangCompletionString クラス" Url="html/6acdd678-ef4c-b4e4-f080-99640835f1e1.htm">
         <HelpTOCNode Title="ClangCompletionString コンストラクター " Url="html/59477654-a899-6b77-fdea-e015adf34ceb.htm" />
-        <HelpTOCNode Id="af616143-1ff8-4074-9f16-7fede44fe529" Title="ClangCompletionString プロパティ" Url="html/f28eeb19-c783-59f6-da29-ece816bc898b.htm">
+        <HelpTOCNode Id="90f0a164-d37b-4474-9d5c-172b48d005ff" Title="ClangCompletionString プロパティ" Url="html/f28eeb19-c783-59f6-da29-ece816bc898b.htm">
           <HelpTOCNode Title="AnnotationCount プロパティ " Url="html/d63e7db8-be36-15a4-b5dc-9d93d30c86b7.htm" />
           <HelpTOCNode Title="Availability プロパティ " Url="html/0650440c-28fe-a3a5-aca2-8da9d5416a5f.htm" />
           <HelpTOCNode Title="BriefComment プロパティ " Url="html/722dd3d6-bb49-a40d-f25b-f97121764670.htm" />
@@ -214,13 +214,13 @@
           <HelpTOCNode Title="Parent プロパティ " Url="html/4b118de5-804a-2429-9337-d4a7b2bb069d.htm" />
           <HelpTOCNode Title="Priority プロパティ " Url="html/486abb35-4e64-e873-45fb-6fe19830b747.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c5d7b0cd-94d0-4a49-a56b-d137fff94c00" Title="ClangCompletionString メソッド" Url="html/e6932612-7617-ee65-2db4-09f144a05ca4.htm">
+        <HelpTOCNode Id="964d92c7-817d-49d2-89a9-89fee70f4ab0" Title="ClangCompletionString メソッド" Url="html/e6932612-7617-ee65-2db4-09f144a05ca4.htm">
           <HelpTOCNode Title="GetAnnotation メソッド " Url="html/4cb971a5-bab6-5b7a-0318-26023c42fe78.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b0aa4186-1bbb-48e5-8ef6-31bd986a5cbb" Title="ClangCursor クラス" Url="html/af44488f-0f54-8f1f-594f-c3dafa6e14e1.htm">
+      <HelpTOCNode Id="7d59ab1e-f47c-456c-9f5b-e61a0be7e8c2" Title="ClangCursor クラス" Url="html/af44488f-0f54-8f1f-594f-c3dafa6e14e1.htm">
         <HelpTOCNode Title="ClangCursor コンストラクター " Url="html/e5e59468-3563-d391-f756-e2c96660070f.htm" />
-        <HelpTOCNode Id="9dfc2664-0076-455d-8097-6baba984e9b8" Title="ClangCursor プロパティ" Url="html/d2886660-6f48-bbd5-55b4-f49884d0a62b.htm">
+        <HelpTOCNode Id="628cc647-3a56-4c14-b10b-05d47794e707" Title="ClangCursor プロパティ" Url="html/d2886660-6f48-bbd5-55b4-f49884d0a62b.htm">
           <HelpTOCNode Title="ArgumentCount プロパティ " Url="html/28c987a6-0b2d-cbd0-f638-0f430c1e4065.htm" />
           <HelpTOCNode Title="Availability プロパティ " Url="html/918195e4-b041-cb4d-3c11-c3d7d6ce8cff.htm" />
           <HelpTOCNode Title="BriefComment プロパティ " Url="html/30fe6258-b358-4fe3-2524-4bccd510437f.htm" />
@@ -302,7 +302,7 @@
           <HelpTOCNode Title="USR プロパティ " Url="html/9b8318ac-6927-1c5d-adfd-df8a3babf28d.htm" />
           <HelpTOCNode Title="Visibility プロパティ " Url="html/bbb65808-5b76-fa75-6796-845054a76d37.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3fbcd64a-bfec-437f-a9fa-33628c037858" Title="ClangCursor メソッド" Url="html/be310063-054a-6b19-c73f-b9f80e29b890.htm">
+        <HelpTOCNode Id="8431e33c-9864-4a5a-a4d2-a41db3fc27d5" Title="ClangCursor メソッド" Url="html/be310063-054a-6b19-c73f-b9f80e29b890.htm">
           <HelpTOCNode Title="CreateCursorAndRangeVisitor メソッド " Url="html/1ec87609-deca-0f70-6925-16d918db7b64.htm" />
           <HelpTOCNode Title="EqualsCore メソッド " Url="html/bb490991-1aa1-8470-bff8-cb45da5c0c64.htm" />
           <HelpTOCNode Title="FindReferenceInFile メソッド " Url="html/f8b682c4-014d-7a64-1778-a62c285e17d7.htm" />
@@ -322,18 +322,18 @@
           <HelpTOCNode Title="VisitChildren(T) メソッド " Url="html/d3af527a-77bd-5201-762d-9ee860954a48.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="067c4c6f-2679-4c0c-abfa-cbebe581f5c2" Title="ClangCursorSet クラス" Url="html/ee24cb09-3f1c-2704-fdf9-7350700de3b3.htm">
+      <HelpTOCNode Id="3bfe05df-cf0a-4559-bea6-f492da742612" Title="ClangCursorSet クラス" Url="html/ee24cb09-3f1c-2704-fdf9-7350700de3b3.htm">
         <HelpTOCNode Title="ClangCursorSet コンストラクター " Url="html/788ea2a1-6dca-4b52-d7bc-4fc5047cf724.htm" />
         <HelpTOCNode Title="ClangCursorSet プロパティ" Url="html/ec7cb1b7-185f-b3f9-981f-564a1ca54970.htm" />
-        <HelpTOCNode Id="6a5d4c51-8797-4c58-b11d-1fc0be20f7d9" Title="ClangCursorSet メソッド" Url="html/7222b81a-4bd4-81fc-f91e-f3890e5cdfd6.htm">
+        <HelpTOCNode Id="3605c9d1-2877-45b9-85f7-a89c8f611972" Title="ClangCursorSet メソッド" Url="html/7222b81a-4bd4-81fc-f91e-f3890e5cdfd6.htm">
           <HelpTOCNode Title="Containes メソッド " Url="html/47716530-2f0a-1cd2-8875-de2bf7d0359e.htm" />
           <HelpTOCNode Title="Dispose メソッド " Url="html/b806fc1c-20a9-17f9-0f0d-e564f087c6bd.htm" />
           <HelpTOCNode Title="Insert メソッド " Url="html/5630c85a-fa5c-95cb-c7dc-d87327b49e6d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="56abb7fa-c88f-48a7-b7ec-0c1bc01114d1" Title="ClangDiagnostic クラス" Url="html/6102fb20-667e-9c4d-b556-200911d5fc79.htm">
+      <HelpTOCNode Id="0738a4d7-8f1c-483a-b3e6-99a71e00e0e4" Title="ClangDiagnostic クラス" Url="html/6102fb20-667e-9c4d-b556-200911d5fc79.htm">
         <HelpTOCNode Title="ClangDiagnostic コンストラクター " Url="html/bbca0c32-7aa5-594d-b19f-4d271d6eddb0.htm" />
-        <HelpTOCNode Id="bcf9ec2a-4c03-4c9d-90a7-9cc9adec4a15" Title="ClangDiagnostic プロパティ" Url="html/7e925335-e2e8-067b-558d-783df7daa6bb.htm">
+        <HelpTOCNode Id="0965ac7c-776c-4844-9df0-0ed0565d9e77" Title="ClangDiagnostic プロパティ" Url="html/7e925335-e2e8-067b-558d-783df7daa6bb.htm">
           <HelpTOCNode Title="Category プロパティ " Url="html/b75aa622-0b4e-177f-4436-0c31bb793e38.htm" />
           <HelpTOCNode Title="CategoryText プロパティ " Url="html/01a5ac45-c5a6-4e9c-2a8c-1cf2b0dc1da7.htm" />
           <HelpTOCNode Title="ChildDiagnostics プロパティ " Url="html/b95d9137-3c60-a74c-fb2f-905144720758.htm" />
@@ -344,9 +344,9 @@
           <HelpTOCNode Title="RangeCount プロパティ " Url="html/8b1da2f3-861d-e457-49bd-948a58ce6e9f.htm" />
           <HelpTOCNode Title="Severity プロパティ " Url="html/c2d15bcc-044c-793f-b83a-9163b0e6b4dd.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8af164f5-abf8-4f95-b413-0abd8cf9b01e" Title="ClangDiagnostic メソッド" Url="html/56217077-f1d9-dd6f-3489-03de1483394c.htm">
+        <HelpTOCNode Id="ae432f5d-6a50-4101-8b7f-4701a9b8a01e" Title="ClangDiagnostic メソッド" Url="html/56217077-f1d9-dd6f-3489-03de1483394c.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/d65619b9-dea8-ae1d-00a0-d429556d26da.htm" />
-          <HelpTOCNode Id="cf264fae-61ee-402a-9412-f55bb4a05130" Title="FormatDiagnostic メソッド " Url="html/55894a06-9334-a625-e325-228833be9297.htm">
+          <HelpTOCNode Id="7a7b156f-2c5d-4526-9196-1636e9fb9362" Title="FormatDiagnostic メソッド " Url="html/55894a06-9334-a625-e325-228833be9297.htm">
             <HelpTOCNode Title="FormatDiagnostic メソッド " Url="html/669f18d8-bed4-367e-6711-dc6f6bc243fb.htm" />
             <HelpTOCNode Title="FormatDiagnostic メソッド (DiagnosticDisplayOptions)" Url="html/d7029953-1a56-0300-41c1-ea0051cb7e5c.htm" />
           </HelpTOCNode>
@@ -354,29 +354,29 @@
           <HelpTOCNode Title="GetFixIt メソッド " Url="html/29ee4ac5-50bc-3112-e5d1-820511d3008e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="18a8bde5-0c7c-4058-b81f-86c7496e522f" Title="ClangDiagnosticCategory 構造体" Url="html/ae747d58-8f20-5898-a332-ec1e0dc7e500.htm">
+      <HelpTOCNode Id="ded8e2f2-f50b-4440-8580-955b56fd99e4" Title="ClangDiagnosticCategory 構造体" Url="html/ae747d58-8f20-5898-a332-ec1e0dc7e500.htm">
         <HelpTOCNode Title="ClangDiagnosticCategory コンストラクター " Url="html/13bda1cf-ad92-5ef2-1880-e2094a2090d7.htm" />
-        <HelpTOCNode Id="ef4eeb48-b246-4314-8ef1-e3535b46809d" Title="ClangDiagnosticCategory プロパティ" Url="html/0a5ca473-b35d-ff15-dad7-7579d5a412b2.htm">
+        <HelpTOCNode Id="06491cd4-777c-40b9-97c1-bc2f2d83602d" Title="ClangDiagnosticCategory プロパティ" Url="html/0a5ca473-b35d-ff15-dad7-7579d5a412b2.htm">
           <HelpTOCNode Title="Name プロパティ " Url="html/c5319ddc-f18b-d7ef-b3bd-e1bcf679ddb3.htm" />
           <HelpTOCNode Title="Number プロパティ " Url="html/9f659eca-04cc-23f6-7e4e-9cfa5d828be8.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangDiagnosticCategory メソッド" Url="html/564c736a-91f3-574d-3c5f-8bb46c11bcc6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8f0fb7e9-54c5-48c4-bf8a-85128029a140" Title="ClangDiagnosticSet クラス" Url="html/d547d8b7-6cbd-d188-93c7-2e36a05c0c7b.htm">
+      <HelpTOCNode Id="000b32d4-ca39-4472-92ff-8c23ed0c5c9f" Title="ClangDiagnosticSet クラス" Url="html/d547d8b7-6cbd-d188-93c7-2e36a05c0c7b.htm">
         <HelpTOCNode Title="ClangDiagnosticSet コンストラクター " Url="html/f9fe1cfb-6cb4-231c-aefc-2e2234515c49.htm" />
-        <HelpTOCNode Id="44db9132-92a5-4eef-90c8-4017c215126e" Title="ClangDiagnosticSet プロパティ" Url="html/9b7b8d99-30db-af79-59e5-bce24ab97722.htm">
+        <HelpTOCNode Id="aa35f816-1744-4f70-ab12-f34a928844f2" Title="ClangDiagnosticSet プロパティ" Url="html/9b7b8d99-30db-af79-59e5-bce24ab97722.htm">
           <HelpTOCNode Title="Count プロパティ " Url="html/a8930bbb-575b-772e-f880-6ae8e20f67fc.htm" />
           <HelpTOCNode Title="Item プロパティ " Url="html/ce1e5dc0-1a7c-5f10-18d9-58f6348f1b55.htm" />
           <HelpTOCNode Title="Items プロパティ " Url="html/69880e25-0cce-ace6-0c75-b165bc6900ea.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="42614467-6b4b-47b3-8ff8-beacc5612b87" Title="ClangDiagnosticSet メソッド" Url="html/2aa87a60-5bfb-55f0-c029-8388803ab51d.htm">
+        <HelpTOCNode Id="c9dc614b-29e8-4078-9578-f789983a822e" Title="ClangDiagnosticSet メソッド" Url="html/2aa87a60-5bfb-55f0-c029-8388803ab51d.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/14b81eac-d610-6f6f-dd59-80b1d26b2a3b.htm" />
           <HelpTOCNode Title="Get メソッド " Url="html/084f1b51-87f5-5e09-458b-7ff9081b78ae.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="916805f0-4950-496b-86af-26e0c45a55c5" Title="ClangEvaluationResult クラス" Url="html/9b587d86-7b73-f96b-2ea2-b1161e550ebc.htm">
+      <HelpTOCNode Id="8973ed22-0247-46e4-9fba-68b5ff44c433" Title="ClangEvaluationResult クラス" Url="html/9b587d86-7b73-f96b-2ea2-b1161e550ebc.htm">
         <HelpTOCNode Title="ClangEvaluationResult コンストラクター " Url="html/15bea108-9256-65f4-d546-e841b71d8278.htm" />
-        <HelpTOCNode Id="da95cc2b-3dd1-43a4-9d2d-ae91120b1de7" Title="ClangEvaluationResult プロパティ" Url="html/17c06f85-8883-1122-fdd6-f9ab95efb257.htm">
+        <HelpTOCNode Id="9be5731f-ad7a-4413-b809-598f06058568" Title="ClangEvaluationResult プロパティ" Url="html/17c06f85-8883-1122-fdd6-f9ab95efb257.htm">
           <HelpTOCNode Title="AsDouble プロパティ " Url="html/db5751e6-c2e3-8064-704e-9d425a3ced63.htm" />
           <HelpTOCNode Title="AsInt プロパティ " Url="html/9f64882e-70dc-cd15-4567-46a9c6862789.htm" />
           <HelpTOCNode Title="AsLong プロパティ " Url="html/051abdd6-9cac-7760-bd5e-06c34c2dfcde.htm" />
@@ -385,83 +385,83 @@
           <HelpTOCNode Title="IsUnsignedInt プロパティ " Url="html/44408c2b-b61b-6e55-d6f1-1efc0fa15bf2.htm" />
           <HelpTOCNode Title="Kind プロパティ " Url="html/8fab9b2a-0bd1-66e9-f234-fa826aa6b1a5.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c53ae10e-4f4d-44d2-9393-ce0e059f5374" Title="ClangEvaluationResult メソッド" Url="html/5b2dff2c-72dd-2d3c-ea15-0eee327b3f61.htm">
+        <HelpTOCNode Id="10958df5-8f79-4712-a63a-153a6241808c" Title="ClangEvaluationResult メソッド" Url="html/5b2dff2c-72dd-2d3c-ea15-0eee327b3f61.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/13873ecc-6cde-179a-88cb-b0c396f24189.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="58c1a0bb-c618-4319-a717-085dba2249b7" Title="ClangFile クラス" Url="html/36f213f8-ed8b-83c7-7bd2-ba10348c05fa.htm">
+      <HelpTOCNode Id="2574db05-1d18-4964-adc7-e923eb81bc46" Title="ClangFile クラス" Url="html/36f213f8-ed8b-83c7-7bd2-ba10348c05fa.htm">
         <HelpTOCNode Title="ClangFile コンストラクター " Url="html/f0b80993-8473-3c05-1d4d-f6f71164b026.htm" />
-        <HelpTOCNode Id="7fd92ff2-ae19-48fd-a7b0-a76602fd16f8" Title="ClangFile プロパティ" Url="html/213f7cc3-f9f8-1b48-e1be-eb4bb1c321a6.htm">
+        <HelpTOCNode Id="e91cb8e8-6fd7-4cea-86f3-38c1c5fdc2aa" Title="ClangFile プロパティ" Url="html/213f7cc3-f9f8-1b48-e1be-eb4bb1c321a6.htm">
           <HelpTOCNode Title="FileName プロパティ " Url="html/8d4bf103-80c9-2938-c4da-9fe17a405208.htm" />
           <HelpTOCNode Title="FileTime プロパティ " Url="html/94136457-fa59-55bb-c688-69aa45a77bbf.htm" />
           <HelpTOCNode Title="FileUniqueId プロパティ " Url="html/60fcb6ba-19cb-9248-afed-cb5de8da1379.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="681eb879-9541-4d78-bdcf-08ec902783cc" Title="ClangFile メソッド" Url="html/c9baad9c-94bc-ff10-c162-c1b3765073fa.htm">
+        <HelpTOCNode Id="e9aa9a6d-dfa7-48e0-a403-10d0bb046bc8" Title="ClangFile メソッド" Url="html/c9baad9c-94bc-ff10-c162-c1b3765073fa.htm">
           <HelpTOCNode Title="ToString メソッド " Url="html/1fc5d8d9-848a-d6c5-1c80-8aec16b01c49.htm" />
           <HelpTOCNode Title="TryGetRealPathName メソッド " Url="html/bf5610d9-6336-efce-e7b5-4f0630343a46.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="89253124-fc5e-4565-a6c5-4f4af2f3bd6b" Title="ClangFileNameMap 構造体" Url="html/d75b4191-a7fd-be1e-0cd5-d58d7955218d.htm">
+      <HelpTOCNode Id="a9fef361-1059-4258-9e21-82899ad995dc" Title="ClangFileNameMap 構造体" Url="html/d75b4191-a7fd-be1e-0cd5-d58d7955218d.htm">
         <HelpTOCNode Title="ClangFileNameMap コンストラクター " Url="html/c56fb28a-a2b1-d5fc-a2bf-da41cf213450.htm" />
-        <HelpTOCNode Id="755ec8fc-da2d-4526-a794-d057147446a6" Title="ClangFileNameMap プロパティ" Url="html/77af3c57-11e3-d3fb-dfc9-804472587b45.htm">
+        <HelpTOCNode Id="cf1dfbe9-2a07-43a2-83e8-62615f6d9f1a" Title="ClangFileNameMap プロパティ" Url="html/77af3c57-11e3-d3fb-dfc9-804472587b45.htm">
           <HelpTOCNode Title="Original プロパティ " Url="html/64d23d0e-ad82-4c48-1ca6-04f52b77780b.htm" />
           <HelpTOCNode Title="Transformed プロパティ " Url="html/81070061-92d3-bd6a-4ff0-fe5554ccbeee.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangFileNameMap メソッド" Url="html/b2498b84-d428-1fe8-7a41-417ffa55cc07.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c568a7a1-5931-4d7d-8196-c90e0da687e1" Title="ClangFileUniqueId クラス" Url="html/46ba795b-9bcd-8d1d-1af5-a6cb656f2807.htm">
+      <HelpTOCNode Id="e5642026-2aa1-44c6-b3ed-874897e98df8" Title="ClangFileUniqueId クラス" Url="html/46ba795b-9bcd-8d1d-1af5-a6cb656f2807.htm">
         <HelpTOCNode Title="ClangFileUniqueId コンストラクター " Url="html/1e2f1bf4-9bf4-5280-f19b-75617f930610.htm" />
-        <HelpTOCNode Id="22bafa9b-6961-47a1-9355-04f95509eeba" Title="ClangFileUniqueId プロパティ" Url="html/a088660a-2d5b-27d4-8f07-89a6487c8955.htm">
+        <HelpTOCNode Id="774fc322-984a-45fb-8bbc-99881e8928aa" Title="ClangFileUniqueId プロパティ" Url="html/a088660a-2d5b-27d4-8f07-89a6487c8955.htm">
           <HelpTOCNode Title="Source プロパティ " Url="html/af620d67-4083-ba97-89d0-89d977e62e93.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bfa2719a-f549-4ecc-9516-14a5ebf51977" Title="ClangFileUniqueId メソッド" Url="html/6a2a9ca0-2a6f-3c16-5fec-10d3e71a10ee.htm">
+        <HelpTOCNode Id="7fc97bd5-ecbd-4666-9ab9-4a4969dd9926" Title="ClangFileUniqueId メソッド" Url="html/6a2a9ca0-2a6f-3c16-5fec-10d3e71a10ee.htm">
           <HelpTOCNode Title="EqualsCore メソッド " Url="html/9c410aa6-2655-1c8b-ae1b-3161748b06e8.htm" />
           <HelpTOCNode Title="GetHashCodeCore メソッド " Url="html/e77609d0-dc36-5289-04de-7f09dff198ee.htm" />
           <HelpTOCNode Title="ToString メソッド " Url="html/e478c93d-cd0e-2506-1928-b474595702d5.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="385317e1-32dc-4508-9ab3-0aea56ee4574" Title="ClangFixIt 構造体" Url="html/5ab255b6-9796-f26a-25c9-d183e56b55e8.htm">
+      <HelpTOCNode Id="37483da6-c6de-4745-a1d8-5f73c342506b" Title="ClangFixIt 構造体" Url="html/5ab255b6-9796-f26a-25c9-d183e56b55e8.htm">
         <HelpTOCNode Title="ClangFixIt コンストラクター " Url="html/568dd197-3e20-166a-4698-6829e0780c71.htm" />
-        <HelpTOCNode Id="e7b742b8-86ae-4250-a374-7caec1096d40" Title="ClangFixIt プロパティ" Url="html/bf92b7d9-2bed-5531-b7c7-b90cd4ffcb82.htm">
+        <HelpTOCNode Id="e5e39896-82e2-4ece-8fe0-e921a96ce293" Title="ClangFixIt プロパティ" Url="html/bf92b7d9-2bed-5531-b7c7-b90cd4ffcb82.htm">
           <HelpTOCNode Title="ReplacementRange プロパティ " Url="html/8dfc856a-b30c-a343-f70a-45124b3c0078.htm" />
           <HelpTOCNode Title="ReplacementText プロパティ " Url="html/e698b4ce-08e9-e8f7-d13a-3777ac8ce2e5.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangFixIt メソッド" Url="html/bd707971-47a0-66b9-4abf-bdf9b9ce166d.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0851fdfa-73de-4ace-b518-840503bb0206" Title="ClangIndex クラス" Url="html/aeee7fa3-82f2-d345-9dcc-3a182011bb09.htm">
+      <HelpTOCNode Id="18ef13fe-c12f-4ccb-be17-acfbe78e009b" Title="ClangIndex クラス" Url="html/aeee7fa3-82f2-d345-9dcc-3a182011bb09.htm">
         <HelpTOCNode Title="ClangIndex コンストラクター " Url="html/2c170b5e-7399-220f-3954-6ebbfcfdc44f.htm" />
-        <HelpTOCNode Id="b68b383a-86b0-4346-9e85-3079a7207de4" Title="ClangIndex プロパティ" Url="html/800b791d-408b-c4f9-c7fb-0da5747ecc52.htm">
+        <HelpTOCNode Id="483d9c44-cff0-4e9d-8cca-42b6b290c80e" Title="ClangIndex プロパティ" Url="html/800b791d-408b-c4f9-c7fb-0da5747ecc52.htm">
           <HelpTOCNode Title="GlobalOptionFlags プロパティ " Url="html/d418a865-6636-677d-d402-09a32668ebac.htm" />
           <HelpTOCNode Title="InvocationEmissionPathOption プロパティ " Url="html/3c6b1280-536b-423c-fa82-75d11c0c7c6d.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9e7085de-858a-4473-87f9-00ffe490b726" Title="ClangIndex メソッド" Url="html/6118ab94-5864-883a-3106-a979b1f2dca3.htm">
+        <HelpTOCNode Id="921a33e8-84d5-45a2-805a-c048867b0422" Title="ClangIndex メソッド" Url="html/6118ab94-5864-883a-3106-a979b1f2dca3.htm">
           <HelpTOCNode Title="CreateIndexAction メソッド " Url="html/b2e639bf-6c3b-d0df-5b8f-cfbbc6d55b1d.htm" />
-          <HelpTOCNode Id="0e5f12e2-64f5-4bda-b7b1-182d565fb9c3" Title="CreateTranslationUnit メソッド " Url="html/d2588ef3-0151-7b69-39b3-01dae0ab3d4e.htm">
+          <HelpTOCNode Id="7e2f3f95-d0dc-460c-85ab-d778923a425c" Title="CreateTranslationUnit メソッド " Url="html/d2588ef3-0151-7b69-39b3-01dae0ab3d4e.htm">
             <HelpTOCNode Title="CreateTranslationUnit メソッド (String)" Url="html/b4a7602f-7951-2e03-0ca8-7733500bc5b4.htm" />
             <HelpTOCNode Title="CreateTranslationUnit メソッド (String, ClangTranslationUnit)" Url="html/caf9f960-8104-fc52-6635-b1dc98fc9c6b.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="CreateTranslationUnitFromSourceFile メソッド " Url="html/60698013-ac75-a2c4-d192-50ce86ffb69a.htm" />
           <HelpTOCNode Title="Dispose メソッド " Url="html/9bf5d321-e8f8-5ca4-495e-2bc307882015.htm" />
-          <HelpTOCNode Id="e746b424-f02a-42c2-b0c2-cf051577752f" Title="ParseTranslationUnit メソッド " Url="html/7d84fa7e-db71-25cd-3596-3cadd74b5c4c.htm">
+          <HelpTOCNode Id="1e2fdff3-c324-40d7-8057-76bc979cd64d" Title="ParseTranslationUnit メソッド " Url="html/7d84fa7e-db71-25cd-3596-3cadd74b5c4c.htm">
             <HelpTOCNode Title="ParseTranslationUnit メソッド (String, String[], ClangUnsavedFile[], TranslationUnitFlags)" Url="html/3a1b6683-f99b-e28d-81cb-249650bf0aff.htm" />
             <HelpTOCNode Title="ParseTranslationUnit メソッド (String, String[], ClangUnsavedFile[], TranslationUnitFlags, ClangTranslationUnit)" Url="html/dcd1d5d5-355b-f76c-4ee5-3a50407d0dd5.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="ParseTranslationUnitFullArgv メソッド " Url="html/bfbea4a2-3aa8-fa7e-9e8f-7696ca364cef.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2576c469-8700-4bfe-8ba7-c94eb7bef4da" Title="ClangIndexAction クラス" Url="html/6d128edd-e0f0-bb71-1422-dab07ef2d986.htm">
+      <HelpTOCNode Id="2030ea4f-3c7c-4a17-956d-d93e3c704984" Title="ClangIndexAction クラス" Url="html/6d128edd-e0f0-bb71-1422-dab07ef2d986.htm">
         <HelpTOCNode Title="ClangIndexAction コンストラクター " Url="html/63e36803-e357-ae9a-57df-74a5b6d030fe.htm" />
         <HelpTOCNode Title="ClangIndexAction プロパティ" Url="html/a6e3ed32-c2da-0526-3171-10c93779f851.htm" />
-        <HelpTOCNode Id="08a3b064-bdc7-42d4-b1aa-5ed1ebf2b967" Title="ClangIndexAction メソッド" Url="html/c8db8c96-600f-5dd5-be71-5a802f82452f.htm">
+        <HelpTOCNode Id="6ea70db7-87f0-4c14-9a6f-223d1339d65e" Title="ClangIndexAction メソッド" Url="html/c8db8c96-600f-5dd5-be71-5a802f82452f.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/67da368e-0b21-31df-3f2a-5ad0bb04ac3a.htm" />
           <HelpTOCNode Title="IndexSourceFile メソッド " Url="html/65bac8f5-c6a4-9a1e-1b35-bf1f49bf9697.htm" />
           <HelpTOCNode Title="IndexSourceFileFullArgv メソッド " Url="html/84f375a1-de72-3dd8-bc02-11b06d51f112.htm" />
           <HelpTOCNode Title="IndexTranslationUnit メソッド " Url="html/235fccfb-052d-52cf-7b1d-ec9741b5950d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9a60a77d-1226-4a09-bb6f-f4ab9b71dcd3" Title="ClangIndexAttributeInfo クラス" Url="html/75ba33f4-b761-e212-a8d4-05490f0583a6.htm">
+      <HelpTOCNode Id="bf71c449-d7b6-426a-8d5b-8559beb5d6c6" Title="ClangIndexAttributeInfo クラス" Url="html/75ba33f4-b761-e212-a8d4-05490f0583a6.htm">
         <HelpTOCNode Title="ClangIndexAttributeInfo コンストラクター " Url="html/0f001296-419d-7ebc-d8bd-c7e09c5e8809.htm" />
-        <HelpTOCNode Id="183321c1-1b0c-48ad-a5b8-d755c420b7bd" Title="ClangIndexAttributeInfo プロパティ" Url="html/a44f46af-866b-51cc-7010-0d39cc118d24.htm">
+        <HelpTOCNode Id="36b99dc9-80dc-4549-87ef-d7961cf3d605" Title="ClangIndexAttributeInfo プロパティ" Url="html/a44f46af-866b-51cc-7010-0d39cc118d24.htm">
           <HelpTOCNode Title="Cursor プロパティ " Url="html/e2db6b16-4236-0259-7b39-679cb7f12b07.htm" />
           <HelpTOCNode Title="IBOutletCollectionAttribute プロパティ " Url="html/1d43336f-9da6-28f5-08e6-028656bb397b.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/35c03a96-d0bc-7a2d-b55b-ae90dcec9da7.htm" />
@@ -470,9 +470,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexAttributeInfo メソッド" Url="html/a33f6462-e4ed-ce98-3183-728c1ecb96d7.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7c1ab496-5cbe-41a1-8ffc-5627f5ad0663" Title="ClangIndexBaseClassInfo クラス" Url="html/0bdbba97-04d6-1094-b9e2-325be4b09696.htm">
+      <HelpTOCNode Id="0eef8e42-b522-49ac-bc24-2702bada81b9" Title="ClangIndexBaseClassInfo クラス" Url="html/0bdbba97-04d6-1094-b9e2-325be4b09696.htm">
         <HelpTOCNode Title="ClangIndexBaseClassInfo コンストラクター " Url="html/64bf7c66-fc2e-789b-942d-a2c6e2dcc0fb.htm" />
-        <HelpTOCNode Id="afcb7597-953c-4be4-85ef-f1407f071393" Title="ClangIndexBaseClassInfo プロパティ" Url="html/7a8fff06-129e-14dc-d2fb-3ff409f0e48d.htm">
+        <HelpTOCNode Id="e9e90626-9540-4cb3-ab3e-66b3ba3151ef" Title="ClangIndexBaseClassInfo プロパティ" Url="html/7a8fff06-129e-14dc-d2fb-3ff409f0e48d.htm">
           <HelpTOCNode Title="Base プロパティ " Url="html/8c746911-ad12-1e18-4020-894df494ffcf.htm" />
           <HelpTOCNode Title="Cursor プロパティ " Url="html/10c994c9-878a-65da-74a8-8a0e60683160.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/7eeece02-f386-4622-28c9-101ca64b99e4.htm" />
@@ -480,38 +480,38 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexBaseClassInfo メソッド" Url="html/c853c259-15f9-6c04-ad10-71293f41bd31.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="02d1bb90-8179-404e-a29e-a03aede73318" Title="ClangIndexClientASTFile クラス" Url="html/cf9d1de2-5519-e145-0456-ac975fdc8b7c.htm">
+      <HelpTOCNode Id="7e6e2d2e-cf9e-4811-8834-c11eb6153b56" Title="ClangIndexClientASTFile クラス" Url="html/cf9d1de2-5519-e145-0456-ac975fdc8b7c.htm">
         <HelpTOCNode Title="ClangIndexClientASTFile コンストラクター " Url="html/fb3ba2a5-54b1-169d-d6e4-a3261888bdd1.htm" />
         <HelpTOCNode Title="ClangIndexClientASTFile プロパティ" Url="html/323fdab6-8c08-ddb5-ba07-c7ea327ccb00.htm" />
         <HelpTOCNode Title="ClangIndexClientASTFile メソッド" Url="html/2c9a38e9-2d44-9faa-e0e0-aecfd04a5363.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="918a2a8f-8dc2-4488-9a65-81d5912811a2" Title="ClangIndexClientContainer クラス" Url="html/581b57e1-3cb3-796f-aaa9-b40a559ee776.htm">
+      <HelpTOCNode Id="dddfabd9-2fce-4780-915e-f2df79e81867" Title="ClangIndexClientContainer クラス" Url="html/581b57e1-3cb3-796f-aaa9-b40a559ee776.htm">
         <HelpTOCNode Title="ClangIndexClientContainer コンストラクター " Url="html/818c2ccf-b389-8674-93eb-6d13fe27b14b.htm" />
         <HelpTOCNode Title="ClangIndexClientContainer プロパティ" Url="html/846d844e-a4c8-ae31-b325-40aac0e3e575.htm" />
         <HelpTOCNode Title="ClangIndexClientContainer メソッド" Url="html/ca774e9c-c690-f4f1-3a95-244c5f058b0f.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7d6b4a68-5af2-464a-9bfe-5fc469758d57" Title="ClangIndexClientEntity クラス" Url="html/1fd51ed0-d0be-4adb-335b-631debb6b76c.htm">
+      <HelpTOCNode Id="574c8cad-a4b7-4675-b732-04b0d7358c49" Title="ClangIndexClientEntity クラス" Url="html/1fd51ed0-d0be-4adb-335b-631debb6b76c.htm">
         <HelpTOCNode Title="ClangIndexClientEntity コンストラクター " Url="html/425b37d1-2098-f923-ef46-7923b08fb37c.htm" />
         <HelpTOCNode Title="ClangIndexClientEntity プロパティ" Url="html/99cc9adb-a4a8-9aca-adc9-9d496430072a.htm" />
         <HelpTOCNode Title="ClangIndexClientEntity メソッド" Url="html/adcfbb1f-ce2f-e0fc-1599-b8d9747400f1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3e0d0664-0c6f-41b8-ad75-8c909f37c0ea" Title="ClangIndexClientFile クラス" Url="html/2c531df0-e926-ad9e-dea3-911890382d85.htm">
+      <HelpTOCNode Id="649d155f-ab5a-4089-99f0-0d2b69cae25c" Title="ClangIndexClientFile クラス" Url="html/2c531df0-e926-ad9e-dea3-911890382d85.htm">
         <HelpTOCNode Title="ClangIndexClientFile コンストラクター " Url="html/a2a0e571-4a4f-6a6c-0a4b-e911347c5f0f.htm" />
         <HelpTOCNode Title="ClangIndexClientFile プロパティ" Url="html/75db714f-b408-ebca-eb2a-853e1043598d.htm" />
         <HelpTOCNode Title="ClangIndexClientFile メソッド" Url="html/3fb3b4bd-36ca-c4cf-93af-0f546b9cbbf5.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3da22798-4369-4c36-82ad-8543508a6dce" Title="ClangIndexContainerInfo クラス" Url="html/8070dd21-5230-6a2b-2044-35d7072b112d.htm">
+      <HelpTOCNode Id="2bb5e771-6566-49a5-be49-9608ea991ccd" Title="ClangIndexContainerInfo クラス" Url="html/8070dd21-5230-6a2b-2044-35d7072b112d.htm">
         <HelpTOCNode Title="ClangIndexContainerInfo コンストラクター " Url="html/00483e5f-1343-8954-015c-789528ce11e0.htm" />
-        <HelpTOCNode Id="3f380c0e-4181-4580-ae8e-5093cf5f9737" Title="ClangIndexContainerInfo プロパティ" Url="html/131ed9b3-9480-3ac7-55d3-f860c2f41922.htm">
+        <HelpTOCNode Id="78582691-b759-47c4-b557-48bd13f09a34" Title="ClangIndexContainerInfo プロパティ" Url="html/131ed9b3-9480-3ac7-55d3-f860c2f41922.htm">
           <HelpTOCNode Title="ClientContainer プロパティ " Url="html/a38211c8-c97a-0e46-2f45-1a7d16dbbdc5.htm" />
           <HelpTOCNode Title="Cursor プロパティ " Url="html/0b1f402c-3f66-19e7-ca96-4d1c97f2b857.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/9d52f578-c78e-ba5e-ec44-6937e7e33746.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexContainerInfo メソッド" Url="html/836af968-f6ed-f5b6-4a8d-aae9affad0df.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c4cd2a40-41d4-43db-8cf6-7c5cef6155d4" Title="ClangIndexCxxClassDeclarationInfo クラス" Url="html/c2017de1-1294-e0a6-fbfb-cb684e254b23.htm">
+      <HelpTOCNode Id="ce9b4545-8c0e-46d2-95c1-ddf11286e109" Title="ClangIndexCxxClassDeclarationInfo クラス" Url="html/c2017de1-1294-e0a6-fbfb-cb684e254b23.htm">
         <HelpTOCNode Title="ClangIndexCxxClassDeclarationInfo コンストラクター " Url="html/f9a41c3b-aee2-9a71-3b7a-9abbf6bbfbd1.htm" />
-        <HelpTOCNode Id="06b14b54-f05a-4417-b323-0b99365761bc" Title="ClangIndexCxxClassDeclarationInfo プロパティ" Url="html/02249e27-c19e-e942-8e42-1f27817375ba.htm">
+        <HelpTOCNode Id="0ef0af35-c55f-4222-8b52-ddea3d8d5803" Title="ClangIndexCxxClassDeclarationInfo プロパティ" Url="html/02249e27-c19e-e942-8e42-1f27817375ba.htm">
           <HelpTOCNode Title="BaseCount プロパティ " Url="html/443427db-7208-19d2-d3c7-f4f773c32d66.htm" />
           <HelpTOCNode Title="Bases プロパティ " Url="html/06ea0c0b-f962-f407-e35f-fbdae23d6ed5.htm" />
           <HelpTOCNode Title="Declaration プロパティ " Url="html/b07c549f-44b0-4f04-e311-e8df1b853b16.htm" />
@@ -519,9 +519,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexCxxClassDeclarationInfo メソッド" Url="html/aa78f14f-300d-c9aa-11e2-9cdfdf3311c5.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="81177c04-55d9-4241-916b-1ecb8b5d0bf2" Title="ClangIndexDeclarationInfo クラス" Url="html/d97651b4-8516-ceb0-c746-2f8ab536abaa.htm">
+      <HelpTOCNode Id="47227a30-5b29-4520-8c5b-fe836c8386fa" Title="ClangIndexDeclarationInfo クラス" Url="html/d97651b4-8516-ceb0-c746-2f8ab536abaa.htm">
         <HelpTOCNode Title="ClangIndexDeclarationInfo コンストラクター " Url="html/7e9fdea4-c3d9-5462-4ad9-1f2a18fc9062.htm" />
-        <HelpTOCNode Id="a27c80bf-c051-476b-af24-9843bdfda41a" Title="ClangIndexDeclarationInfo プロパティ" Url="html/70e2bb73-2f23-5cde-c7b6-6e3adc39106f.htm">
+        <HelpTOCNode Id="905264cc-3cd2-4261-b1db-435ff9e06a58" Title="ClangIndexDeclarationInfo プロパティ" Url="html/70e2bb73-2f23-5cde-c7b6-6e3adc39106f.htm">
           <HelpTOCNode Title="AttributeCount プロパティ " Url="html/064346d4-ec95-8796-743a-c6e842af35ce.htm" />
           <HelpTOCNode Title="Attributes プロパティ " Url="html/70716b0e-c3c7-420d-e8b8-54774669450e.htm" />
           <HelpTOCNode Title="Cursor プロパティ " Url="html/6b270350-fe7c-5a81-27c6-d5fd22382832.htm" />
@@ -544,9 +544,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexDeclarationInfo メソッド" Url="html/8cb9eb74-95fc-d93c-cc24-889af5b652b1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1a6adf08-fcff-4f9c-9f6b-8136b2e4819a" Title="ClangIndexEntityInfo クラス" Url="html/fcf70211-b071-4363-1569-a6162879f81f.htm">
+      <HelpTOCNode Id="f9145801-db94-489a-8a3b-65133a9305ee" Title="ClangIndexEntityInfo クラス" Url="html/fcf70211-b071-4363-1569-a6162879f81f.htm">
         <HelpTOCNode Title="ClangIndexEntityInfo コンストラクター " Url="html/b54d6c1c-5f1b-1815-8a99-192c407c87cc.htm" />
-        <HelpTOCNode Id="de58589b-5fbe-4c6a-90f0-f3bdd6a8addd" Title="ClangIndexEntityInfo プロパティ" Url="html/aa86b126-84e3-27a6-613d-4ae2804efaba.htm">
+        <HelpTOCNode Id="51619922-b9cb-4a19-8e50-668cf33f894b" Title="ClangIndexEntityInfo プロパティ" Url="html/aa86b126-84e3-27a6-613d-4ae2804efaba.htm">
           <HelpTOCNode Title="AttributeCount プロパティ " Url="html/97082a72-7e14-4757-1244-6adaf3d76bb8.htm" />
           <HelpTOCNode Title="Attributes プロパティ " Url="html/688fcc4a-2a04-43a8-00aa-87363f240d60.htm" />
           <HelpTOCNode Title="ClientEntity プロパティ " Url="html/eae27eeb-2122-ccfd-7487-0c75eb4fa61d.htm" />
@@ -560,9 +560,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexEntityInfo メソッド" Url="html/57a42a25-31d8-6745-63f9-6a27349ae945.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6c085ccf-a9fd-43be-b928-f5d736514d26" Title="ClangIndexEntityReferenceInfo クラス" Url="html/863dad6f-817f-b05c-b636-9ba40319e8e9.htm">
+      <HelpTOCNode Id="d1f8df8c-3520-471e-a977-69c0fcda2bf5" Title="ClangIndexEntityReferenceInfo クラス" Url="html/863dad6f-817f-b05c-b636-9ba40319e8e9.htm">
         <HelpTOCNode Title="ClangIndexEntityReferenceInfo コンストラクター " Url="html/da141b6a-5a33-4ad5-0ac0-f28c6d5ab5e4.htm" />
-        <HelpTOCNode Id="50064078-8580-493a-8e91-5d3805a4a067" Title="ClangIndexEntityReferenceInfo プロパティ" Url="html/efca67e7-8e5b-ef2e-b334-d43de58f015b.htm">
+        <HelpTOCNode Id="104db12f-ba8b-4c35-8631-4e608ed870b4" Title="ClangIndexEntityReferenceInfo プロパティ" Url="html/efca67e7-8e5b-ef2e-b334-d43de58f015b.htm">
           <HelpTOCNode Title="Container プロパティ " Url="html/7f6d9d3b-80c2-6f9c-062e-908c84861cb7.htm" />
           <HelpTOCNode Title="Cursor プロパティ " Url="html/6b4600fa-8a28-464a-9a92-099aaf27814f.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/c3bd324c-a264-ce7a-5e3a-44e7e4100473.htm" />
@@ -574,12 +574,12 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexEntityReferenceInfo メソッド" Url="html/3fd382af-7733-de0a-87b2-cd6f97baf9da.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9bd68f58-6c2f-4741-93e3-c2789a1f987e" Title="ClangIndexerCallbacks クラス" Url="html/561e1cda-a390-5342-a58c-671f7d991f30.htm">
+      <HelpTOCNode Id="a294c3e6-0ead-480b-92c0-a0cceb38c5e9" Title="ClangIndexerCallbacks クラス" Url="html/561e1cda-a390-5342-a58c-671f7d991f30.htm">
         <HelpTOCNode Title="ClangIndexerCallbacks コンストラクター " Url="html/91a19af2-84fa-2be6-8214-367f1f1c2eaa.htm" />
-        <HelpTOCNode Id="a9dafd8c-cd1a-4d69-90fe-6289b03daed0" Title="ClangIndexerCallbacks メソッド" Url="html/d4a95d93-ae12-9341-628c-c7a222c694d4.htm">
+        <HelpTOCNode Id="dbc86bf9-5100-4a02-9279-4ac4432972a5" Title="ClangIndexerCallbacks メソッド" Url="html/d4a95d93-ae12-9341-628c-c7a222c694d4.htm">
           <HelpTOCNode Title="ToNative メソッド " Url="html/0ed14f1c-6cb4-cec0-3a07-79e1eb1a2629.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="36cc1722-ecf5-4771-9369-2e25b55faaa4" Title="ClangIndexerCallbacks イベント" Url="html/e0ca1b35-1f05-e6f6-6b14-09745d4f8be3.htm">
+        <HelpTOCNode Id="3a197faf-3329-440f-b5d3-6921a21183ca" Title="ClangIndexerCallbacks イベント" Url="html/e0ca1b35-1f05-e6f6-6b14-09745d4f8be3.htm">
           <HelpTOCNode Title="AbortQuery イベント" Url="html/0077f376-97ab-9f7b-9a75-dc6a0ec6e762.htm" />
           <HelpTOCNode Title="Diagnostic イベント" Url="html/36e291c3-7565-1bbb-d92c-e7032c837f75.htm" />
           <HelpTOCNode Title="EnteredMainFile イベント" Url="html/81eb8273-6801-a070-5ae5-834c86bbae28.htm" />
@@ -590,16 +590,16 @@
           <HelpTOCNode Title="StartedTranslationUnit イベント" Url="html/0bd2c8ce-3098-aa8a-ad8f-a8ed338a0846.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="be875357-0f5c-4224-92e5-c97432e156be" Title="ClangIndexFileLocation クラス" Url="html/d5c884ad-dd2b-58e9-95a6-44409d880811.htm">
+      <HelpTOCNode Id="83db0b6d-448e-4db2-9207-29359ae9f323" Title="ClangIndexFileLocation クラス" Url="html/d5c884ad-dd2b-58e9-95a6-44409d880811.htm">
         <HelpTOCNode Title="ClangIndexFileLocation コンストラクター " Url="html/f85b6d74-952e-a764-bff5-0478c38d3294.htm" />
-        <HelpTOCNode Id="13a4db67-d40c-497d-8d80-dbaf141c09f9" Title="ClangIndexFileLocation プロパティ" Url="html/011122e9-8cb2-9a16-60a2-034fc64e2e25.htm">
+        <HelpTOCNode Id="8d22c062-b584-4305-8d5a-9ea3a5fc6b4e" Title="ClangIndexFileLocation プロパティ" Url="html/011122e9-8cb2-9a16-60a2-034fc64e2e25.htm">
           <HelpTOCNode Title="IndexClientFile プロパティ " Url="html/b9b8c7d0-82b3-936d-14c6-632ab693f0fa.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexFileLocation メソッド" Url="html/a6d07828-198b-0a08-3659-a2e6c8b1a599.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b6543306-bce3-4aa7-8975-ddd32ee7595a" Title="ClangIndexIBOutletCollectionAttributeInfo クラス" Url="html/bfefa87c-3b58-726c-a925-4874ea8b37a5.htm">
+      <HelpTOCNode Id="ea79fb9a-8ee0-40f0-b56f-dfdb6c5dd28a" Title="ClangIndexIBOutletCollectionAttributeInfo クラス" Url="html/bfefa87c-3b58-726c-a925-4874ea8b37a5.htm">
         <HelpTOCNode Title="ClangIndexIBOutletCollectionAttributeInfo コンストラクター " Url="html/37be0c11-3443-b7a8-ee41-18931ff02c6c.htm" />
-        <HelpTOCNode Id="7b7ce93a-64e7-49ee-8e93-097b24888724" Title="ClangIndexIBOutletCollectionAttributeInfo プロパティ" Url="html/2118ef57-415e-7299-988f-6da9c0baf1a9.htm">
+        <HelpTOCNode Id="121fba69-37a4-4e3e-b2ea-1b415024729e" Title="ClangIndexIBOutletCollectionAttributeInfo プロパティ" Url="html/2118ef57-415e-7299-988f-6da9c0baf1a9.htm">
           <HelpTOCNode Title="Attribute プロパティ " Url="html/aaff2680-f418-9b90-757b-43f78135c595.htm" />
           <HelpTOCNode Title="ClassCursor プロパティ " Url="html/a2d4adf5-2ce1-8820-d0bc-a17aeb52ee84.htm" />
           <HelpTOCNode Title="ClassLocation プロパティ " Url="html/c770f5f5-f83c-9a25-0bfd-0a51642f0fec.htm" />
@@ -608,9 +608,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexIBOutletCollectionAttributeInfo メソッド" Url="html/7be5958e-09e8-27e2-c200-36c3fe8ee08a.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6b2632e3-55d0-4a3e-9203-45effb67a9ea" Title="ClangIndexImportedASTFileInfo クラス" Url="html/eeb6d6a1-564b-698c-c198-e10af2b395b9.htm">
+      <HelpTOCNode Id="9345fe4b-b05d-45ef-bb2c-e7dd616da861" Title="ClangIndexImportedASTFileInfo クラス" Url="html/eeb6d6a1-564b-698c-c198-e10af2b395b9.htm">
         <HelpTOCNode Title="ClangIndexImportedASTFileInfo コンストラクター " Url="html/3b5bb80d-dd25-c279-8a05-ed6a27e53fae.htm" />
-        <HelpTOCNode Id="77664868-adba-4c1d-befe-5c6e8f56d410" Title="ClangIndexImportedASTFileInfo プロパティ" Url="html/62d8587b-4e39-9ec4-01a7-90d4dfbe2316.htm">
+        <HelpTOCNode Id="78d00def-2989-4457-9fbb-3ee350c2193d" Title="ClangIndexImportedASTFileInfo プロパティ" Url="html/62d8587b-4e39-9ec4-01a7-90d4dfbe2316.htm">
           <HelpTOCNode Title="File プロパティ " Url="html/7d1a0897-c7f1-0d2b-c93a-d400c4ce3e09.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/da190e8f-ce27-5a8f-e421-bdbcd413d03b.htm" />
           <HelpTOCNode Title="IsImplicit プロパティ " Url="html/dc5dd029-0e48-19fe-1088-ddaf0972096e.htm" />
@@ -619,9 +619,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexImportedASTFileInfo メソッド" Url="html/cd15c720-7d0c-6ca6-c10c-6b09f4e4b584.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7afa0727-6a15-459d-b4e3-37609856ee47" Title="ClangIndexIncludedFileInfo クラス" Url="html/d356c5a7-932e-56c2-b904-8ccc4def4994.htm">
+      <HelpTOCNode Id="3d0bda7b-6547-401c-a035-fe1f9faff46d" Title="ClangIndexIncludedFileInfo クラス" Url="html/d356c5a7-932e-56c2-b904-8ccc4def4994.htm">
         <HelpTOCNode Title="ClangIndexIncludedFileInfo コンストラクター " Url="html/a2227822-4a3f-9d4c-a8a3-d48a3e3ce886.htm" />
-        <HelpTOCNode Id="dc29adb9-cf92-4e0b-890a-140839854e98" Title="ClangIndexIncludedFileInfo プロパティ" Url="html/0e968478-17b1-ba15-58ef-e335c57b538d.htm">
+        <HelpTOCNode Id="5de97c37-7492-41bc-b6ea-ffdeadd0288a" Title="ClangIndexIncludedFileInfo プロパティ" Url="html/0e968478-17b1-ba15-58ef-e335c57b538d.htm">
           <HelpTOCNode Title="File プロパティ " Url="html/62261ac6-2a53-c2fa-3cd9-75b796137aa4.htm" />
           <HelpTOCNode Title="Filename プロパティ " Url="html/b31bf65c-823c-0445-d925-8a5d2af82109.htm" />
           <HelpTOCNode Title="HashLocation プロパティ " Url="html/5619792b-8a15-8f4b-df66-5054145a70a0.htm" />
@@ -632,25 +632,25 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexIncludedFileInfo メソッド" Url="html/7d93b0c8-2a93-1dd2-785a-addbd877cd2c.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7370e50f-d919-483e-9c9f-770bfe2fa92c" Title="ClangIndexInfo クラス" Url="html/e769e265-5a04-d91c-ec6d-7741a77354ec.htm">
+      <HelpTOCNode Id="3bc67d1f-27cc-4d4c-b6e2-3c94963a145c" Title="ClangIndexInfo クラス" Url="html/e769e265-5a04-d91c-ec6d-7741a77354ec.htm">
         <HelpTOCNode Title="ClangIndexInfo コンストラクター " Url="html/4a005b23-0528-cee9-4b9b-fdff0ca8e79e.htm" />
-        <HelpTOCNode Id="dd4fdc32-22aa-4e46-acdc-92b6ed71a431" Title="ClangIndexInfo プロパティ" Url="html/052db44d-0637-3d56-070b-d316714b017e.htm">
+        <HelpTOCNode Id="11d28f7c-8aa4-4d8b-b149-4943a97212bf" Title="ClangIndexInfo プロパティ" Url="html/052db44d-0637-3d56-070b-d316714b017e.htm">
           <HelpTOCNode Title="Address プロパティ " Url="html/5285a67c-de9b-60bb-5ccf-749de790c58a.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexInfo メソッド" Url="html/d7a00d90-4d46-eff0-47ac-8983fe7d3991.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="81993c4d-c813-4bc5-a698-687b0c014d63" Title="ClangIndexLocation クラス" Url="html/963edc0f-812f-2bba-48b2-acc6599072dc.htm">
+      <HelpTOCNode Id="1b51e4c5-7ec6-4fc6-9ce5-a3e6003d6183" Title="ClangIndexLocation クラス" Url="html/963edc0f-812f-2bba-48b2-acc6599072dc.htm">
         <HelpTOCNode Title="ClangIndexLocation コンストラクター " Url="html/be8e0f99-77e1-dfa9-6302-770ebd02bb53.htm" />
-        <HelpTOCNode Id="fae7b3a0-1123-4975-9bcb-0e88830852bb" Title="ClangIndexLocation プロパティ" Url="html/dec22139-fff3-e2ae-21d3-b5d76c6b93e6.htm">
+        <HelpTOCNode Id="be4e60a3-fd45-43af-84fe-7c3e1ab10e57" Title="ClangIndexLocation プロパティ" Url="html/dec22139-fff3-e2ae-21d3-b5d76c6b93e6.htm">
           <HelpTOCNode Title="FileLocation プロパティ " Url="html/13028a92-fc30-472a-52c0-667380d28af8.htm" />
           <HelpTOCNode Title="Source プロパティ " Url="html/15321599-9fb8-f4eb-ecdf-1361391a07b3.htm" />
           <HelpTOCNode Title="SourceLocation プロパティ " Url="html/914e0f2b-aeaa-e567-5ea1-0d9d14f47465.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexLocation メソッド" Url="html/ec8c91cf-5824-16a4-788d-80f583e16640.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e478192a-5274-4700-b0fe-d0479613e7fe" Title="ClangIndexObjCCategoryDeclarationInfo クラス" Url="html/fdc1d92a-a3cf-0515-78e6-02081c272623.htm">
+      <HelpTOCNode Id="34b84bb9-14e1-4c8d-97be-21b401de2a45" Title="ClangIndexObjCCategoryDeclarationInfo クラス" Url="html/fdc1d92a-a3cf-0515-78e6-02081c272623.htm">
         <HelpTOCNode Title="ClangIndexObjCCategoryDeclarationInfo コンストラクター " Url="html/6ca220b4-1cb7-9098-8226-84b6c95435be.htm" />
-        <HelpTOCNode Id="3fdbd493-3363-4eac-b705-410f3c39ef3e" Title="ClangIndexObjCCategoryDeclarationInfo プロパティ" Url="html/948b0fec-6039-eba8-b639-dd8e05e3f1e5.htm">
+        <HelpTOCNode Id="2cd2c3a8-124f-4be7-8f70-d8f5144bf657" Title="ClangIndexObjCCategoryDeclarationInfo プロパティ" Url="html/948b0fec-6039-eba8-b639-dd8e05e3f1e5.htm">
           <HelpTOCNode Title="ClassCursor プロパティ " Url="html/ace44f26-95fb-6d98-d88f-a3cb52b03f21.htm" />
           <HelpTOCNode Title="ClassLocation プロパティ " Url="html/04b96166-2646-592f-9d6d-7e3d1359e662.htm" />
           <HelpTOCNode Title="Container プロパティ " Url="html/cda0c44f-ff80-fa75-7cad-dbdb74735074.htm" />
@@ -660,18 +660,18 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexObjCCategoryDeclarationInfo メソッド" Url="html/1cf67cd0-d3f4-3af0-6ecc-883039ee5f5b.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a4a4e83f-183d-494c-9009-44140b4fc89a" Title="ClangIndexObjCContainerDeclarationInfo クラス" Url="html/656d6691-4adf-637d-c279-11f72acecd86.htm">
+      <HelpTOCNode Id="f5f19ae9-7593-41ec-a780-b89fb565b7ba" Title="ClangIndexObjCContainerDeclarationInfo クラス" Url="html/656d6691-4adf-637d-c279-11f72acecd86.htm">
         <HelpTOCNode Title="ClangIndexObjCContainerDeclarationInfo コンストラクター " Url="html/baa626df-fa4f-ab4f-38cc-9d926b6e24a5.htm" />
-        <HelpTOCNode Id="6276572b-1cc8-4b9d-b090-1c36e2f78356" Title="ClangIndexObjCContainerDeclarationInfo プロパティ" Url="html/86149ba7-e235-9fc0-5572-1fb78d78dd03.htm">
+        <HelpTOCNode Id="d3501743-9b57-419f-83da-18f5497aa338" Title="ClangIndexObjCContainerDeclarationInfo プロパティ" Url="html/86149ba7-e235-9fc0-5572-1fb78d78dd03.htm">
           <HelpTOCNode Title="Declaration プロパティ " Url="html/c860bc10-a272-f4f5-7ead-e505795e7d08.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/b34ca4e6-fc63-5a99-5801-3da9f7a0c7f0.htm" />
           <HelpTOCNode Title="Kind プロパティ " Url="html/850e3e64-3c4f-ae3f-e358-482e370c1939.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexObjCContainerDeclarationInfo メソッド" Url="html/7d10778c-eedb-f8c4-6c7f-2bf74fdbb5b5.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="51677bd3-bff6-4f0a-aa25-b0ced960cd77" Title="ClangIndexObjCInterfaceDeclarationInfo クラス" Url="html/e768ad34-61a6-a621-118a-24fbc3fb636b.htm">
+      <HelpTOCNode Id="67c354cf-b462-47bc-8354-13ea45d6b7c8" Title="ClangIndexObjCInterfaceDeclarationInfo クラス" Url="html/e768ad34-61a6-a621-118a-24fbc3fb636b.htm">
         <HelpTOCNode Title="ClangIndexObjCInterfaceDeclarationInfo コンストラクター " Url="html/6867e33e-71d2-261b-a9b5-cd867d99f6fc.htm" />
-        <HelpTOCNode Id="7f5e7143-9c2d-4b5f-834f-fe1a5d9b2cd1" Title="ClangIndexObjCInterfaceDeclarationInfo プロパティ" Url="html/ccfef214-d12c-27f4-8eeb-b83b32df1898.htm">
+        <HelpTOCNode Id="c5aca07e-04df-4f7e-ac1a-895d8526516f" Title="ClangIndexObjCInterfaceDeclarationInfo プロパティ" Url="html/ccfef214-d12c-27f4-8eeb-b83b32df1898.htm">
           <HelpTOCNode Title="Container プロパティ " Url="html/6d7c619f-7095-d66b-ef2c-7967c21bfe93.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/02324811-a8d4-23ab-5eff-4543d3b60ab6.htm" />
           <HelpTOCNode Title="ProtocolReferenceList プロパティ " Url="html/0922c100-ebea-17a9-e6a2-f410b38dd18d.htm" />
@@ -679,9 +679,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexObjCInterfaceDeclarationInfo メソッド" Url="html/5dd45982-1250-fa58-e56f-5372548b9868.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b1d444e8-859f-48d4-a2b8-7dbdfd2bc64e" Title="ClangIndexObjCPropertyDeclarationInfo クラス" Url="html/d155915a-f6ef-50a4-901b-bf2c30ab791e.htm">
+      <HelpTOCNode Id="c70672e4-ed78-47ae-89e8-9f41cb8ff88e" Title="ClangIndexObjCPropertyDeclarationInfo クラス" Url="html/d155915a-f6ef-50a4-901b-bf2c30ab791e.htm">
         <HelpTOCNode Title="ClangIndexObjCPropertyDeclarationInfo コンストラクター " Url="html/638f1c27-37da-c78b-8a85-c3dc73eb6da3.htm" />
-        <HelpTOCNode Id="06b06189-bd62-47b0-8a57-c8f586c12ddc" Title="ClangIndexObjCPropertyDeclarationInfo プロパティ" Url="html/3799f10f-1e50-2676-a19f-9e6d255f65b4.htm">
+        <HelpTOCNode Id="70491b4b-bd93-4ec6-a7da-659d8f4e2106" Title="ClangIndexObjCPropertyDeclarationInfo プロパティ" Url="html/3799f10f-1e50-2676-a19f-9e6d255f65b4.htm">
           <HelpTOCNode Title="Declaration プロパティ " Url="html/2a93b9a5-ae08-bcc7-6c48-b02ab2494a0a.htm" />
           <HelpTOCNode Title="Getter プロパティ " Url="html/9bcf1834-84fe-213e-5bf3-8b8384afa6e3.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/5d97ee41-1c8d-fe2a-e8c6-c0e0dc2420eb.htm" />
@@ -689,9 +689,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexObjCPropertyDeclarationInfo メソッド" Url="html/9f043008-d575-6600-27ea-0800ecf2bd4a.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="92010336-5045-4a8c-920c-fd54db0ee1a6" Title="ClangIndexObjCProtocolReferenceInfo クラス" Url="html/3874c659-6ad3-9ef7-b9d1-81f90c434b72.htm">
+      <HelpTOCNode Id="3ccf93b4-45f4-49fd-a9ad-eef795ee6354" Title="ClangIndexObjCProtocolReferenceInfo クラス" Url="html/3874c659-6ad3-9ef7-b9d1-81f90c434b72.htm">
         <HelpTOCNode Title="ClangIndexObjCProtocolReferenceInfo コンストラクター " Url="html/4b2bcfc7-cc67-f960-fc66-be0d14f8eccd.htm" />
-        <HelpTOCNode Id="845eb7ab-4319-40f0-8183-89bebfb8b062" Title="ClangIndexObjCProtocolReferenceInfo プロパティ" Url="html/07ef252e-165f-77b4-c1b6-38988c757dde.htm">
+        <HelpTOCNode Id="13858885-ee14-48d6-bb42-93b79ae1eab7" Title="ClangIndexObjCProtocolReferenceInfo プロパティ" Url="html/07ef252e-165f-77b4-c1b6-38988c757dde.htm">
           <HelpTOCNode Title="Base プロパティ " Url="html/9b2fee30-e3db-fd0f-30ff-6057df73f397.htm" />
           <HelpTOCNode Title="Cursor プロパティ " Url="html/b4e2afd9-40f7-d9fd-2301-80b7291d7603.htm" />
           <HelpTOCNode Title="Info プロパティ " Url="html/c0230637-82ed-4426-da38-49b8ed8c4910.htm" />
@@ -699,35 +699,35 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexObjCProtocolReferenceInfo メソッド" Url="html/a29d87c0-086c-e488-b262-4fff852de73f.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8ef66ce3-46e9-4219-96da-2138f7b00e21" Title="ClangIndexObjCProtocolReferenceListInfo クラス" Url="html/3ad2bf06-ad9c-1f6c-cf0b-ebdeca195f7c.htm">
+      <HelpTOCNode Id="69ff3cc5-b8f5-45bc-9e79-3b18a75ea6d3" Title="ClangIndexObjCProtocolReferenceListInfo クラス" Url="html/3ad2bf06-ad9c-1f6c-cf0b-ebdeca195f7c.htm">
         <HelpTOCNode Title="ClangIndexObjCProtocolReferenceListInfo コンストラクター " Url="html/f8237320-16d3-63fb-b4ed-c56c9a5e881f.htm" />
-        <HelpTOCNode Id="9666bca4-2033-4d08-b6fd-7d6a301e6235" Title="ClangIndexObjCProtocolReferenceListInfo プロパティ" Url="html/be6b7046-4dc8-574f-eb63-980ddb2cf0d4.htm">
+        <HelpTOCNode Id="8352d3bc-5f12-4e05-a687-3d349f7ead28" Title="ClangIndexObjCProtocolReferenceListInfo プロパティ" Url="html/be6b7046-4dc8-574f-eb63-980ddb2cf0d4.htm">
           <HelpTOCNode Title="Info プロパティ " Url="html/a2050c3a-7599-a16e-95c6-41f82827bd90.htm" />
           <HelpTOCNode Title="ProtocolCount プロパティ " Url="html/a0d68079-03d4-ab30-c696-5f28f2e18bcd.htm" />
           <HelpTOCNode Title="Protocols プロパティ " Url="html/76e29276-02bc-147f-0898-4d9311969bf4.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangIndexObjCProtocolReferenceListInfo メソッド" Url="html/14731002-ee2b-3677-00f6-906b0629353c.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d8f012b7-11f2-447d-a321-e4373b6b0658" Title="ClangLocation クラス" Url="html/193c6964-1ff6-8b73-34bb-a8917bc0bda5.htm">
+      <HelpTOCNode Id="d043abc4-31ed-41dd-81ee-d13225cb00e9" Title="ClangLocation クラス" Url="html/193c6964-1ff6-8b73-34bb-a8917bc0bda5.htm">
         <HelpTOCNode Title="ClangLocation コンストラクター " Url="html/b7dbc897-b8d0-7570-322e-473cb778f575.htm" />
-        <HelpTOCNode Id="e1b01917-baf1-475f-b6a7-349c60cae8e2" Title="ClangLocation プロパティ" Url="html/f4740bc9-bbca-159a-9f72-52773f1044fd.htm">
+        <HelpTOCNode Id="c1c0fe32-4151-4a7a-8e30-431e5c03bd92" Title="ClangLocation プロパティ" Url="html/f4740bc9-bbca-159a-9f72-52773f1044fd.htm">
           <HelpTOCNode Title="Column プロパティ " Url="html/ed43d213-911a-03d0-ba11-1dabf2f24e51.htm" />
           <HelpTOCNode Title="Line プロパティ " Url="html/7fcde1e9-e78e-e387-bf94-25bea74a3e5d.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangLocation メソッド" Url="html/bada6c4f-8c8e-34db-0434-b4a27539693f.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="f9874c2b-bbdd-4d7a-b748-aaa6303a42e4" Title="ClangLogicalLocation クラス" Url="html/10b4969c-98e1-c635-49d5-e1fea704f806.htm">
+      <HelpTOCNode Id="a3a591e7-4a7a-4cf1-8438-dc5997e5959b" Title="ClangLogicalLocation クラス" Url="html/10b4969c-98e1-c635-49d5-e1fea704f806.htm">
         <HelpTOCNode Title="ClangLogicalLocation コンストラクター " Url="html/cee3e5a9-261f-03f2-592b-888852760f28.htm" />
-        <HelpTOCNode Id="b039fc51-4b4c-4737-9edd-6f0a6f67a7cf" Title="ClangLogicalLocation プロパティ" Url="html/517a778a-a9c7-889b-69b0-700c81739061.htm">
+        <HelpTOCNode Id="5c51dca1-6c1d-4174-8af4-1a97f7c1b72a" Title="ClangLogicalLocation プロパティ" Url="html/517a778a-a9c7-889b-69b0-700c81739061.htm">
           <HelpTOCNode Title="FileName プロパティ " Url="html/d52d4720-d282-30dc-db7e-fc86b3547bc8.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cfb02c18-89eb-45a4-abef-13ec3412a9ba" Title="ClangLogicalLocation メソッド" Url="html/7b1e6185-da16-21c6-1ad8-ee0314bbd4af.htm">
+        <HelpTOCNode Id="d2279283-c182-4d87-a5d8-263999b1f82a" Title="ClangLogicalLocation メソッド" Url="html/7b1e6185-da16-21c6-1ad8-ee0314bbd4af.htm">
           <HelpTOCNode Title="ToString メソッド " Url="html/27ab90b3-2a8a-7b86-7117-9cfe68609cc2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="50b74811-be8c-4d16-999f-f29a78be1f7d" Title="ClangModule クラス" Url="html/c0b787ba-9ad0-0f32-d8df-2c77148b26ce.htm">
+      <HelpTOCNode Id="28180548-0860-44c5-b9d0-be7eef342c9c" Title="ClangModule クラス" Url="html/c0b787ba-9ad0-0f32-d8df-2c77148b26ce.htm">
         <HelpTOCNode Title="ClangModule コンストラクター " Url="html/d68a1d34-7323-596e-7eba-dda6d006f5a3.htm" />
-        <HelpTOCNode Id="84aa03ca-628b-459b-827f-1932a10cfe67" Title="ClangModule プロパティ" Url="html/1d5101de-5d2b-eecc-eaf2-4d744784a566.htm">
+        <HelpTOCNode Id="b4078967-c064-4826-b46d-24c97f8632b9" Title="ClangModule プロパティ" Url="html/1d5101de-5d2b-eecc-eaf2-4d744784a566.htm">
           <HelpTOCNode Title="ASTFile プロパティ " Url="html/123ddfe9-9c5e-bc47-d377-f0c42318a2fb.htm" />
           <HelpTOCNode Title="FullName プロパティ " Url="html/5c314dce-a051-ef4f-d9cd-9db427628407.htm" />
           <HelpTOCNode Title="IsSystem プロパティ " Url="html/3daadcf8-9658-345b-f08d-7312ec0cf438.htm" />
@@ -736,63 +736,63 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangModule メソッド" Url="html/bb4c6b2b-5e33-b8cc-1739-983a88defe67.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="938f80a3-2a0f-4ed6-b448-10f80073baa8" Title="ClangModuleMapDescriptor クラス" Url="html/c9512e53-2790-f31a-f281-541f996c05f1.htm">
+      <HelpTOCNode Id="b5047929-605b-48bc-9316-66134f5f6ff5" Title="ClangModuleMapDescriptor クラス" Url="html/c9512e53-2790-f31a-f281-541f996c05f1.htm">
         <HelpTOCNode Title="ClangModuleMapDescriptor コンストラクター " Url="html/77c34fd6-c91a-4564-e30e-efc404de4368.htm" />
         <HelpTOCNode Title="ClangModuleMapDescriptor プロパティ" Url="html/9e2ec7d7-4a7e-8887-a5e7-d8733a963c0f.htm" />
-        <HelpTOCNode Id="ab7508cd-5441-414a-8c3c-c03c8b6aa9c8" Title="ClangModuleMapDescriptor メソッド" Url="html/a5fef6d2-4cff-4f40-9f14-19a0f25c87be.htm">
+        <HelpTOCNode Id="16b838d5-4681-4a2c-8d88-ac114b94b32c" Title="ClangModuleMapDescriptor メソッド" Url="html/a5fef6d2-4cff-4f40-9f14-19a0f25c87be.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/f7d60471-682b-be5f-01e5-2ac01747d103.htm" />
           <HelpTOCNode Title="SetFrameworkModuleName メソッド " Url="html/11b28852-4f53-aa1d-3f0e-237c08f96bf4.htm" />
           <HelpTOCNode Title="SetUmbrellaHeader メソッド " Url="html/e6e5c6ab-2e46-0bbb-b695-8444edb6b286.htm" />
           <HelpTOCNode Title="WriteToBuffer メソッド " Url="html/520cd83f-9bce-9073-a66e-9f964dd82967.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="30679bab-68eb-477f-a0fc-a4ed7abc8d3f" Title="ClangObject クラス" Url="html/027ccbd7-1f7b-98c7-7c9d-36bfdc4a8d63.htm">
+      <HelpTOCNode Id="ea2ccb4a-a3c8-49a9-9c02-9dc5f95ffdfe" Title="ClangObject クラス" Url="html/027ccbd7-1f7b-98c7-7c9d-36bfdc4a8d63.htm">
         <HelpTOCNode Title="ClangObject コンストラクター " Url="html/0dfdd46c-4101-508d-0775-6bb1e582a699.htm" />
-        <HelpTOCNode Id="fe24809e-88bc-47e6-bdb5-02dc8a07c0e4" Title="ClangObject プロパティ" Url="html/7bebb5dd-c505-0016-263a-c24a36de2649.htm">
+        <HelpTOCNode Id="6aaa657e-ab93-4cb7-a990-49438a685c2e" Title="ClangObject プロパティ" Url="html/7bebb5dd-c505-0016-263a-c24a36de2649.htm">
           <HelpTOCNode Title="Handle プロパティ " Url="html/d329df6a-b70d-2db2-79fb-5380fe7e08fa.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangObject メソッド" Url="html/95f9b7e9-642a-5c87-d9e4-20c2afc4ed35.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="406e3ce8-1fcb-439e-bace-2c138fe9e875" Title="ClangPhysicalLocation クラス" Url="html/3876de24-af17-3ca7-6f5a-e3ad7d8091f9.htm">
+      <HelpTOCNode Id="c9d0fd08-c97b-4b3b-9ec5-75d6aa8d4d05" Title="ClangPhysicalLocation クラス" Url="html/3876de24-af17-3ca7-6f5a-e3ad7d8091f9.htm">
         <HelpTOCNode Title="ClangPhysicalLocation コンストラクター " Url="html/cf399b03-2fc2-5275-a44b-2b78161b94d0.htm" />
-        <HelpTOCNode Id="ba6a92dc-b781-4c7b-b8d6-b4f389c0cde9" Title="ClangPhysicalLocation プロパティ" Url="html/0cf1147d-51ca-b176-d6a1-ed26b098ed88.htm">
+        <HelpTOCNode Id="8ae714c1-74ef-4c85-b78c-e71fb15a7812" Title="ClangPhysicalLocation プロパティ" Url="html/0cf1147d-51ca-b176-d6a1-ed26b098ed88.htm">
           <HelpTOCNode Title="File プロパティ " Url="html/c4fc5f19-fc17-d3ca-6175-06cf94d44466.htm" />
           <HelpTOCNode Title="Offset プロパティ " Url="html/ef4f190b-ee41-9c16-9461-d5fe3fcc1468.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2897be80-9b55-48ad-a42a-5cccd2b62480" Title="ClangPhysicalLocation メソッド" Url="html/41564865-47d5-903e-3057-a3a169b009ef.htm">
+        <HelpTOCNode Id="232adf47-f0e0-47bd-ad64-3132723f8ddf" Title="ClangPhysicalLocation メソッド" Url="html/41564865-47d5-903e-3057-a3a169b009ef.htm">
           <HelpTOCNode Title="ToString メソッド " Url="html/7dec974b-d20f-57ee-a363-96cc8814c81f.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1672ee72-9779-4100-af32-9a747d0e451f" Title="ClangPlatformAvailability クラス" Url="html/3a57f797-63f4-7bb5-4947-39deac33d55c.htm">
+      <HelpTOCNode Id="c2f9e710-f4ef-4863-904d-dfab17aca688" Title="ClangPlatformAvailability クラス" Url="html/3a57f797-63f4-7bb5-4947-39deac33d55c.htm">
         <HelpTOCNode Title="ClangPlatformAvailability コンストラクター " Url="html/715209ae-7031-a9cf-a800-9e896f2f698e.htm" />
-        <HelpTOCNode Id="06cfe2ae-788c-4612-9425-ef862aad3818" Title="ClangPlatformAvailability プロパティ" Url="html/5590ce25-6549-86f3-a537-b248627e4516.htm">
+        <HelpTOCNode Id="141033b6-963e-400c-ad65-9d74f0fb31c3" Title="ClangPlatformAvailability プロパティ" Url="html/5590ce25-6549-86f3-a537-b248627e4516.htm">
           <HelpTOCNode Title="Source プロパティ " Url="html/40db2a82-7075-a415-0658-751b463b9fdd.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a5d97ce8-a3d5-4f3a-b2d9-96fcf151fef1" Title="ClangPlatformAvailability メソッド" Url="html/2df010c7-294b-ca0d-2f68-106ac284286b.htm">
+        <HelpTOCNode Id="8754873f-807c-46bd-83ad-9b0cf2b1ac43" Title="ClangPlatformAvailability メソッド" Url="html/2df010c7-294b-ca0d-2f68-106ac284286b.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/c761a468-78cc-f595-a8c8-5e029ed03cf2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5f6ebcfb-5a57-48f5-b0ba-b9974fdf03ee" Title="ClangPrintingPolicy クラス" Url="html/c20ef64c-6e3b-7419-d7cf-f71e09b674e5.htm">
+      <HelpTOCNode Id="a1aec484-a843-4b40-8d5e-99626777b335" Title="ClangPrintingPolicy クラス" Url="html/c20ef64c-6e3b-7419-d7cf-f71e09b674e5.htm">
         <HelpTOCNode Title="ClangPrintingPolicy コンストラクター " Url="html/7c34f027-1a64-2a34-a46d-4db9e0c88e8d.htm" />
         <HelpTOCNode Title="ClangPrintingPolicy プロパティ" Url="html/6ef31f38-24c9-d700-d14d-a753ceec05aa.htm" />
-        <HelpTOCNode Id="af2ae851-8c5b-458d-996b-1430f29eced7" Title="ClangPrintingPolicy メソッド" Url="html/9c6299b9-5ab0-07cc-0502-d1fe519d4583.htm">
+        <HelpTOCNode Id="6e065988-3b6b-4b31-b605-016f7adec67b" Title="ClangPrintingPolicy メソッド" Url="html/9c6299b9-5ab0-07cc-0502-d1fe519d4583.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/8d326727-a66f-bbec-92c5-d4638170fdc4.htm" />
           <HelpTOCNode Title="GetProperty メソッド " Url="html/7f29fc04-8a81-6584-7116-fe4c084eef3d.htm" />
           <HelpTOCNode Title="SetProperty メソッド " Url="html/3b9d1fa2-6130-2e9a-04cb-cbe82807b317.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="aa6d48c9-18c1-4f0c-ab9f-ae6dc407147f" Title="ClangRemapping クラス" Url="html/b19404e1-1db5-f670-ea46-afbc3de9961a.htm">
+      <HelpTOCNode Id="6f4d47bf-2683-4bbd-b1f4-7e50dd8abf14" Title="ClangRemapping クラス" Url="html/b19404e1-1db5-f670-ea46-afbc3de9961a.htm">
         <HelpTOCNode Title="ClangRemapping コンストラクター " Url="html/7af240d0-2225-737e-7830-d1b7ff8fd7ed.htm" />
-        <HelpTOCNode Id="41e46805-4dd3-4e46-9681-18ea0d318b22" Title="ClangRemapping プロパティ" Url="html/72463438-9fd6-ad53-6242-c5e483a78b72.htm">
+        <HelpTOCNode Id="398cc1b0-e3f4-4685-9f19-8e1fdfc65bad" Title="ClangRemapping プロパティ" Url="html/72463438-9fd6-ad53-6242-c5e483a78b72.htm">
           <HelpTOCNode Title="FileCount プロパティ " Url="html/30622340-75cc-41d3-9aaa-23a65c1d13c2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7326d3b6-9706-474f-b7a0-79c47daebca5" Title="ClangRemapping メソッド" Url="html/0624c10a-0ac7-3242-e17a-bede31713a92.htm">
+        <HelpTOCNode Id="2a81c68c-9d2b-464d-9f93-1b6245858d5f" Title="ClangRemapping メソッド" Url="html/0624c10a-0ac7-3242-e17a-bede31713a92.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/c5f3685c-4b9a-42dc-7f95-0d70a2919422.htm" />
           <HelpTOCNode Title="GetFileNames メソッド " Url="html/3d7b815b-1c28-5820-3910-e2bd89d9bbcb.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0c006c3a-a061-43ca-ad79-247f57828196" Title="ClangServiceException クラス" Url="html/44790332-e5ce-3212-8dba-27a8b14b1194.htm">
-        <HelpTOCNode Id="1db9911d-0699-4cd1-b113-ffc7f8956403" Title="ClangServiceException コンストラクター " Url="html/97419d7e-8463-4188-81c1-c5c6169ef591.htm">
+      <HelpTOCNode Id="3c0012c2-62d7-4e35-b50b-7b90d1d9a3a0" Title="ClangServiceException クラス" Url="html/44790332-e5ce-3212-8dba-27a8b14b1194.htm">
+        <HelpTOCNode Id="dbf49227-6ae6-43fc-9d80-10e0070d6886" Title="ClangServiceException コンストラクター " Url="html/97419d7e-8463-4188-81c1-c5c6169ef591.htm">
           <HelpTOCNode Title="ClangServiceException コンストラクター (String)" Url="html/974ba4d8-f28a-aac4-ac3c-66da3b6566b9.htm" />
           <HelpTOCNode Title="ClangServiceException コンストラクター (SerializationInfo, StreamingContext)" Url="html/a82a9b6b-eedc-e028-36b6-334a23156891.htm" />
           <HelpTOCNode Title="ClangServiceException コンストラクター (String, Exception)" Url="html/25612ffe-7895-be4b-feb2-ee43f0ea0196.htm" />
@@ -801,9 +801,9 @@
         <HelpTOCNode Title="ClangServiceException メソッド" Url="html/e3ca7294-27fa-9b0a-59ed-73f08e057b3f.htm" />
         <HelpTOCNode Title="ClangServiceException イベント" Url="html/4b3a20db-8372-591a-5edd-57ba646a2362.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c974a1c9-f71b-42c5-af20-e3e02c71f5c6" Title="ClangSourceLocation 構造体" Url="html/73a7293a-af43-b028-69c5-de1cef493873.htm">
+      <HelpTOCNode Id="515f51a2-7756-4397-ae15-f3974e5adcc1" Title="ClangSourceLocation 構造体" Url="html/73a7293a-af43-b028-69c5-de1cef493873.htm">
         <HelpTOCNode Title="ClangSourceLocation コンストラクター " Url="html/db1f62c0-6a78-53d6-8bde-fcedbd2fae14.htm" />
-        <HelpTOCNode Id="34b2129e-1012-472d-8a51-c2079bfd2811" Title="ClangSourceLocation プロパティ" Url="html/f3e18c96-be14-1ed8-0955-27023f301cc7.htm">
+        <HelpTOCNode Id="fad4128f-3319-4d00-a8f0-4f69a9992783" Title="ClangSourceLocation プロパティ" Url="html/f3e18c96-be14-1ed8-0955-27023f301cc7.htm">
           <HelpTOCNode Title="ExpansionLocation プロパティ " Url="html/e637fab0-eb06-a724-e2ad-3e216163cdc8.htm" />
           <HelpTOCNode Title="FileLocation プロパティ " Url="html/8a8a6542-a31e-1d01-e269-6bc51a08e154.htm" />
           <HelpTOCNode Title="InstantiationLocation プロパティ " Url="html/02154bd9-4502-349e-9946-db35efab2168.htm" />
@@ -813,41 +813,41 @@
           <HelpTOCNode Title="Source プロパティ " Url="html/80a8d883-c2f4-9bfb-b1da-925074243613.htm" />
           <HelpTOCNode Title="SpellingLocation プロパティ " Url="html/b9badff9-8f50-07c8-1ae1-5623a2afa122.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="de092bb7-c34f-44ff-af20-b7a3639e4d7a" Title="ClangSourceLocation メソッド" Url="html/8cda01ad-688d-875d-9c90-a9e792b03592.htm">
-          <HelpTOCNode Id="b2a2a489-71ac-4a39-9566-41c241f29826" Title="Equals メソッド " Url="html/49a80864-3b7a-60a9-d124-933046c5b1af.htm">
+        <HelpTOCNode Id="befc4f3d-25bc-4e58-9a39-ca3a811a979f" Title="ClangSourceLocation メソッド" Url="html/8cda01ad-688d-875d-9c90-a9e792b03592.htm">
+          <HelpTOCNode Id="3ec93b4c-9a8f-4ce6-a035-1ee155865bec" Title="Equals メソッド " Url="html/49a80864-3b7a-60a9-d124-933046c5b1af.htm">
             <HelpTOCNode Title="Equals メソッド (Object)" Url="html/920d8d3e-71c5-d450-c41c-e8bae1e1da1d.htm" />
             <HelpTOCNode Title="Equals メソッド (ClangSourceLocation)" Url="html/4294dea7-35ff-6c3a-e1f2-a84d29a57259.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="GetHashCode メソッド " Url="html/7cbd4bf3-3a28-6614-2ff3-e4a84e4110ce.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d7e4bd30-2f52-4417-b3c2-380e2c969133" Title="ClangSourceLocation 演算子" Url="html/017f5c53-26aa-2eb1-09a1-dd932bf9262a.htm">
+        <HelpTOCNode Id="d554e2c2-f7bb-4cd0-aa49-2fea8a6948c1" Title="ClangSourceLocation 演算子" Url="html/017f5c53-26aa-2eb1-09a1-dd932bf9262a.htm">
           <HelpTOCNode Title="Equality 演算子 " Url="html/68deda45-6bc1-a9c4-e8de-f4d931f5b3ee.htm" />
           <HelpTOCNode Title="Inequality 演算子 " Url="html/1ccfb656-9e9d-c7e5-b300-a4de97655e4c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="146a0e43-bd41-4e65-9a0b-2eeaf254d8e5" Title="ClangSourceRange 構造体" Url="html/13d0e2f6-b030-e0d6-eb77-c3a8bc1b891e.htm">
+      <HelpTOCNode Id="a01d443d-a250-4135-95d1-aa0ac72171d1" Title="ClangSourceRange 構造体" Url="html/13d0e2f6-b030-e0d6-eb77-c3a8bc1b891e.htm">
         <HelpTOCNode Title="ClangSourceRange コンストラクター " Url="html/fcee3735-6d4d-36c4-c207-f8d1eed72169.htm" />
-        <HelpTOCNode Id="c7eecf9b-1f59-4478-baff-b39ac16c7016" Title="ClangSourceRange プロパティ" Url="html/26c3c9ac-2cc2-003b-ca37-abb44cfd246e.htm">
+        <HelpTOCNode Id="d2425dd6-e9f5-4466-b469-49f2dc674730" Title="ClangSourceRange プロパティ" Url="html/26c3c9ac-2cc2-003b-ca37-abb44cfd246e.htm">
           <HelpTOCNode Title="End プロパティ " Url="html/7695b1f2-250d-bccd-fe77-d8574a6adc60.htm" />
           <HelpTOCNode Title="IsNull プロパティ " Url="html/4ea842d0-9765-ef7f-0ada-aa1564d6a4d2.htm" />
           <HelpTOCNode Title="Source プロパティ " Url="html/fd41842b-e0ad-8fe3-e58c-1712b4b4fc8e.htm" />
           <HelpTOCNode Title="Start プロパティ " Url="html/d4cf802f-68ef-852c-d83d-723c0cf8ae75.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0ce2e90b-beec-4082-91e4-e457e9c7f4bf" Title="ClangSourceRange メソッド" Url="html/e8eb5b5a-3d47-91f1-3ab6-82074ad548ef.htm">
-          <HelpTOCNode Id="4bf4ae91-f225-4637-9371-4b81163bf29a" Title="Equals メソッド " Url="html/28550c59-16c5-85f5-f12d-70bb46df9628.htm">
+        <HelpTOCNode Id="8884f96a-e812-4c0e-86a6-40425cb30c52" Title="ClangSourceRange メソッド" Url="html/e8eb5b5a-3d47-91f1-3ab6-82074ad548ef.htm">
+          <HelpTOCNode Id="a33a672f-9c27-48a5-9734-bdb9d48151a6" Title="Equals メソッド " Url="html/28550c59-16c5-85f5-f12d-70bb46df9628.htm">
             <HelpTOCNode Title="Equals メソッド (Object)" Url="html/ecda4e91-2bc7-553f-ca1f-7756251f5db9.htm" />
             <HelpTOCNode Title="Equals メソッド (ClangSourceRange)" Url="html/39cff774-5690-2f8a-9d65-8e196553da56.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="GetHashCode メソッド " Url="html/8f4de145-de69-ecff-1e77-00b35867d5d4.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6521df37-b30a-414d-bb08-35d87888758c" Title="ClangSourceRange 演算子" Url="html/c3b9bfb0-4045-7189-7b52-9896f5d9aa5f.htm">
+        <HelpTOCNode Id="33d9c702-dc92-4ef2-87eb-68eacf41d5f7" Title="ClangSourceRange 演算子" Url="html/c3b9bfb0-4045-7189-7b52-9896f5d9aa5f.htm">
           <HelpTOCNode Title="Equality 演算子 " Url="html/f2d74354-b732-e830-c1b2-59481f9ec645.htm" />
           <HelpTOCNode Title="Inequality 演算子 " Url="html/cf8f355e-2b09-09c9-8cb8-985b18d7ffc8.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="16785eba-f303-43e8-bc4d-b199de88bbb5" Title="ClangSourceRangeList クラス" Url="html/90bb3d7d-40cd-045a-f44d-b8f998ab54f5.htm">
+      <HelpTOCNode Id="4b130911-5771-4578-b36c-ef11aec92bfe" Title="ClangSourceRangeList クラス" Url="html/90bb3d7d-40cd-045a-f44d-b8f998ab54f5.htm">
         <HelpTOCNode Title="ClangSourceRangeList コンストラクター " Url="html/e8212e14-bde8-8186-a998-45dc04a1d0e0.htm" />
-        <HelpTOCNode Id="e5d6574b-37d3-4a34-b17a-76a52285219f" Title="ClangSourceRangeList プロパティ" Url="html/8d7db8ae-c2c0-3864-d783-6f2ae885ad1c.htm">
+        <HelpTOCNode Id="efb3d422-3de5-4f52-bb4a-0a7313234a6f" Title="ClangSourceRangeList プロパティ" Url="html/8d7db8ae-c2c0-3864-d783-6f2ae885ad1c.htm">
           <HelpTOCNode Title="Count プロパティ " Url="html/98791579-dff5-d4eb-1896-41d0e0672d71.htm" />
           <HelpTOCNode Title="Item プロパティ " Url="html/691e971f-4926-bbc1-e0a0-07d0f77de060.htm" />
           <HelpTOCNode Title="Ranges プロパティ " Url="html/ab0b7126-4192-bd77-6402-c8be4bae0435.htm" />
@@ -855,19 +855,19 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangSourceRangeList メソッド" Url="html/82c27af9-c556-46ff-ec58-12380d4a468f.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="54199b02-f8ca-4835-b7a0-de773a11ea14" Title="ClangTargetInfo クラス" Url="html/8c0a5370-2ab0-30b3-a2bf-6c0b666b3d96.htm">
+      <HelpTOCNode Id="a3ca8d22-40ca-4e37-b087-728b4ae3495e" Title="ClangTargetInfo クラス" Url="html/8c0a5370-2ab0-30b3-a2bf-6c0b666b3d96.htm">
         <HelpTOCNode Title="ClangTargetInfo コンストラクター " Url="html/7315a73a-c607-5ae0-ec19-a52135cc1ebf.htm" />
-        <HelpTOCNode Id="b6497732-9d56-43df-8a4a-3ae3cc79be86" Title="ClangTargetInfo プロパティ" Url="html/674a7753-7ff6-e323-6b8f-655dfb9341d7.htm">
+        <HelpTOCNode Id="9eff2813-5c10-4123-84e3-e3b762d6537a" Title="ClangTargetInfo プロパティ" Url="html/674a7753-7ff6-e323-6b8f-655dfb9341d7.htm">
           <HelpTOCNode Title="PointerWidth プロパティ " Url="html/f62484c4-8d76-00fd-f123-8b1e005cab8e.htm" />
           <HelpTOCNode Title="Triple プロパティ " Url="html/e4676843-0722-fce7-0fd4-b897b6228d2f.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ae8bfd7b-1f4e-4842-8211-2f9b77960761" Title="ClangTargetInfo メソッド" Url="html/a80e0052-5237-3998-d193-3405aaadcb43.htm">
+        <HelpTOCNode Id="b146fc2f-9efc-4a8a-8843-1d5bef6b6bb1" Title="ClangTargetInfo メソッド" Url="html/a80e0052-5237-3998-d193-3405aaadcb43.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/5c250edf-c365-7cb0-b180-67637a00de9c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c42b3cbe-b990-4921-99d9-61a4372c563f" Title="ClangToken クラス" Url="html/4a62b81f-6ccf-8a3a-ba5b-15fe238751db.htm">
+      <HelpTOCNode Id="6b36f580-9f08-448e-b9cf-07ac49bc2a95" Title="ClangToken クラス" Url="html/4a62b81f-6ccf-8a3a-ba5b-15fe238751db.htm">
         <HelpTOCNode Title="ClangToken コンストラクター " Url="html/c0ed387e-2efa-2766-69b1-19f3fd5c7fd8.htm" />
-        <HelpTOCNode Id="b8b95868-725b-44e8-be62-fa4856059030" Title="ClangToken プロパティ" Url="html/489b321e-83e7-753f-cbe2-ff83f0f20adb.htm">
+        <HelpTOCNode Id="baa34b1b-011d-4b4e-bda2-e90758ae2766" Title="ClangToken プロパティ" Url="html/489b321e-83e7-753f-cbe2-ff83f0f20adb.htm">
           <HelpTOCNode Title="Extent プロパティ " Url="html/d4e30da2-6b7e-0e93-78ba-02b78fdf6572.htm" />
           <HelpTOCNode Title="Kind プロパティ " Url="html/d037b7c7-e4dd-aa4e-c8dc-49c778dcc396.htm" />
           <HelpTOCNode Title="Location プロパティ " Url="html/15b0cc7b-d923-a325-521c-a717e290174a.htm" />
@@ -877,9 +877,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ClangToken メソッド" Url="html/283e3ae4-17e9-41cd-cafd-426f12cc13a8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="90558981-cac8-4de3-a10a-2b9dba88a600" Title="ClangTokenSet クラス" Url="html/c972b588-b51a-f248-8cf9-340463b2d821.htm">
+      <HelpTOCNode Id="064127bf-a6ce-4f4a-8c79-a09184b39d3a" Title="ClangTokenSet クラス" Url="html/c972b588-b51a-f248-8cf9-340463b2d821.htm">
         <HelpTOCNode Title="ClangTokenSet コンストラクター " Url="html/c4cdd5f9-debd-7604-319e-47d4a1a905e4.htm" />
-        <HelpTOCNode Id="117c315f-4fcf-4d15-922a-613a4f412072" Title="ClangTokenSet プロパティ" Url="html/847ba52b-300a-2489-ed46-1932304bc5e8.htm">
+        <HelpTOCNode Id="33a2f706-b2a2-4844-bcd9-7513bb37cef2" Title="ClangTokenSet プロパティ" Url="html/847ba52b-300a-2489-ed46-1932304bc5e8.htm">
           <HelpTOCNode Title="AnnotateTokens プロパティ " Url="html/49e26fe9-f5d3-90c4-798f-699641e1cc21.htm" />
           <HelpTOCNode Title="Count プロパティ " Url="html/cece7ff1-6752-a6bd-dab8-1cba2c34020a.htm" />
           <HelpTOCNode Title="Item プロパティ " Url="html/9e188994-a6c8-7d63-2cdd-ab0ee6b540e5.htm" />
@@ -887,13 +887,13 @@
           <HelpTOCNode Title="Tokens プロパティ " Url="html/3fdb788b-19d3-f832-6474-3162c6f78295.htm" />
           <HelpTOCNode Title="TranslationUnit プロパティ " Url="html/bd21908e-44f1-dfa2-0a3a-e640aa7d2fcb.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3ee7b5c8-f702-4b6e-9800-17e67747baa2" Title="ClangTokenSet メソッド" Url="html/87e0a830-079e-07fd-769d-efa19faf863a.htm">
+        <HelpTOCNode Id="c5865a33-d7fb-4119-8b13-7d98cd79adcd" Title="ClangTokenSet メソッド" Url="html/87e0a830-079e-07fd-769d-efa19faf863a.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/9f6fb5f1-00fe-145f-e475-c46858254833.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="07464c80-0076-42bc-b444-29fbabb16e2f" Title="ClangTranslationUnit クラス" Url="html/f141d220-a2dd-066f-000c-b2f632b3705a.htm">
+      <HelpTOCNode Id="446dab85-811d-4075-8ea5-f7a0b58a3c0b" Title="ClangTranslationUnit クラス" Url="html/f141d220-a2dd-066f-000c-b2f632b3705a.htm">
         <HelpTOCNode Title="ClangTranslationUnit コンストラクター " Url="html/1079590e-c808-3807-486b-a7c15bd9e3c2.htm" />
-        <HelpTOCNode Id="3e70e408-0ce8-4f4f-a081-cf89b164a724" Title="ClangTranslationUnit プロパティ" Url="html/1146f334-a96d-bc44-eab3-5084aadc1176.htm">
+        <HelpTOCNode Id="0429ea1d-b803-4b24-b842-7e19dcab5c0a" Title="ClangTranslationUnit プロパティ" Url="html/1146f334-a96d-bc44-eab3-5084aadc1176.htm">
           <HelpTOCNode Title="Cursor プロパティ " Url="html/8da7b7a7-c4d2-a16c-6da3-22318e35d827.htm" />
           <HelpTOCNode Title="DefaultReparseOptions プロパティ " Url="html/9c94439a-6f8e-5760-362f-f0215e25e1d9.htm" />
           <HelpTOCNode Title="DefaultSaveOptions プロパティ " Url="html/afcec327-ce6e-0e11-206d-28aa420a4758.htm" />
@@ -903,11 +903,11 @@
           <HelpTOCNode Title="Spelling プロパティ " Url="html/365e022d-e8d9-0da2-ee9c-9ff5e9f942b5.htm" />
           <HelpTOCNode Title="TargetInfo プロパティ " Url="html/bf8f0b7b-3bd6-ee9c-94e4-d818f7d1cbbf.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b1467a6d-15f2-4b2a-aba5-0140a8236c3a" Title="ClangTranslationUnit メソッド" Url="html/b205f1a3-35b4-a61c-48b1-6b251d2ba951.htm">
+        <HelpTOCNode Id="c661d8b0-a996-4832-8792-7681e17f18f5" Title="ClangTranslationUnit メソッド" Url="html/b205f1a3-35b4-a61c-48b1-6b251d2ba951.htm">
           <HelpTOCNode Title="CreateNativeCursorAndRangeVisitor メソッド " Url="html/7c2cd63e-5c1f-f092-156f-1a4b8c5134be.htm" />
           <HelpTOCNode Title="CreateNativeInclusionVisitor メソッド " Url="html/07e8eee3-629b-63d2-3da7-085de98b2534.htm" />
           <HelpTOCNode Title="Dispose メソッド " Url="html/900dca9e-e42d-a902-6aab-5c7575853551.htm" />
-          <HelpTOCNode Id="7560682c-0ef2-4980-a16c-2ff03b689f35" Title="Equals メソッド " Url="html/334c1f91-789c-0167-fddd-50ce99cea940.htm">
+          <HelpTOCNode Id="d49ec100-75a9-4bd2-bafe-5bb2e3b792bf" Title="Equals メソッド " Url="html/334c1f91-789c-0167-fddd-50ce99cea940.htm">
             <HelpTOCNode Title="Equals メソッド (Object)" Url="html/eea1f2b6-2646-8bc1-fe82-6647c269570a.htm" />
             <HelpTOCNode Title="Equals メソッド (ClangTranslationUnit)" Url="html/b0d592fa-4bab-774d-1afa-394757695b70.htm" />
           </HelpTOCNode>
@@ -919,7 +919,7 @@
           <HelpTOCNode Title="GetFileContents メソッド " Url="html/ead52765-9751-3f21-7204-2d158fa30b72.htm" />
           <HelpTOCNode Title="GetHashCode メソッド " Url="html/ed4ae98f-5f10-df3f-7bd1-318ae500ed70.htm" />
           <HelpTOCNode Title="GetInclusions メソッド " Url="html/e77b60ff-88ce-6f5a-a8e6-0ec1cb1d7940.htm" />
-          <HelpTOCNode Id="5fb296a1-cbfd-4fe2-91e3-a46281b5a958" Title="GetLocation メソッド " Url="html/7af6fe6c-548e-e1e4-a1e6-db4b3c2f99a4.htm">
+          <HelpTOCNode Id="8d65ad0f-22da-4b25-b266-834e9dc2baf4" Title="GetLocation メソッド " Url="html/7af6fe6c-548e-e1e4-a1e6-db4b3c2f99a4.htm">
             <HelpTOCNode Title="GetLocation メソッド (ClangFile, UInt32)" Url="html/f47dd3dc-b427-4f55-3b36-586ac876d26a.htm" />
             <HelpTOCNode Title="GetLocation メソッド (ClangFile, UInt32, UInt32)" Url="html/98011ba0-874e-5956-1509-dc392fb71453.htm" />
           </HelpTOCNode>
@@ -935,29 +935,29 @@
           <HelpTOCNode Title="Tokenize メソッド " Url="html/184291f4-0680-4c36-dfc6-0982caceb0a3.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5589486e-9438-431c-b7eb-79c8c29a652b" Title="ClangTranslationUnitResourceUsage クラス" Url="html/b9cd86f9-2704-815f-0dfb-c5c05289752c.htm">
+      <HelpTOCNode Id="d2263c69-2f0b-4be8-8f2e-0d3dfd7be30f" Title="ClangTranslationUnitResourceUsage クラス" Url="html/b9cd86f9-2704-815f-0dfb-c5c05289752c.htm">
         <HelpTOCNode Title="ClangTranslationUnitResourceUsage コンストラクター " Url="html/c07c0d3f-58be-4dc8-90cd-bf00c37c2a40.htm" />
-        <HelpTOCNode Id="dd4572e3-5080-4138-a7a0-2811e966d61e" Title="ClangTranslationUnitResourceUsage プロパティ" Url="html/9f3b1eff-3f08-60fc-d0b9-13f95e1d7c66.htm">
+        <HelpTOCNode Id="65f4a648-adbf-4f3a-9b95-234950ad4fec" Title="ClangTranslationUnitResourceUsage プロパティ" Url="html/9f3b1eff-3f08-60fc-d0b9-13f95e1d7c66.htm">
           <HelpTOCNode Title="EntryCount プロパティ " Url="html/f70df7ef-10d0-967d-839d-f35686736915.htm" />
           <HelpTOCNode Title="Source プロパティ " Url="html/d2d918df-06e4-74b4-daa5-a956933797fe.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8ecb1c22-59fc-44da-8132-cb38550dfca2" Title="ClangTranslationUnitResourceUsage メソッド" Url="html/ad983333-c667-7c7f-f2c3-b2cfc054d630.htm">
+        <HelpTOCNode Id="650e73c8-51a4-4a58-b8b0-09d0c52638ae" Title="ClangTranslationUnitResourceUsage メソッド" Url="html/ad983333-c667-7c7f-f2c3-b2cfc054d630.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/5595fdec-9063-3f8b-b824-b772e74e5a75.htm" />
           <HelpTOCNode Title="GetEntry メソッド " Url="html/c3446e71-23a9-7693-cc9a-0a335ddee323.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e4b6fca0-db7d-44b4-823d-23b0574bd54a" Title="ClangTranslationUnitResourceUsageEntry クラス" Url="html/1c436bc9-836b-dc09-712b-60e4f9df88d7.htm">
+      <HelpTOCNode Id="b60da6af-e90b-4d78-bd93-fab5eeca040a" Title="ClangTranslationUnitResourceUsageEntry クラス" Url="html/1c436bc9-836b-dc09-712b-60e4f9df88d7.htm">
         <HelpTOCNode Title="ClangTranslationUnitResourceUsageEntry コンストラクター " Url="html/ea93353a-92a8-783c-5a6d-1f3af2661422.htm" />
-        <HelpTOCNode Id="dfbc60cd-4bdf-443f-8755-8fb1df691074" Title="ClangTranslationUnitResourceUsageEntry プロパティ" Url="html/6793740f-4a1b-2281-20f9-fbacce942d3f.htm">
+        <HelpTOCNode Id="edb2b782-44d3-4d91-ba97-6e1d66dcc646" Title="ClangTranslationUnitResourceUsageEntry プロパティ" Url="html/6793740f-4a1b-2281-20f9-fbacce942d3f.htm">
           <HelpTOCNode Title="Amount プロパティ " Url="html/6a85e5b9-8e9b-81ab-424c-1583a7017c2c.htm" />
           <HelpTOCNode Title="Kind プロパティ " Url="html/8620a7a9-cd1f-3525-7daa-3dee4c91a19b.htm" />
           <HelpTOCNode Title="Source プロパティ " Url="html/2fe2d30c-b154-456f-174b-be2f0717ad9f.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangTranslationUnitResourceUsageEntry メソッド" Url="html/bcc54078-2967-e19a-a5c6-61e89553676a.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="72c01393-b68f-4c3a-ae40-b95446381fe0" Title="ClangType クラス" Url="html/f33a925e-f038-06e2-66fe-bfcd578e322b.htm">
+      <HelpTOCNode Id="677340bc-e0a3-455a-a2e1-8a5681af3a4b" Title="ClangType クラス" Url="html/f33a925e-f038-06e2-66fe-bfcd578e322b.htm">
         <HelpTOCNode Title="ClangType コンストラクター " Url="html/3ee9fadf-4c17-6ad4-4392-4bc0925f006f.htm" />
-        <HelpTOCNode Id="4030551a-9a76-4a7e-8487-169952d9504d" Title="ClangType プロパティ" Url="html/234ebbc8-91bb-0810-480c-0f62374a5260.htm">
+        <HelpTOCNode Id="b1a23895-bb83-44d3-bd92-946d0fdd24fa" Title="ClangType プロパティ" Url="html/234ebbc8-91bb-0810-480c-0f62374a5260.htm">
           <HelpTOCNode Title="AddressSpace プロパティ " Url="html/5f84fe21-3bd9-0644-253c-990d12e6f41a.htm" />
           <HelpTOCNode Title="AlignOf プロパティ " Url="html/56091eaf-5a1d-b3a3-1601-47ac2c6f7be3.htm" />
           <HelpTOCNode Title="ArgumentTypeCount プロパティ " Url="html/9495c602-2610-b4cb-2610-91d614d49950.htm" />
@@ -992,7 +992,7 @@
           <HelpTOCNode Title="TypeDeclaration プロパティ " Url="html/70cbe1d0-7e36-2235-4f87-0c1bc5e43505.htm" />
           <HelpTOCNode Title="TypedefName プロパティ " Url="html/798dada7-86ce-3595-811c-bd12a2bcb500.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0fd9d974-70ed-4399-a348-ec5276d871e7" Title="ClangType メソッド" Url="html/8cfea01b-0f13-92f9-07bb-34ded1e134de.htm">
+        <HelpTOCNode Id="9de3b33f-83f1-4ec7-be52-06d437d7cc38" Title="ClangType メソッド" Url="html/8cfea01b-0f13-92f9-07bb-34ded1e134de.htm">
           <HelpTOCNode Title="CreateNativeFieldVisitor メソッド " Url="html/278e8ae8-bb78-0d6e-45c5-d1091780b0c3.htm" />
           <HelpTOCNode Title="EqualsCore メソッド " Url="html/1ac4d0d3-34fc-33a2-c9c0-2fdcec6e0eba.htm" />
           <HelpTOCNode Title="GetArgumentType メソッド " Url="html/cd236358-df40-de30-8184-6c4b8b103f5f.htm" />
@@ -1004,38 +1004,38 @@
           <HelpTOCNode Title="VisitFields メソッド " Url="html/10eb45d2-1e44-3acc-d7a7-1275d457ee39.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="85859ad6-a8b2-4c1e-a006-d0af6e95b916" Title="ClangUnsavedFile 構造体" Url="html/f46556e1-4e5a-29b8-5e23-ba52c8927e32.htm">
+      <HelpTOCNode Id="9babb66c-7469-49c6-be61-3f5a30b13cd5" Title="ClangUnsavedFile 構造体" Url="html/f46556e1-4e5a-29b8-5e23-ba52c8927e32.htm">
         <HelpTOCNode Title="ClangUnsavedFile コンストラクター " Url="html/618d3b6f-e247-9b4b-0e49-8ac9afaecced.htm" />
-        <HelpTOCNode Id="15708191-3e1e-4253-b48c-bb83879637a1" Title="ClangUnsavedFile プロパティ" Url="html/d415864a-5afa-43fc-0d1d-2c7ebed237b5.htm">
+        <HelpTOCNode Id="6e21035a-53ab-48a9-b446-300990014700" Title="ClangUnsavedFile プロパティ" Url="html/d415864a-5afa-43fc-0d1d-2c7ebed237b5.htm">
           <HelpTOCNode Title="Contents プロパティ " Url="html/1fcc734c-5666-5825-e78b-c01c3e3e65f3.htm" />
           <HelpTOCNode Title="FileName プロパティ " Url="html/919bb957-3f97-f59b-1b94-38b5427c689c.htm" />
           <HelpTOCNode Title="Length プロパティ " Url="html/d43a470e-b29f-470c-7cad-fd98aed0442b.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ClangUnsavedFile メソッド" Url="html/f384ca49-5627-07bd-cd5a-8a1a9f601636.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6cd8189d-08fc-4ef8-8662-add5fefe1ea4" Title="ClangUnsavedFileEx クラス" Url="html/6b83c5d3-18da-5316-dc3d-81f00172db61.htm">
-        <HelpTOCNode Id="893d3d91-a13b-48ff-942e-0a87ec123750" Title="ClangUnsavedFileEx メソッド" Url="html/d8fcc66e-f7b0-559c-d7e7-b7fc67371f04.htm">
+      <HelpTOCNode Id="dcc709ed-7ca4-4ddc-98d1-0936d7c0108c" Title="ClangUnsavedFileEx クラス" Url="html/6b83c5d3-18da-5316-dc3d-81f00172db61.htm">
+        <HelpTOCNode Id="35c35e96-1a9a-417c-a667-ad6a7295341d" Title="ClangUnsavedFileEx メソッド" Url="html/d8fcc66e-f7b0-559c-d7e7-b7fc67371f04.htm">
           <HelpTOCNode Title="ToNative メソッド " Url="html/c50a372c-0081-0c2c-297e-21c6085b20cc.htm" />
           <HelpTOCNode Title="ToNativeArray メソッド " Url="html/e96ed71b-0bbf-93ec-d907-83b716ee9ef7.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="10dbbf8f-8295-4d92-bb35-7d3bdf3cba2c" Title="ClangValueObject(T) クラス" Url="html/845ece76-acb6-9161-c0a5-b18835f9e52a.htm">
+      <HelpTOCNode Id="0777ffbb-4f60-4f3b-a7cd-d24384190c9c" Title="ClangValueObject(T) クラス" Url="html/845ece76-acb6-9161-c0a5-b18835f9e52a.htm">
         <HelpTOCNode Title="ClangValueObject(T) コンストラクター " Url="html/45cd489f-b2d8-a407-5bf2-04475d1f9946.htm" />
-        <HelpTOCNode Id="9e8eb6b0-2b4b-4d19-a138-acdab81f053b" Title="ClangValueObject(T) メソッド" Url="html/994d6c1f-6cdb-6545-e209-2e46fb1144a6.htm">
+        <HelpTOCNode Id="7b0e2bbc-ad3f-4a4f-8ebb-b8f9a29ad24e" Title="ClangValueObject(T) メソッド" Url="html/994d6c1f-6cdb-6545-e209-2e46fb1144a6.htm">
           <HelpTOCNode Title="Equals メソッド " Url="html/dbf317cf-eb9f-eb07-c1a4-6f74dfb22762.htm" />
           <HelpTOCNode Title="EqualsCore メソッド " Url="html/1848e853-b73b-fdea-042d-3089e68eb397.htm" />
           <HelpTOCNode Title="GetHashCode メソッド " Url="html/5375c49c-b686-b133-f272-8fbe1802151a.htm" />
           <HelpTOCNode Title="GetHashCodeCore メソッド " Url="html/ce605d7c-2068-f6bc-3127-f4d9a8bdf857.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="09d3ec4b-5565-4580-a730-eb4f821153c6" Title="ClangValueObject(T) 演算子" Url="html/725ae20a-8cf7-83fd-d6f4-7a905026da94.htm">
+        <HelpTOCNode Id="36702d06-db80-4e40-9aa4-e1b15d7093e5" Title="ClangValueObject(T) 演算子" Url="html/725ae20a-8cf7-83fd-d6f4-7a905026da94.htm">
           <HelpTOCNode Title="Equality 演算子 " Url="html/cc9911a7-17cf-82c1-015a-22a745551f60.htm" />
           <HelpTOCNode Title="Inequality 演算子 " Url="html/85c21d36-c5d3-1b02-8be5-c1d6ae3740d8.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="70d5fa4b-2926-4599-a619-69c95ff83fb6" Title="ClangVirtualFileOverlay クラス" Url="html/01e853a0-d151-4b58-4300-6d072007114f.htm">
+      <HelpTOCNode Id="4a6bb8c3-59e8-4422-8ead-efad8d9a3a7d" Title="ClangVirtualFileOverlay クラス" Url="html/01e853a0-d151-4b58-4300-6d072007114f.htm">
         <HelpTOCNode Title="ClangVirtualFileOverlay コンストラクター " Url="html/0c7d0f3c-687e-e875-7517-c8f252bad783.htm" />
         <HelpTOCNode Title="ClangVirtualFileOverlay プロパティ" Url="html/61ba164d-df07-9e3c-f8b9-8fadbfdaca87.htm" />
-        <HelpTOCNode Id="49a97e86-15bb-479a-89f1-046960fb8026" Title="ClangVirtualFileOverlay メソッド" Url="html/2e7aee80-fa2c-3fb1-7ec2-69925ff412bf.htm">
+        <HelpTOCNode Id="b05e32e0-e70c-4564-a457-0735c1da7e83" Title="ClangVirtualFileOverlay メソッド" Url="html/2e7aee80-fa2c-3fb1-7ec2-69925ff412bf.htm">
           <HelpTOCNode Title="AddFileMapping メソッド " Url="html/5a185e0d-c958-ac47-d00d-e50b1ab44179.htm" />
           <HelpTOCNode Title="Dispose メソッド " Url="html/4ae0f7e4-20c8-f072-c832-c783b8379084.htm" />
           <HelpTOCNode Title="SetCaseSensitivity メソッド " Url="html/b31e7217-f9ce-dc5d-c08e-60a92a688eea.htm" />
@@ -1048,17 +1048,17 @@
       <HelpTOCNode Title="CommentParamPassDirection 列挙体" Url="html/9ae9fb5c-6c23-5a73-4f18-75912d82586c.htm" />
       <HelpTOCNode Title="CompilationDatabaseError 列挙体" Url="html/0db51cf0-dad0-d1fa-651b-1e7f1997afba.htm" />
       <HelpTOCNode Title="CompletionChunkKind 列挙体" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
-      <HelpTOCNode Id="d7954090-a538-4da4-a254-5738907308a5" Title="ConsoleLogger クラス" Url="html/a24fb4ee-728c-fdf4-447c-bf7650cdd9e8.htm">
+      <HelpTOCNode Id="acc4c4a2-afd6-43f9-8c30-d09f6dd9905a" Title="ConsoleLogger クラス" Url="html/a24fb4ee-728c-fdf4-447c-bf7650cdd9e8.htm">
         <HelpTOCNode Title="ConsoleLogger コンストラクター " Url="html/e351cca1-1799-394c-3436-69166696837c.htm" />
-        <HelpTOCNode Id="80722fe2-c32a-4f22-9f55-e088c6c46cf2" Title="ConsoleLogger メソッド" Url="html/a1e78083-1c46-ed67-bced-7cde471c02c2.htm">
+        <HelpTOCNode Id="0d4a7b1e-80ba-4433-be27-e148b0f16de9" Title="ConsoleLogger メソッド" Url="html/a1e78083-1c46-ed67-bced-7cde471c02c2.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/888e2d86-7bca-d8a9-e70c-1cc2e44512b1.htm" />
           <HelpTOCNode Title="WriteMessage メソッド " Url="html/fd92c552-79a1-5f9a-4e37-38c27204354e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="CursorExceptionSpecificationKind 列挙体" Url="html/7718f6c6-9dbd-75fe-7b83-dd57f561326b.htm" />
       <HelpTOCNode Title="CursorKind 列挙体" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
-      <HelpTOCNode Id="f967a919-4619-466a-9664-9556c4520a67" Title="CursorKindEx クラス" Url="html/05ad2577-63b6-9eac-ec8b-d0f869d74402.htm">
-        <HelpTOCNode Id="f602f8b7-691e-4e2b-a366-4d352c9c0d25" Title="CursorKindEx メソッド" Url="html/e22f3615-d33c-74aa-e671-9b9a860c7027.htm">
+      <HelpTOCNode Id="bc45d94f-7902-4f93-a11d-5ef82d8733e7" Title="CursorKindEx クラス" Url="html/05ad2577-63b6-9eac-ec8b-d0f869d74402.htm">
+        <HelpTOCNode Id="19feb3d1-496e-4151-93f9-f91f65d9eb07" Title="CursorKindEx メソッド" Url="html/e22f3615-d33c-74aa-e671-9b9a860c7027.htm">
           <HelpTOCNode Title="IsAttribute メソッド " Url="html/860cfc9b-f373-7693-b9c0-d9e62dcfb7d7.htm" />
           <HelpTOCNode Title="IsDeclaration メソッド " Url="html/84c25cf3-ece0-3b8b-0f4b-c142018560ee.htm" />
           <HelpTOCNode Title="IsExpression メソッド " Url="html/8321d862-de08-4891-b7ab-d587072d23a5.htm" />
@@ -1070,95 +1070,95 @@
           <HelpTOCNode Title="Spelling メソッド " Url="html/cb5a78e9-3a66-a4e3-75aa-a686a1a8832b.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="cbfbe465-578f-4226-b994-b4e6e4d50b9c" Title="CXCommentEx クラス" Url="html/96eca563-91ff-2fd7-c3fe-a8b1afb70d37.htm">
-        <HelpTOCNode Id="d6d454c8-7dc3-4bbb-b77e-c489ce620791" Title="CXCommentEx メソッド" Url="html/75faacc3-6afe-377e-dc42-6be5ab0f4772.htm">
+      <HelpTOCNode Id="77db06c7-91fc-4aff-9b5a-2b415e727f3c" Title="CXCommentEx クラス" Url="html/96eca563-91ff-2fd7-c3fe-a8b1afb70d37.htm">
+        <HelpTOCNode Id="c43ad59a-83b9-4ee3-8e11-2c5ffef30932" Title="CXCommentEx メソッド" Url="html/75faacc3-6afe-377e-dc42-6be5ab0f4772.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/e938b750-45fc-e27f-02ee-3dd6a99bd513.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a269870b-0967-4622-9df1-dad8c5780b9b" Title="CXCursorEx クラス" Url="html/8fa13402-4fe5-e918-7e83-2d5e4e660555.htm">
-        <HelpTOCNode Id="d38e8b3c-6e6c-43fc-813b-fd4dd759a123" Title="CXCursorEx メソッド" Url="html/86d084bd-2a1b-9c44-3bf4-fc0041fb5c0a.htm">
+      <HelpTOCNode Id="fef12bfd-8bc1-449c-933e-887282d7b972" Title="CXCursorEx クラス" Url="html/8fa13402-4fe5-e918-7e83-2d5e4e660555.htm">
+        <HelpTOCNode Id="31ef0f85-4206-4239-811f-c88107393c7e" Title="CXCursorEx メソッド" Url="html/86d084bd-2a1b-9c44-3bf4-fc0041fb5c0a.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/fbd70eed-91a7-28dd-32ea-d1c6b87cbe56.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="84b14bed-a685-49b9-8840-d700e4629055" Title="CXFileUniqueIDEx クラス" Url="html/82429ed7-ac45-0a43-fe3d-c74e810bbff2.htm">
-        <HelpTOCNode Id="7d2641e8-7628-478c-9f44-977b6514093e" Title="CXFileUniqueIDEx メソッド" Url="html/a929bdea-c5b3-fa12-a3b8-2bc9f0e622e1.htm">
+      <HelpTOCNode Id="b3bdf829-ef96-4963-ae2b-c1fff78f0770" Title="CXFileUniqueIDEx クラス" Url="html/82429ed7-ac45-0a43-fe3d-c74e810bbff2.htm">
+        <HelpTOCNode Id="68fb659e-9cd3-4d44-bc3d-165e1da35efb" Title="CXFileUniqueIDEx メソッド" Url="html/a929bdea-c5b3-fa12-a3b8-2bc9f0e622e1.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/8e03d5be-230f-f3bc-715e-309909b04c62.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="859aa53b-57b8-43da-8fde-90d2faf7fa77" Title="CXIdxLocEx クラス" Url="html/d9839288-738a-b363-f072-d57da2b5c550.htm">
-        <HelpTOCNode Id="4596f2d8-aeb2-476c-a2c8-3c61018eca76" Title="CXIdxLocEx メソッド" Url="html/67e35846-5697-2b8a-9c97-6b28fccf97a5.htm">
+      <HelpTOCNode Id="64b72644-aee4-455d-bec1-0e9295d90c05" Title="CXIdxLocEx クラス" Url="html/d9839288-738a-b363-f072-d57da2b5c550.htm">
+        <HelpTOCNode Id="a459c6e4-811d-4c94-8fef-0c91e120a5ce" Title="CXIdxLocEx メソッド" Url="html/67e35846-5697-2b8a-9c97-6b28fccf97a5.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/055b8ac9-034b-5cc3-f23c-0826716d9c5f.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="286089a8-a67a-4683-abe7-fc1a74d63a3e" Title="CXSourceLocationEx クラス" Url="html/8c57331a-c572-62a1-14d1-b13bfbb5ee94.htm">
-        <HelpTOCNode Id="490d4d3c-d164-42ed-baf8-f36f507f1e6c" Title="CXSourceLocationEx メソッド" Url="html/101d7980-dc68-43c5-0e34-45388d512ae8.htm">
+      <HelpTOCNode Id="dbefbc02-dcb5-4b1d-a48b-753dd3e2000a" Title="CXSourceLocationEx クラス" Url="html/8c57331a-c572-62a1-14d1-b13bfbb5ee94.htm">
+        <HelpTOCNode Id="379fc54c-b207-4788-9540-ed3965b70e9f" Title="CXSourceLocationEx メソッド" Url="html/101d7980-dc68-43c5-0e34-45388d512ae8.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/a3df1502-4ca7-eaa7-a90f-19ab319f502c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1f8a3c18-b060-433d-a9fd-7ba4ddde1db6" Title="CXSourceRangeEx クラス" Url="html/10543f60-468f-c845-f12c-95c52daf6113.htm">
-        <HelpTOCNode Id="67d64e9e-89b9-4c97-a201-496d7303911e" Title="CXSourceRangeEx メソッド" Url="html/8323d451-7d2a-f0f4-702c-8e01ee38ebb1.htm">
+      <HelpTOCNode Id="cf5c5226-be90-47d3-b7cb-ee06208c90e1" Title="CXSourceRangeEx クラス" Url="html/10543f60-468f-c845-f12c-95c52daf6113.htm">
+        <HelpTOCNode Id="76a92a52-e858-4e16-8e80-bb7c338b0467" Title="CXSourceRangeEx メソッド" Url="html/8323d451-7d2a-f0f4-702c-8e01ee38ebb1.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/a4c54270-c8ff-7f67-0c52-c34275b533d3.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bf0a19bc-f77d-48d6-94f7-a08e70b07b19" Title="CXStringEx クラス" Url="html/a9afa60c-bb9a-12ab-2e2a-3bd0b2d2068b.htm">
-        <HelpTOCNode Id="65222fb5-8266-4155-9987-54420c6c7408" Title="CXStringEx メソッド" Url="html/11519416-6717-7fd0-2d3c-bf25901e80e9.htm">
+      <HelpTOCNode Id="784ab3e8-5c59-4d4b-95df-e4c021dadd9c" Title="CXStringEx クラス" Url="html/a9afa60c-bb9a-12ab-2e2a-3bd0b2d2068b.htm">
+        <HelpTOCNode Id="1bfd7aff-8040-468c-88af-026530b50576" Title="CXStringEx メソッド" Url="html/11519416-6717-7fd0-2d3c-bf25901e80e9.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/cc798a69-cf34-2c7a-4408-dc58b711ca93.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d9b9958a-216b-4fe8-9efe-289848784b33" Title="CXStringSetEx クラス" Url="html/89afd1c6-d5ea-4d9d-0f7f-73b0ae457b24.htm">
-        <HelpTOCNode Id="e8e4a758-0bc9-4922-9511-cb7e402ec19c" Title="CXStringSetEx メソッド" Url="html/6257f1ff-2b26-1714-48cc-6b64c6266a2e.htm">
+      <HelpTOCNode Id="956b9dc1-f8b8-4298-90a8-b74062011a5c" Title="CXStringSetEx クラス" Url="html/89afd1c6-d5ea-4d9d-0f7f-73b0ae457b24.htm">
+        <HelpTOCNode Id="57da4edf-a4cb-41e4-ab1c-53f4fd271b3a" Title="CXStringSetEx メソッド" Url="html/6257f1ff-2b26-1714-48cc-6b64c6266a2e.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/788c4fc9-7115-27b6-283f-002af52440f5.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f1f7dc9e-5eed-4d9f-a66d-802c9ca0690a" Title="CXTokenEx クラス" Url="html/06b5f11b-86a1-b938-59c6-57d6266095b6.htm">
-        <HelpTOCNode Id="e02c978d-2b54-4105-ba4f-8c1caa073ebf" Title="CXTokenEx メソッド" Url="html/ad1de63b-359e-0066-7bf9-e50eca62ce6f.htm">
+      <HelpTOCNode Id="d8f9ec1d-58bd-4dc6-8cfc-22f08da95e20" Title="CXTokenEx クラス" Url="html/06b5f11b-86a1-b938-59c6-57d6266095b6.htm">
+        <HelpTOCNode Id="6f6c8b1a-c47c-475d-9b68-58beed6ea740" Title="CXTokenEx メソッド" Url="html/ad1de63b-359e-0066-7bf9-e50eca62ce6f.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/8f5c48ed-9dfd-b981-f54b-f190204d7a1b.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9d204ac9-85f4-407d-8fe8-5c2ed976d850" Title="CXTUResourceUsageEntryEx クラス" Url="html/3b5c6639-6fee-4c5a-7603-65624b60100c.htm">
-        <HelpTOCNode Id="6cc5f1de-2962-4817-93d0-3c74b41d3e2b" Title="CXTUResourceUsageEntryEx メソッド" Url="html/3ccfd4fe-b9f7-e242-fa2f-40105fdeac1f.htm">
+      <HelpTOCNode Id="1b68d853-9257-4ba9-a0de-bf4f3f1fd8d4" Title="CXTUResourceUsageEntryEx クラス" Url="html/3b5c6639-6fee-4c5a-7603-65624b60100c.htm">
+        <HelpTOCNode Id="5f227358-b3b9-400d-a889-5b37f550a8dd" Title="CXTUResourceUsageEntryEx メソッド" Url="html/3ccfd4fe-b9f7-e242-fa2f-40105fdeac1f.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/b6054cd8-e359-0140-1922-64734afe21e6.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="be1ae9d2-3c5c-46dc-b8b7-1bb3c8aa76fe" Title="CXTUResourceUsageEx クラス" Url="html/7b9c84b7-3d20-ca46-b97e-104461c2f7bd.htm">
-        <HelpTOCNode Id="44b44f80-5c58-49fc-b492-51e6db1cdf93" Title="CXTUResourceUsageEx メソッド" Url="html/c49c9104-9ed0-f486-4b4f-927ca1f06555.htm">
+      <HelpTOCNode Id="69495b2b-9867-4948-a1b4-a2a337c65b26" Title="CXTUResourceUsageEx クラス" Url="html/7b9c84b7-3d20-ca46-b97e-104461c2f7bd.htm">
+        <HelpTOCNode Id="fab68801-80cf-4442-97f4-acf7892ee951" Title="CXTUResourceUsageEx メソッド" Url="html/c49c9104-9ed0-f486-4b4f-927ca1f06555.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/f928f833-83e3-4d75-aa02-313b52231baf.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c8469436-5580-404d-8879-ada2c097b2d5" Title="CXTypeEx クラス" Url="html/c19eb485-8471-2e1a-06fa-eb6b101eeecb.htm">
-        <HelpTOCNode Id="6afd6d60-8ace-4554-ac28-1a51e2b46f8f" Title="CXTypeEx メソッド" Url="html/4bc04fdb-c835-9440-14d2-a6ef6a95b058.htm">
+      <HelpTOCNode Id="141b6584-ba8c-4362-abc2-8c479166635a" Title="CXTypeEx クラス" Url="html/c19eb485-8471-2e1a-06fa-eb6b101eeecb.htm">
+        <HelpTOCNode Id="41624b46-d042-4677-8ffe-a566e9866ad1" Title="CXTypeEx メソッド" Url="html/4bc04fdb-c835-9440-14d2-a6ef6a95b058.htm">
           <HelpTOCNode Title="ToManaged メソッド " Url="html/d6c6efb5-0a99-69b0-f755-09f0e11aa9b6.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="CxxAccessSpecifier 列挙体" Url="html/c5741178-9502-f36b-7727-23bd0bb77365.htm" />
       <HelpTOCNode Title="DiagnosticDisplayOptions 列挙体" Url="html/1b0a6429-92cf-323e-37a2-edaff70792db.htm" />
       <HelpTOCNode Title="DiagnosticSeverity 列挙体" Url="html/1b6aeb84-ff73-6285-d1fe-ddd2416e673a.htm" />
-      <HelpTOCNode Id="a5d196b2-b1a3-4088-8e88-cac54a57541c" Title="EncodingAnalyser クラス" Url="html/01349b26-17d3-81df-a344-379c5266cd3d.htm">
-        <HelpTOCNode Id="a49f0d9f-658c-414d-b643-1bb6f7d913dd" Title="EncodingAnalyser メソッド" Url="html/38374d63-6f8a-e047-f535-50bebab843ca.htm">
+      <HelpTOCNode Id="d51128ff-3a06-4c67-bd9b-654ca9520f52" Title="EncodingAnalyser クラス" Url="html/01349b26-17d3-81df-a344-379c5266cd3d.htm">
+        <HelpTOCNode Id="1f3e1532-09c9-4257-8bf5-f73247005735" Title="EncodingAnalyser メソッド" Url="html/38374d63-6f8a-e047-f535-50bebab843ca.htm">
           <HelpTOCNode Title="Analyse メソッド " Url="html/f8ec4a23-63cd-4189-90f2-2005ce848f3e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ErrorCode 列挙体" Url="html/71ffab7b-c913-f2ff-b71f-1fc0bf4e2a1a.htm" />
       <HelpTOCNode Title="EvalResultKind 列挙体" Url="html/087a7781-a8b6-211e-d777-ab53413c4f92.htm" />
-      <HelpTOCNode Id="0afa802c-d44e-4e44-adc5-f18be7c565ec" Title="FileLogger クラス" Url="html/d58a20a6-7765-6b81-df5d-260408bbada1.htm">
+      <HelpTOCNode Id="b4f2ec25-7660-4ed8-af6c-33f72acd3b88" Title="FileLogger クラス" Url="html/d58a20a6-7765-6b81-df5d-260408bbada1.htm">
         <HelpTOCNode Title="FileLogger コンストラクター " Url="html/6318b853-b0de-9014-7536-6d5db1f401c7.htm" />
-        <HelpTOCNode Id="1b99e614-7af2-4d49-b3df-d9a21c8de2b3" Title="FileLogger プロパティ" Url="html/2c74cf0d-4517-12ce-fb59-98274a6597b8.htm">
+        <HelpTOCNode Id="6f968200-880e-4b28-b224-0bf76a2e19e6" Title="FileLogger プロパティ" Url="html/2c74cf0d-4517-12ce-fb59-98274a6597b8.htm">
           <HelpTOCNode Title="Writer プロパティ " Url="html/fa35c94b-92b8-7c02-8f4a-f7e609bd99cf.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="778821a9-62c1-4b0a-a390-d11666f33368" Title="FileLogger メソッド" Url="html/3ff8b81d-52a2-d928-23d9-094656dc62cf.htm">
+        <HelpTOCNode Id="f223ce33-830c-4e33-9283-008cc90ee0a4" Title="FileLogger メソッド" Url="html/3ff8b81d-52a2-d928-23d9-094656dc62cf.htm">
           <HelpTOCNode Title="Dispose メソッド " Url="html/a4609fff-aad0-e3b7-3d6d-6d4e786983cb.htm" />
           <HelpTOCNode Title="WriteMessage メソッド " Url="html/76a925f5-f133-24fd-b847-6357a6f99ce7.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8af86bc9-addd-4b38-8af8-526400e334e1" Title="FileManager クラス" Url="html/47d2078e-dc5d-df26-f786-925159f99bce.htm">
-        <HelpTOCNode Id="9c6af026-c0dd-41ae-a557-2d57dfa44f99" Title="FileManager メソッド" Url="html/a5450a3f-e9bc-982e-bfe7-14b8a7e67d05.htm">
+      <HelpTOCNode Id="f5dbc639-2862-4586-b7a8-5b484b1337fb" Title="FileManager クラス" Url="html/47d2078e-dc5d-df26-f786-925159f99bce.htm">
+        <HelpTOCNode Id="8d5bcfcd-b894-4edc-820d-34fe5c4572f2" Title="FileManager メソッド" Url="html/a5450a3f-e9bc-982e-bfe7-14b8a7e67d05.htm">
           <HelpTOCNode Title="AnalyseEncoding メソッド " Url="html/afee656f-91dc-0cdb-5fb2-4c2aef5a7dc7.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="FindResult 列挙体" Url="html/a7dba5c8-08b2-23cc-9f2f-9fb558982ea5.htm" />
       <HelpTOCNode Title="GlobalOptionFlags 列挙体" Url="html/9d072c2d-a5cd-fef8-2766-27e1637d7509.htm" />
-      <HelpTOCNode Id="c1b89162-9ecf-412d-b9e6-1cd9971bbc80" Title="ILogger インターフェイス" Url="html/1fb991c8-083b-d69a-c2a7-f656bb1dd81b.htm">
-        <HelpTOCNode Id="9ff3c192-207c-4ba6-816f-0b31eb32c478" Title="ILogger メソッド" Url="html/93872ea5-2b13-80e3-3d30-24981bec70bf.htm">
+      <HelpTOCNode Id="b31edde0-d93c-4202-9ee1-778f4c6151af" Title="ILogger インターフェイス" Url="html/1fb991c8-083b-d69a-c2a7-f656bb1dd81b.htm">
+        <HelpTOCNode Id="f2d45129-e1ca-4bfa-a44a-09e772a1dd56" Title="ILogger メソッド" Url="html/93872ea5-2b13-80e3-3d30-24981bec70bf.htm">
           <HelpTOCNode Title="Error メソッド " Url="html/35c14fb3-94fa-d2e9-92e4-0580f80a18ba.htm" />
           <HelpTOCNode Title="Info メソッド " Url="html/8a9b3f7a-d40e-0a36-decc-b298b1b7acb2.htm" />
           <HelpTOCNode Title="Verb メソッド " Url="html/818eeb8d-f947-8907-7326-edb7128f4fdc.htm" />
@@ -1169,8 +1169,8 @@
       <HelpTOCNode Title="IndexDeclInfoFlags 列挙体" Url="html/bcd8c236-6329-96c9-c118-62e5439a662b.htm" />
       <HelpTOCNode Title="IndexEntityCxxTemplateKind 列挙体" Url="html/7c38d480-9687-3813-096a-569d5eb17b82.htm" />
       <HelpTOCNode Title="IndexEntityKind 列挙体" Url="html/ed31d8e1-e2f9-2b4e-5204-29a4f56ef0de.htm" />
-      <HelpTOCNode Id="3abcb0b0-d535-41b3-960f-6f1163fff713" Title="IndexEntityKindEx クラス" Url="html/9555ad17-ed5b-488a-64e4-16d0ecd17736.htm">
-        <HelpTOCNode Id="f5a8e07f-c2ba-4b7b-8ec4-b9f690e08a2b" Title="IndexEntityKindEx メソッド" Url="html/ae56dabc-2a36-1cf5-eb47-d049b9fece0d.htm">
+      <HelpTOCNode Id="783a331f-f830-494a-bf13-28551b230a0c" Title="IndexEntityKindEx クラス" Url="html/9555ad17-ed5b-488a-64e4-16d0ecd17736.htm">
+        <HelpTOCNode Id="604b066a-bba2-4f0b-8d57-f4414feeee1b" Title="IndexEntityKindEx メソッド" Url="html/ae56dabc-2a36-1cf5-eb47-d049b9fece0d.htm">
           <HelpTOCNode Title="IsEntityObjCContainer メソッド " Url="html/4c568654-e32d-4cb5-c558-f6f790c01c9d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
@@ -1178,18 +1178,18 @@
       <HelpTOCNode Title="IndexEntityRefKind 列挙体" Url="html/419f9903-d0c1-59bd-3307-32857f8cab9e.htm" />
       <HelpTOCNode Title="IndexObjCContainerKind 列挙体" Url="html/2e05d147-b4be-5949-d262-00ff338f9f78.htm" />
       <HelpTOCNode Title="IndexOptionFlags 列挙体" Url="html/a3c98cd6-dc15-98ab-b98e-d904dafa59a7.htm" />
-      <HelpTOCNode Id="bda0034c-4601-40cf-8102-0ec83c55b3b7" Title="IntPtrEx クラス" Url="html/fbed1f38-ad4d-c712-f2fe-2cf259427aac.htm">
-        <HelpTOCNode Id="97e3917c-ffae-4ede-ae99-98dfded18317" Title="IntPtrEx メソッド" Url="html/81c6bf2f-6aae-f371-1b49-137084fa8411.htm">
+      <HelpTOCNode Id="fb0fd66f-d133-4f8b-8169-068ee68dfc45" Title="IntPtrEx クラス" Url="html/fbed1f38-ad4d-c712-f2fe-2cf259427aac.htm">
+        <HelpTOCNode Id="eba7b261-b0f0-4729-9644-73fdc3019908" Title="IntPtrEx メソッド" Url="html/81c6bf2f-6aae-f371-1b49-137084fa8411.htm">
           <HelpTOCNode Title="ToByteArray メソッド " Url="html/115e00e4-8310-7908-92d3-d12fca2d39c3.htm" />
           <HelpTOCNode Title="ToManaged(T) メソッド " Url="html/1f1a737d-7ba4-259f-245b-b1ccaa4e7c75.htm" />
           <HelpTOCNode Title="ToManagedObjects(TNative, TManaged) メソッド " Url="html/5c8fae37-14c1-da85-e8a1-9fc4f4ea67ac.htm" />
-          <HelpTOCNode Id="77398054-bdbc-4293-bb4c-514b1f2eec73" Title="ToManagedString メソッド " Url="html/51bf8500-f429-26eb-fb70-f0940b043eec.htm">
+          <HelpTOCNode Id="4241111d-d659-4a58-b372-13d1a5eefa30" Title="ToManagedString メソッド " Url="html/51bf8500-f429-26eb-fb70-f0940b043eec.htm">
             <HelpTOCNode Title="ToManagedString メソッド (IntPtr, String)" Url="html/72140e5e-d7fd-2bcb-b6fa-fbd39cf5d0c3.htm" />
             <HelpTOCNode Title="ToManagedString メソッド (IntPtr, Int32, String)" Url="html/91021bc8-b202-e3af-4c3d-a7157b7be6b7.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="ToManagedStringSet メソッド " Url="html/32b80f77-a3aa-de0d-3846-14f883a35319.htm" />
           <HelpTOCNode Title="ToNativeStructs(T) メソッド " Url="html/525d4a00-814d-a9fc-17f7-c3b6ab80ac4c.htm" />
-          <HelpTOCNode Id="be23bf6a-c56d-49c1-aa26-8dc2f7b36da1" Title="ToNativeStuct メソッド " Url="html/3e514da0-ec63-ad5a-3b96-c16587273dc5.htm">
+          <HelpTOCNode Id="ccb4fd0a-47c3-479e-b059-3cd38286dddc" Title="ToNativeStuct メソッド " Url="html/3e514da0-ec63-ad5a-3b96-c16587273dc5.htm">
             <HelpTOCNode Title="ToNativeStuct(T) メソッド (IntPtr)" Url="html/2da30e4c-e547-f9f8-10d8-184ed511bf79.htm" />
             <HelpTOCNode Title="ToNativeStuct(T) メソッド (IntPtr, Int32)" Url="html/765dd377-0fe1-1127-9411-9766e0d42ab4.htm" />
           </HelpTOCNode>
@@ -1198,16 +1198,16 @@
       <HelpTOCNode Title="LanguageKind 列挙体" Url="html/0745e4c2-c162-5351-4850-29627c9516de.htm" />
       <HelpTOCNode Title="LinkageKind 列挙体" Url="html/96f34e30-2739-6613-2a54-6fc63f405bbc.htm" />
       <HelpTOCNode Title="LoadDiagError 列挙体" Url="html/742e3f91-d045-e40e-57b7-03725a9c045f.htm" />
-      <HelpTOCNode Id="29b7ebc9-768a-4f9a-8176-ec11d61d3383" Title="LogManager クラス" Url="html/804fac36-93c7-cf3a-08e3-ba7aea9e942f.htm">
-        <HelpTOCNode Id="03389488-028a-4266-a193-88aa8614a07f" Title="LogManager コンストラクター " Url="html/0b109375-ad4b-bc62-5d45-f0a163dd4e45.htm">
+      <HelpTOCNode Id="bab1911e-cd90-4471-9c0c-42d66abdcf7a" Title="LogManager クラス" Url="html/804fac36-93c7-cf3a-08e3-ba7aea9e942f.htm">
+        <HelpTOCNode Id="9cd680d4-f41c-4751-933b-64fda17daf18" Title="LogManager コンストラクター " Url="html/0b109375-ad4b-bc62-5d45-f0a163dd4e45.htm">
           <HelpTOCNode Title="LogManager コンストラクター " Url="html/a524108a-53d3-c938-ce42-834a82821fd0.htm" />
           <HelpTOCNode Title="LogManager コンストラクター (ILogger[])" Url="html/6ef974c1-6dcd-07fb-1799-d1f834e5eeb0.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="37343fce-cc5d-4b38-9c62-5789f257fc16" Title="LogManager プロパティ" Url="html/cf60279f-6644-c2fd-12c1-82547b138849.htm">
+        <HelpTOCNode Id="bbd5b590-ab85-442a-9145-d14e7e7c6204" Title="LogManager プロパティ" Url="html/cf60279f-6644-c2fd-12c1-82547b138849.htm">
           <HelpTOCNode Title="Loggers プロパティ " Url="html/4c8bd267-0d2e-e052-6361-0602f8badddd.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d7768fdc-2b6a-4c5e-bcdd-141e5cb448b6" Title="LogManager メソッド" Url="html/2f206c57-8a2e-0ee5-7879-b758a74080b8.htm">
-          <HelpTOCNode Id="b0517e4a-78cb-42aa-9d09-a8cf4ea7ed83" Title="Add メソッド " Url="html/b5dcc283-8d18-6980-2dbd-07e2213e55c6.htm">
+        <HelpTOCNode Id="66b55a12-f4c5-4f16-a397-f78362918761" Title="LogManager メソッド" Url="html/2f206c57-8a2e-0ee5-7879-b758a74080b8.htm">
+          <HelpTOCNode Id="043a8958-b2be-4040-abb4-1f8086959b5f" Title="Add メソッド " Url="html/b5dcc283-8d18-6980-2dbd-07e2213e55c6.htm">
             <HelpTOCNode Title="Add メソッド (ILogger)" Url="html/821432c5-95ca-c05b-2859-823f355b28f5.htm" />
             <HelpTOCNode Title="Add メソッド (IEnumerable(ILogger))" Url="html/334296ce-d1e2-c0e2-e7ab-80e4fee7d1d9.htm" />
           </HelpTOCNode>
@@ -1219,14 +1219,14 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="MessageReceivedEventHandler デリゲート" Url="html/2e7c4fc6-4739-bfcb-dbd0-be5fc52ccdda.htm" />
-      <HelpTOCNode Id="30533310-51e4-4bae-a41b-a987c843e094" Title="Messenger クラス" Url="html/f8f56208-5611-c6ac-ad46-1e854012772f.htm">
-        <HelpTOCNode Id="044f7894-f7df-455c-bda4-d165701eadd3" Title="Messenger プロパティ" Url="html/d6fbc6b8-3008-3d97-4dcc-f88505e9efaa.htm">
+      <HelpTOCNode Id="b412f408-0cbb-4cf1-8dba-805cb2177630" Title="Messenger クラス" Url="html/f8f56208-5611-c6ac-ad46-1e854012772f.htm">
+        <HelpTOCNode Id="745bd104-5658-40b5-be43-beabd51ad7ef" Title="Messenger プロパティ" Url="html/d6fbc6b8-3008-3d97-4dcc-f88505e9efaa.htm">
           <HelpTOCNode Title="OnErrorMessageReceived プロパティ " Url="html/8df9a937-130c-80f1-1ed2-140328f9a2cc.htm" />
           <HelpTOCNode Title="OnInfoMessageReceived プロパティ " Url="html/22656d0c-5931-b268-20aa-c38e64bb0107.htm" />
           <HelpTOCNode Title="OnVerbMessageReceived プロパティ " Url="html/5155c258-a8f4-3c19-4856-16f7ddf6611c.htm" />
           <HelpTOCNode Title="OnWarnMessageReceived プロパティ " Url="html/db3c612e-1e3c-f9c2-2d19-f259122ec707.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0c802287-fe53-4dc2-9e2d-0d4556066a90" Title="Messenger メソッド" Url="html/2519ccd8-4d25-e960-b87e-d764674733c1.htm">
+        <HelpTOCNode Id="faa2c518-ed09-4bfb-bca2-f7d420948fef" Title="Messenger メソッド" Url="html/2519ccd8-4d25-e960-b87e-d764674733c1.htm">
           <HelpTOCNode Title="Error メソッド " Url="html/1ec8ef21-b915-6670-e133-c9f00749e57b.htm" />
           <HelpTOCNode Title="Info メソッド " Url="html/c00d3895-3f13-14ea-2017-23f368f52829.htm" />
           <HelpTOCNode Title="Verb メソッド " Url="html/fb52dd2c-bf86-85b3-d106-f1b5e7132754.htm" />
@@ -1240,8 +1240,8 @@
       <HelpTOCNode Title="RefQualifierKind 列挙体" Url="html/000fa1cf-1ceb-c0ef-45fb-9b208057169a.htm" />
       <HelpTOCNode Title="ReparseTranslationUnitFlags 列挙体" Url="html/81b4157a-8f6b-25c1-3a25-334307b20914.htm" />
       <HelpTOCNode Title="ResourceUsageKind 列挙体" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
-      <HelpTOCNode Id="b53806df-6154-49d3-9c56-705ea2fc643b" Title="ResourceUsageKindEx クラス" Url="html/35c98a6d-b077-b6d6-e826-5c817dfb5e7a.htm">
-        <HelpTOCNode Id="fda30aeb-a920-4230-ab6f-28bb8cbbce4a" Title="ResourceUsageKindEx メソッド" Url="html/8c60a3cd-2d36-edc5-bae6-16b1f043bfc7.htm">
+      <HelpTOCNode Id="c09989ce-731a-41a0-8858-9ba4c435e083" Title="ResourceUsageKindEx クラス" Url="html/35c98a6d-b077-b6d6-e826-5c817dfb5e7a.htm">
+        <HelpTOCNode Id="fe475cd0-8549-4c30-a7a1-5542561f9e6d" Title="ResourceUsageKindEx メソッド" Url="html/8c60a3cd-2d36-edc5-bae6-16b1f043bfc7.htm">
           <HelpTOCNode Title="GetResourceUsageName メソッド " Url="html/41a4c090-e138-50ae-88b1-c7841553ed4e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
@@ -1254,8 +1254,8 @@
       <HelpTOCNode Title="TokenKind 列挙体" Url="html/469a7a46-1f39-fea1-a546-0ba9a648a36b.htm" />
       <HelpTOCNode Title="TranslationUnitFlags 列挙体" Url="html/3fdff3be-dcdc-495a-d888-7e7260f3bd39.htm" />
       <HelpTOCNode Title="TypeKind 列挙体" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
-      <HelpTOCNode Id="adab684f-28e7-4ca5-81a5-565855e0f7be" Title="TypeKindEx クラス" Url="html/ea9568f0-3377-4b57-67bd-411fd38d0efa.htm">
-        <HelpTOCNode Id="024400d0-4544-456a-9897-3bea76558a94" Title="TypeKindEx メソッド" Url="html/88ecf14d-888d-d4b6-5fe6-0dc801048e74.htm">
+      <HelpTOCNode Id="492d6ea5-13fa-47ec-948e-07d305bdaddf" Title="TypeKindEx クラス" Url="html/ea9568f0-3377-4b57-67bd-411fd38d0efa.htm">
+        <HelpTOCNode Id="98ce7f16-379f-4026-b40c-b372cfea7eac" Title="TypeKindEx メソッド" Url="html/88ecf14d-888d-d4b6-5fe6-0dc801048e74.htm">
           <HelpTOCNode Title="ToSpelling メソッド " Url="html/7b5f1325-cb6f-96f5-b2c4-d6a5e3020871.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
@@ -1264,16 +1264,16 @@
       <HelpTOCNode Title="VisibilityKind 列挙体" Url="html/0825be9f-6265-1bdc-f4b1-678c10236dba.htm" />
       <HelpTOCNode Title="VisitorResult 列挙体" Url="html/061995db-c2f1-dfa8-b21f-5d65c3214054.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6600ac7a-6558-4b19-90da-207818e1bd66" Title="ClangNet.CUI" Url="html/2b0e12ec-b0ba-80ca-661e-baa74c18e136.htm">
-      <HelpTOCNode Id="a7e0eca6-e76e-46d6-b95c-e2c374b602e8" Title="Program クラス" Url="html/742f6291-88e7-9390-fbbc-80ec1a92bb0a.htm">
+    <HelpTOCNode Id="eb8f5371-f7bb-44f2-a2ec-b5f62cad2c2e" Title="ClangNet.CUI" Url="html/2b0e12ec-b0ba-80ca-661e-baa74c18e136.htm">
+      <HelpTOCNode Id="ea5c4237-9fe8-4f0b-98c0-44400ab61170" Title="Program クラス" Url="html/742f6291-88e7-9390-fbbc-80ec1a92bb0a.htm">
         <HelpTOCNode Title="Program コンストラクター " Url="html/56c9e6ef-1bb4-35ce-cd2b-53d108db9932.htm" />
-        <HelpTOCNode Id="934d5212-fe32-4d27-a372-ac949e00f3f1" Title="Program メソッド" Url="html/c00aa7cf-2a1d-70fb-8fc7-f3704ca32e7a.htm">
+        <HelpTOCNode Id="76448a9a-3a92-4542-8acf-e45990919ebe" Title="Program メソッド" Url="html/c00aa7cf-2a1d-70fb-8fc7-f3704ca32e7a.htm">
           <HelpTOCNode Title="Main メソッド " Url="html/7f9121ce-e249-027f-e859-7e353a7978ff.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="361f7be0-c3e3-4aa6-b52b-12a72b3854ac" Title="Program.ProgramImpl クラス" Url="html/e978f775-d451-8a21-b29e-3f42c5d3123b.htm">
+      <HelpTOCNode Id="f37b3e4c-b397-4211-ba5d-9d7b281bd30f" Title="Program.ProgramImpl クラス" Url="html/e978f775-d451-8a21-b29e-3f42c5d3123b.htm">
         <HelpTOCNode Title="Program.ProgramImpl コンストラクター " Url="html/6df9fdb6-d792-9abb-ced8-61a386a7fc0d.htm" />
-        <HelpTOCNode Id="d04e2bab-bee6-4228-b626-401fd0726429" Title="ProgramImpl メソッド" Url="html/ef81b669-3508-5219-5099-815a48b631f0.htm">
+        <HelpTOCNode Id="990cc280-01fa-4ed8-8320-b5f4a1b79931" Title="ProgramImpl メソッド" Url="html/ef81b669-3508-5219-5099-815a48b631f0.htm">
           <HelpTOCNode Title="CreateLogger メソッド " Url="html/8564f62c-5f49-7a7f-997b-69d3c783414e.htm" />
           <HelpTOCNode Title="CreateParameters メソッド " Url="html/30f1d100-1320-d939-3621-11aeebdb7962.htm" />
           <HelpTOCNode Title="Execute メソッド " Url="html/0343a814-4223-0c4f-c75a-085e20c7e726.htm" />
@@ -1281,34 +1281,34 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="86e0d959-130a-47ca-a1b7-b78fb7ef43b4" Title="ClangNet.Native" Url="html/56206511-e128-4c2f-f3a9-aefe73ab5cb3.htm">
+    <HelpTOCNode Id="f6eb92c7-8f6f-4b4c-8273-bad7485f07f6" Title="ClangNet.Native" Url="html/56206511-e128-4c2f-f3a9-aefe73ab5cb3.htm">
       <HelpTOCNode Title="AbortQueryHandler デリゲート" Url="html/630416e8-01b6-1412-1d63-01945be08783.htm" />
       <HelpTOCNode Title="CompletionContext 列挙体" Url="html/33d54941-a6af-3bad-38aa-392a924fefb2.htm" />
-      <HelpTOCNode Id="a5c27e1e-c6e0-4142-b4c1-0d6dd2bc3bd0" Title="CXCodeCompleteResults 構造体" Url="html/a784a64d-a134-d54b-52e2-7c8a9e6b1e3c.htm">
+      <HelpTOCNode Id="9366670c-bf2d-4380-992b-d8d515045b12" Title="CXCodeCompleteResults 構造体" Url="html/a784a64d-a134-d54b-52e2-7c8a9e6b1e3c.htm">
         <HelpTOCNode Title="CXCodeCompleteResults メソッド" Url="html/cac36d3e-1409-8a36-5bcf-8cac31274dbb.htm" />
-        <HelpTOCNode Id="a07e202e-c222-4262-a6bf-6c01808f1a0c" Title="CXCodeCompleteResults フィールド" Url="html/4c7590e5-8247-455a-a0a5-794da72bbe07.htm">
+        <HelpTOCNode Id="c8e2c41c-c397-491f-a6e7-2794541e0771" Title="CXCodeCompleteResults フィールド" Url="html/4c7590e5-8247-455a-a0a5-794da72bbe07.htm">
           <HelpTOCNode Title="NumResults フィールド" Url="html/a40e93b0-4a4c-f112-f480-ed7230882642.htm" />
           <HelpTOCNode Title="Results フィールド" Url="html/11505c34-7c71-2218-7ad6-4f0ccaed5a6d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e7c3a447-fc55-4e56-b0ed-9934e6790ef1" Title="CXComment 構造体" Url="html/9f21fb38-2f93-977d-745f-a5c4ac610589.htm">
+      <HelpTOCNode Id="efd973c8-4f2f-46de-9d3d-621a6be08e9d" Title="CXComment 構造体" Url="html/9f21fb38-2f93-977d-745f-a5c4ac610589.htm">
         <HelpTOCNode Title="CXComment メソッド" Url="html/8ae1e506-1d83-d380-4255-0415937e4921.htm" />
-        <HelpTOCNode Id="cd0cb345-2c97-48ca-b6e4-86c8d6cf5e7c" Title="CXComment フィールド" Url="html/e5a48732-6674-4097-9e1f-3ccd661a288f.htm">
+        <HelpTOCNode Id="c871b97d-912a-49eb-bb55-15927c62c544" Title="CXComment フィールド" Url="html/e5a48732-6674-4097-9e1f-3ccd661a288f.htm">
           <HelpTOCNode Title="ASTNode フィールド" Url="html/173441d2-4ce4-bbd5-d4bd-ab3b85299f07.htm" />
           <HelpTOCNode Title="TranslationUnit フィールド" Url="html/e902d4fa-1235-fcfa-e112-1c80dc7492cf.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0e2fab12-d313-4a67-9bac-9cefc401eabc" Title="CXCompletionResult 構造体" Url="html/94431749-5699-c40f-6487-d64d9d40c40c.htm">
+      <HelpTOCNode Id="20387b5c-d2b0-47bb-834f-51e907f73ba4" Title="CXCompletionResult 構造体" Url="html/94431749-5699-c40f-6487-d64d9d40c40c.htm">
         <HelpTOCNode Title="CXCompletionResult メソッド" Url="html/1fdcffe4-fc0a-aaa9-7fdc-231332d15f8d.htm" />
-        <HelpTOCNode Id="c4184e60-07b3-44a9-beea-00d8ee10d199" Title="CXCompletionResult フィールド" Url="html/a0923c91-ea4e-f86f-c0f7-4dba8f591054.htm">
+        <HelpTOCNode Id="decf0279-0ea5-417d-a9ba-a0095cf610c0" Title="CXCompletionResult フィールド" Url="html/a0923c91-ea4e-f86f-c0f7-4dba8f591054.htm">
           <HelpTOCNode Title="CompletionString フィールド" Url="html/0e004c11-f0cb-882d-02a0-3db9e808db3d.htm" />
           <HelpTOCNode Title="CursorKind フィールド" Url="html/f398c4ff-bcac-2739-d3dc-02c341c8792c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a520d167-5395-4f0a-a128-4967043ecc35" Title="CXCursor 構造体" Url="html/c0c9d105-f06c-b919-043b-e1ab70c529a5.htm">
+      <HelpTOCNode Id="74046ea5-bef5-4874-87b8-f1fd7f4a1688" Title="CXCursor 構造体" Url="html/c0c9d105-f06c-b919-043b-e1ab70c529a5.htm">
         <HelpTOCNode Title="CXCursor コンストラクター " Url="html/2c025422-ce67-30a0-f6dd-d194668a8509.htm" />
         <HelpTOCNode Title="CXCursor メソッド" Url="html/b5819cab-215b-f939-47df-b0e3f7862fbf.htm" />
-        <HelpTOCNode Id="745924b0-fd13-46f5-8043-5ebc9ed79f25" Title="CXCursor フィールド" Url="html/3f7db991-0a47-062c-ba97-fdd21acdaaea.htm">
+        <HelpTOCNode Id="c35e6a98-63f7-4655-a9e0-734929bed836" Title="CXCursor フィールド" Url="html/3f7db991-0a47-062c-ba97-fdd21acdaaea.htm">
           <HelpTOCNode Title="Data1 フィールド" Url="html/db4739d4-5748-e235-ba18-29e7139d81e9.htm" />
           <HelpTOCNode Title="Data2 フィールド" Url="html/92c8ed77-7362-b1cd-018e-5af4d32e9078.htm" />
           <HelpTOCNode Title="Data3 フィールド" Url="html/a10fdd66-196f-7eab-2f53-0da9b378f46e.htm" />
@@ -1316,10 +1316,10 @@
           <HelpTOCNode Title="XData フィールド" Url="html/aedd31d3-40fd-4b17-c5d6-de224224040a.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b15355cd-0d70-4135-8541-460202bfc215" Title="CXCursorAndRangeVisitor 構造体" Url="html/76f60652-60e2-0dee-1937-18f870ca67c6.htm">
+      <HelpTOCNode Id="d52f9816-e44d-4279-9986-2c2c26d08bbe" Title="CXCursorAndRangeVisitor 構造体" Url="html/76f60652-60e2-0dee-1937-18f870ca67c6.htm">
         <HelpTOCNode Title="CXCursorAndRangeVisitor コンストラクター " Url="html/26023581-d4c8-091f-c46b-7193319524eb.htm" />
         <HelpTOCNode Title="CXCursorAndRangeVisitor メソッド" Url="html/bb87c84d-9a79-5ad9-7979-0158ee9acf7c.htm" />
-        <HelpTOCNode Id="a7efc8cd-f61b-4df4-9ad6-9af6e13da0c5" Title="CXCursorAndRangeVisitor フィールド" Url="html/ffb2a053-9400-c4aa-1029-fb8dc4df591e.htm">
+        <HelpTOCNode Id="ae2eed52-dee3-4665-b1e0-815ad3a12e08" Title="CXCursorAndRangeVisitor フィールド" Url="html/ffb2a053-9400-c4aa-1029-fb8dc4df591e.htm">
           <HelpTOCNode Title="Context フィールド" Url="html/c8981f73-d42c-cc6f-72bd-cf85a137f102.htm" />
           <HelpTOCNode Title="Visit フィールド" Url="html/47b8cc11-ad94-2312-0074-a63758e7859d.htm" />
         </HelpTOCNode>
@@ -1327,48 +1327,48 @@
       <HelpTOCNode Title="CXCursorAndRangeVisitorHandler デリゲート" Url="html/8dcc2455-2caf-5c95-59a5-22f2b1b46628.htm" />
       <HelpTOCNode Title="CXCursorVisitor デリゲート" Url="html/41832916-be92-2e33-eb9a-8bea920eaa9a.htm" />
       <HelpTOCNode Title="CXFieldVisitor デリゲート" Url="html/e6d3edcf-ae45-70cb-c996-6873e3ed2a9d.htm" />
-      <HelpTOCNode Id="326376c9-25c4-4198-a688-cdf39624ddd5" Title="CXFileUniqueID 構造体" Url="html/bcd6b8c6-ca3a-422e-9505-b75e1e19cc74.htm">
+      <HelpTOCNode Id="776e317f-cd5d-42b7-a973-b8b177125e6a" Title="CXFileUniqueID 構造体" Url="html/bcd6b8c6-ca3a-422e-9505-b75e1e19cc74.htm">
         <HelpTOCNode Title="CXFileUniqueID コンストラクター " Url="html/907d082b-dba3-29a2-0251-7a1331d84544.htm" />
         <HelpTOCNode Title="CXFileUniqueID メソッド" Url="html/848b8463-7472-5c3e-bbd3-555623c801a7.htm" />
-        <HelpTOCNode Id="32ea9617-200b-4f5b-b361-fe907fc1b053" Title="CXFileUniqueID フィールド" Url="html/7deb3dbb-3223-6dca-d64c-1b4980d26b85.htm">
+        <HelpTOCNode Id="c0c91f36-8c30-48dc-9bd9-171d3b1c2274" Title="CXFileUniqueID フィールド" Url="html/7deb3dbb-3223-6dca-d64c-1b4980d26b85.htm">
           <HelpTOCNode Title="Data1 フィールド" Url="html/5887007d-93a6-3fe1-fe31-fe8dc0acfcc1.htm" />
           <HelpTOCNode Title="Data2 フィールド" Url="html/04500de0-b8ab-f2b9-ff56-d134a4722c3d.htm" />
           <HelpTOCNode Title="Data3 フィールド" Url="html/ed51e96f-8940-9ff0-dba2-2596cff89146.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c43778d5-6808-4cd5-939f-ba44ae580c2e" Title="CXIdxAttrInfo 構造体" Url="html/b05ba32d-acd8-fe55-234a-6e45faa5b554.htm">
+      <HelpTOCNode Id="88124f71-d1dd-4291-9346-87fe5c499342" Title="CXIdxAttrInfo 構造体" Url="html/b05ba32d-acd8-fe55-234a-6e45faa5b554.htm">
         <HelpTOCNode Title="CXIdxAttrInfo メソッド" Url="html/a0dfa739-a62e-b794-00b7-09a0a0c6e949.htm" />
-        <HelpTOCNode Id="91212776-884a-4c5f-a8af-75be334b6d58" Title="CXIdxAttrInfo フィールド" Url="html/9dc1ecc9-26f4-7a7b-c093-752fbc3f1046.htm">
+        <HelpTOCNode Id="873393ba-91f3-4b25-8a28-d7d1afbba2d9" Title="CXIdxAttrInfo フィールド" Url="html/9dc1ecc9-26f4-7a7b-c093-752fbc3f1046.htm">
           <HelpTOCNode Title="Cursor フィールド" Url="html/6ebdf87c-e0ba-18f5-40b3-04b8661cb9bc.htm" />
           <HelpTOCNode Title="Kind フィールド" Url="html/f1f8106d-de6f-36c9-268c-ac90e11aadb5.htm" />
           <HelpTOCNode Title="Loc フィールド" Url="html/3c2d814c-9473-e067-1750-c5dd7003f934.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6fe6237c-30dc-433b-97d7-c304eba83237" Title="CXIdxBaseClassInfo 構造体" Url="html/dee7dd00-f6fd-f66b-2270-75f61253676a.htm">
+      <HelpTOCNode Id="0f0326cf-e8d5-4327-b48e-aa4254471a11" Title="CXIdxBaseClassInfo 構造体" Url="html/dee7dd00-f6fd-f66b-2270-75f61253676a.htm">
         <HelpTOCNode Title="CXIdxBaseClassInfo メソッド" Url="html/c734abd2-bb7e-7df3-0d6c-ed61bc42ded9.htm" />
-        <HelpTOCNode Id="4029a140-082f-461d-bb9e-08beb1609aed" Title="CXIdxBaseClassInfo フィールド" Url="html/ce1ba7ad-264f-4429-4456-b4434dfbd2e2.htm">
+        <HelpTOCNode Id="904e2b52-d445-4b06-a08d-850834ff0269" Title="CXIdxBaseClassInfo フィールド" Url="html/ce1ba7ad-264f-4429-4456-b4434dfbd2e2.htm">
           <HelpTOCNode Title="Base フィールド" Url="html/7304ace1-0105-223c-bd71-fbcfa11d7490.htm" />
           <HelpTOCNode Title="Cursor フィールド" Url="html/1f50a04c-1115-6ce6-4831-46e6b6f2e443.htm" />
           <HelpTOCNode Title="Loc フィールド" Url="html/85817e31-6dd3-100f-ef91-457bbb92a6db.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="08708c42-4a6f-40cd-bed7-cd898f105706" Title="CXIdxContainerInfo 構造体" Url="html/ae7110f5-3aec-f217-2e49-9cc0b74a8353.htm">
+      <HelpTOCNode Id="c56bfea7-01a5-432d-b933-74b4f76386eb" Title="CXIdxContainerInfo 構造体" Url="html/ae7110f5-3aec-f217-2e49-9cc0b74a8353.htm">
         <HelpTOCNode Title="CXIdxContainerInfo メソッド" Url="html/04e78c7b-8d1c-496c-75f3-4380e397f5e2.htm" />
-        <HelpTOCNode Id="51d143c8-d69a-4c37-875e-e9d267aa37bf" Title="CXIdxContainerInfo フィールド" Url="html/85d47eff-83b1-1eb3-c691-085a7b903f5e.htm">
+        <HelpTOCNode Id="c9fa6098-017e-4e9e-bfb7-12768160cfed" Title="CXIdxContainerInfo フィールド" Url="html/85d47eff-83b1-1eb3-c691-085a7b903f5e.htm">
           <HelpTOCNode Title="Cursor フィールド" Url="html/cb982fd6-ec1c-dcc7-db6f-910c27ea8251.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="95de6d29-09d5-450c-827a-4f5df8085ff0" Title="CXIdxCXXClassDeclInfo 構造体" Url="html/5661b1e0-6910-0aac-c4da-3d011fc07811.htm">
+      <HelpTOCNode Id="c2c42e5f-f6be-447b-ad37-ce17e6dbf448" Title="CXIdxCXXClassDeclInfo 構造体" Url="html/5661b1e0-6910-0aac-c4da-3d011fc07811.htm">
         <HelpTOCNode Title="CXIdxCXXClassDeclInfo メソッド" Url="html/9bd220df-520b-5ad4-b75b-2daf9adfa23f.htm" />
-        <HelpTOCNode Id="92bcad66-57ab-4b94-abd1-a98315869c1d" Title="CXIdxCXXClassDeclInfo フィールド" Url="html/21128329-03c6-d2be-113d-bffeed82a4fa.htm">
+        <HelpTOCNode Id="ec243aae-1f5d-4132-9004-6f4ad44e210f" Title="CXIdxCXXClassDeclInfo フィールド" Url="html/21128329-03c6-d2be-113d-bffeed82a4fa.htm">
           <HelpTOCNode Title="Bases フィールド" Url="html/7b01e42c-ea8e-f4a1-c277-9556aa2441eb.htm" />
           <HelpTOCNode Title="DeclInfo フィールド" Url="html/5ff60a70-09b1-030d-28fd-08bdbda1a643.htm" />
           <HelpTOCNode Title="NumBases フィールド" Url="html/89a5aefb-73b6-d3bd-1245-c09ba8b64cff.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b7d391ba-7c5b-4369-9e08-ed23d36b2b42" Title="CXIdxDeclInfo 構造体" Url="html/e895cbb3-78af-7191-1fc7-ec92df1bfe11.htm">
+      <HelpTOCNode Id="000556d5-b456-4f4f-8a75-f040f378fd3e" Title="CXIdxDeclInfo 構造体" Url="html/e895cbb3-78af-7191-1fc7-ec92df1bfe11.htm">
         <HelpTOCNode Title="CXIdxDeclInfo メソッド" Url="html/9c61de06-db9a-75f9-92fb-4cdd11251970.htm" />
-        <HelpTOCNode Id="e1b2de7f-98ea-4a5c-9a96-7b338f05d917" Title="CXIdxDeclInfo フィールド" Url="html/a77e297f-fe90-3474-466c-bfd6c1e3971e.htm">
+        <HelpTOCNode Id="6d9400ba-a4e9-4d75-89d8-0badfd84d9b8" Title="CXIdxDeclInfo フィールド" Url="html/a77e297f-fe90-3474-466c-bfd6c1e3971e.htm">
           <HelpTOCNode Title="Attributes フィールド" Url="html/5181e2de-9262-6f04-da06-102233c9a316.htm" />
           <HelpTOCNode Title="Cursor フィールド" Url="html/fd5dc39a-653e-701a-13a9-0f25626c1512.htm" />
           <HelpTOCNode Title="DeclAsContainer フィールド" Url="html/a45cc74b-26b3-64be-5ef3-5c5e873c07e9.htm" />
@@ -1384,9 +1384,9 @@
           <HelpTOCNode Title="SemanticContainer フィールド" Url="html/a662066f-eb05-dc8e-5aa3-ddb5346fe40b.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d028bb54-7adf-465c-ae8f-e3e71003d19b" Title="CXIdxEntityInfo 構造体" Url="html/f11ccf77-b430-d511-ef77-b1bbad54a526.htm">
+      <HelpTOCNode Id="cf87b248-8bb0-40cd-8722-3ffb1a52cd67" Title="CXIdxEntityInfo 構造体" Url="html/f11ccf77-b430-d511-ef77-b1bbad54a526.htm">
         <HelpTOCNode Title="CXIdxEntityInfo メソッド" Url="html/c46b56ba-cda6-82a1-3a9d-a05df69b0a90.htm" />
-        <HelpTOCNode Id="dfb36686-4596-405a-9a0b-8f23c503d6be" Title="CXIdxEntityInfo フィールド" Url="html/3dcbb30a-2736-961b-a9a0-580acac6a089.htm">
+        <HelpTOCNode Id="f5d99b44-7e60-43d0-a2e7-0e8091131461" Title="CXIdxEntityInfo フィールド" Url="html/3dcbb30a-2736-961b-a9a0-580acac6a089.htm">
           <HelpTOCNode Title="Attributes フィールド" Url="html/c2a194f9-beaf-c149-814e-d2ae5c33c52f.htm" />
           <HelpTOCNode Title="Cursor フィールド" Url="html/5360a935-1431-cdf6-fbfb-09ab54e43e51.htm" />
           <HelpTOCNode Title="CxxTemplateKind フィールド" Url="html/b8d99f44-a7db-4640-8bcc-9849e2471f07.htm" />
@@ -1397,9 +1397,9 @@
           <HelpTOCNode Title="USR フィールド" Url="html/d2997b6d-0a7f-0b06-f452-286bd1e7e17a.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="cef14427-e618-491c-9a7f-4d29463bc39a" Title="CXIdxEntityRefInfo 構造体" Url="html/4e5d2476-ecad-7ea9-c616-046b59194875.htm">
+      <HelpTOCNode Id="59094d52-1e41-4a11-ae07-7a21019d74ce" Title="CXIdxEntityRefInfo 構造体" Url="html/4e5d2476-ecad-7ea9-c616-046b59194875.htm">
         <HelpTOCNode Title="CXIdxEntityRefInfo メソッド" Url="html/0b075e46-9d7f-0c01-28b0-7a6d3dd9069f.htm" />
-        <HelpTOCNode Id="9bd0f958-b449-4d8c-95d1-740588559a00" Title="CXIdxEntityRefInfo フィールド" Url="html/936bb2b2-ec81-9017-b5f6-77af5bb3cc76.htm">
+        <HelpTOCNode Id="8b42f764-d63b-4dad-97ed-01ef57662f97" Title="CXIdxEntityRefInfo フィールド" Url="html/936bb2b2-ec81-9017-b5f6-77af5bb3cc76.htm">
           <HelpTOCNode Title="Container フィールド" Url="html/8b2132d0-3ca2-2319-db6e-a8d6a4e15ac5.htm" />
           <HelpTOCNode Title="Cursor フィールド" Url="html/9a85d1b9-da76-d6b4-8209-01adf433f91a.htm" />
           <HelpTOCNode Title="Kind フィールド" Url="html/53a41d0f-26fd-2ce6-8615-8ddf79bd5db2.htm" />
@@ -1409,27 +1409,27 @@
           <HelpTOCNode Title="Role フィールド" Url="html/20e5456f-fde0-ab78-07b6-af81bcaa5ad4.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="17b2aa98-39e3-4939-8de7-b1af39cfb68f" Title="CXIdxIBOutletCollectionAttrInfo 構造体" Url="html/a3cc5d7b-4ffd-ba41-9ee6-77d57b8a0e76.htm">
+      <HelpTOCNode Id="381380c2-a3d6-4a76-8f6a-50370a06e174" Title="CXIdxIBOutletCollectionAttrInfo 構造体" Url="html/a3cc5d7b-4ffd-ba41-9ee6-77d57b8a0e76.htm">
         <HelpTOCNode Title="CXIdxIBOutletCollectionAttrInfo メソッド" Url="html/61293452-8dca-b05c-dcc7-7a21770e89fc.htm" />
-        <HelpTOCNode Id="e59f60d2-f72b-4fe8-828c-14b6cde49a1d" Title="CXIdxIBOutletCollectionAttrInfo フィールド" Url="html/2eb8fecc-42bb-7f8c-bb75-f124459aa72c.htm">
+        <HelpTOCNode Id="609cd3eb-ba1a-444d-8edb-883b1a8d35eb" Title="CXIdxIBOutletCollectionAttrInfo フィールド" Url="html/2eb8fecc-42bb-7f8c-bb75-f124459aa72c.htm">
           <HelpTOCNode Title="AttrInfo フィールド" Url="html/9ed9b7d1-13f9-81fc-185b-5234f058f324.htm" />
           <HelpTOCNode Title="ClassCursor フィールド" Url="html/c9bed474-124b-af1a-f70b-65b3ec2063a8.htm" />
           <HelpTOCNode Title="ClassLoc フィールド" Url="html/d9c8906b-c944-6f74-b6fe-aad857ebc9fb.htm" />
           <HelpTOCNode Title="ObjcClass フィールド" Url="html/1c8dff5f-ebc7-93a7-7145-4d4fbbe2a245.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4377ee96-7637-4648-8875-9dfd6b1ff614" Title="CXIdxImportedASTFileInfo 構造体" Url="html/3a21c8a1-9baf-9222-46d1-44aa770aac05.htm">
+      <HelpTOCNode Id="a14526d3-16e7-460d-8404-4fc9be596dc9" Title="CXIdxImportedASTFileInfo 構造体" Url="html/3a21c8a1-9baf-9222-46d1-44aa770aac05.htm">
         <HelpTOCNode Title="CXIdxImportedASTFileInfo メソッド" Url="html/fd4dfb26-1859-8fbd-072b-7111ef2c93e3.htm" />
-        <HelpTOCNode Id="9ea83444-772a-4fb4-bd3b-6de69915716c" Title="CXIdxImportedASTFileInfo フィールド" Url="html/3c724c02-e1d5-3b7b-a57b-13cf4a87c818.htm">
+        <HelpTOCNode Id="e1c03ce7-d158-44e6-8029-4cb8a4f57236" Title="CXIdxImportedASTFileInfo フィールド" Url="html/3c724c02-e1d5-3b7b-a57b-13cf4a87c818.htm">
           <HelpTOCNode Title="File フィールド" Url="html/94570221-4571-b231-f236-9b17c519cd5a.htm" />
           <HelpTOCNode Title="IsImplicit フィールド" Url="html/07d737b0-3161-436f-af9e-2547e9ba7553.htm" />
           <HelpTOCNode Title="Loc フィールド" Url="html/b7818553-b84c-995a-d2df-90c0774aab49.htm" />
           <HelpTOCNode Title="Module フィールド" Url="html/74ec4247-2692-cf9d-ec51-ace820cd35d3.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8b103c3a-8d94-4a9b-864f-a5b0c7e2192d" Title="CXIdxIncludedFileInfo 構造体" Url="html/dd22a73c-5500-251b-4944-7e7d34bd337f.htm">
+      <HelpTOCNode Id="f7aa2f15-3f12-4704-a8aa-4fca7cf56ad2" Title="CXIdxIncludedFileInfo 構造体" Url="html/dd22a73c-5500-251b-4944-7e7d34bd337f.htm">
         <HelpTOCNode Title="CXIdxIncludedFileInfo メソッド" Url="html/49f30130-cf79-165d-fcc4-904bc4fdfaa7.htm" />
-        <HelpTOCNode Id="f6a71823-af3c-4699-a0a5-96a5479ff298" Title="CXIdxIncludedFileInfo フィールド" Url="html/e756ba3c-4fc6-e0b8-0fc6-33928415bca9.htm">
+        <HelpTOCNode Id="6b3257a2-ddbe-48d3-aadf-c8dba1412bd2" Title="CXIdxIncludedFileInfo フィールド" Url="html/e756ba3c-4fc6-e0b8-0fc6-33928415bca9.htm">
           <HelpTOCNode Title="File フィールド" Url="html/15b45e6d-c56d-c505-8e00-6811c6b912f2.htm" />
           <HelpTOCNode Title="Filename フィールド" Url="html/3be8c6cf-c0c3-18f9-d6d6-c3289753299d.htm" />
           <HelpTOCNode Title="HashLoc フィールド" Url="html/ad515b61-0819-2eb9-19cc-e6ceff6e9424.htm" />
@@ -1438,17 +1438,17 @@
           <HelpTOCNode Title="IsModuleImport フィールド" Url="html/69ada1e6-12b9-97b6-b1b3-b12342dcdb71.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="16d75235-9d1f-446c-a193-7ec65196e00f" Title="CXIdxLoc 構造体" Url="html/4c4d5747-2856-041d-653c-31730b224dd1.htm">
+      <HelpTOCNode Id="0c85dcf9-7cce-4908-8802-f37b22d3b4de" Title="CXIdxLoc 構造体" Url="html/4c4d5747-2856-041d-653c-31730b224dd1.htm">
         <HelpTOCNode Title="CXIdxLoc メソッド" Url="html/542fada2-d26a-ee4a-d515-5dd679e8d72a.htm" />
-        <HelpTOCNode Id="d98c8351-94ee-4ded-88b3-514fb56ce54d" Title="CXIdxLoc フィールド" Url="html/38a0f889-b870-82b9-5bf3-9c583019b229.htm">
+        <HelpTOCNode Id="95ee8c9e-afa2-4d07-b3ed-be61b66037b1" Title="CXIdxLoc フィールド" Url="html/38a0f889-b870-82b9-5bf3-9c583019b229.htm">
           <HelpTOCNode Title="IntData フィールド" Url="html/46b466e0-a5c3-4de9-2f5c-0554a7e5193f.htm" />
           <HelpTOCNode Title="PtrData1 フィールド" Url="html/bc6f1e4a-a77a-ff06-604b-0f49182077d7.htm" />
           <HelpTOCNode Title="PtrData2 フィールド" Url="html/38466e99-986d-47d2-88b7-3788c52286c3.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="756975eb-9441-43a7-ad6e-9d62e9bbc351" Title="CXIdxObjCCategoryDeclInfo 構造体" Url="html/a5ca72e8-3adf-135b-04cc-80abd042483e.htm">
+      <HelpTOCNode Id="89f6746b-ba3d-48a3-a143-805b71808ae5" Title="CXIdxObjCCategoryDeclInfo 構造体" Url="html/a5ca72e8-3adf-135b-04cc-80abd042483e.htm">
         <HelpTOCNode Title="CXIdxObjCCategoryDeclInfo メソッド" Url="html/0b571f13-05ad-84d4-8041-6f37d95279ed.htm" />
-        <HelpTOCNode Id="7ce55a53-1c48-4c47-89d7-4d0242801df3" Title="CXIdxObjCCategoryDeclInfo フィールド" Url="html/1eed6ad5-241f-9177-487b-bfc568086180.htm">
+        <HelpTOCNode Id="d8c37ddd-178f-4f54-9066-d2f1278a1c84" Title="CXIdxObjCCategoryDeclInfo フィールド" Url="html/1eed6ad5-241f-9177-487b-bfc568086180.htm">
           <HelpTOCNode Title="ClassCursor フィールド" Url="html/924cf90b-2fe5-dc2f-38eb-6c8fa5e270c9.htm" />
           <HelpTOCNode Title="ClassLoc フィールド" Url="html/ed538f1f-13fe-e79b-b427-0608ae45ff64.htm" />
           <HelpTOCNode Title="ContainerInfo フィールド" Url="html/731f2444-4595-5373-011c-0328008f4fdc.htm" />
@@ -1456,48 +1456,48 @@
           <HelpTOCNode Title="Protocols フィールド" Url="html/174daf4e-bc48-77f9-7392-a3fa00731476.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f1f2327b-a417-4f03-bb86-8cad664c22ac" Title="CXIdxObjCContainerDeclInfo 構造体" Url="html/34138be5-75bd-d85f-2785-e927c817739c.htm">
+      <HelpTOCNode Id="d516b12f-376b-490b-bdf8-7de669d5f4b2" Title="CXIdxObjCContainerDeclInfo 構造体" Url="html/34138be5-75bd-d85f-2785-e927c817739c.htm">
         <HelpTOCNode Title="CXIdxObjCContainerDeclInfo メソッド" Url="html/553591b1-4c49-8688-23b4-0df8503b87e5.htm" />
-        <HelpTOCNode Id="466ab2b4-ddc3-4dfd-9b73-adba88635653" Title="CXIdxObjCContainerDeclInfo フィールド" Url="html/847cf446-7f67-4147-761a-47e259cb4436.htm">
+        <HelpTOCNode Id="a4d0479f-6aed-4d30-8fb0-a21a82e6e645" Title="CXIdxObjCContainerDeclInfo フィールド" Url="html/847cf446-7f67-4147-761a-47e259cb4436.htm">
           <HelpTOCNode Title="DeclInfo フィールド" Url="html/bf97b79d-284c-3a19-5184-7966b89a92c3.htm" />
           <HelpTOCNode Title="Kind フィールド" Url="html/c9de3967-8000-d580-dea4-cff38db93f1a.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b51d46c9-f442-4569-aa70-f35000a04907" Title="CXIdxObjCInterfaceDeclInfo 構造体" Url="html/4081d9c6-2222-936c-3bf8-76fedbb66dc4.htm">
+      <HelpTOCNode Id="5b2f9344-acf1-48ab-bd53-0de08ffbcdbe" Title="CXIdxObjCInterfaceDeclInfo 構造体" Url="html/4081d9c6-2222-936c-3bf8-76fedbb66dc4.htm">
         <HelpTOCNode Title="CXIdxObjCInterfaceDeclInfo メソッド" Url="html/e7f02d84-ed3a-e0da-ecbc-a04d5d602728.htm" />
-        <HelpTOCNode Id="6dfb0fe9-2706-46c8-99fe-56188e18c7f5" Title="CXIdxObjCInterfaceDeclInfo フィールド" Url="html/3b69460a-83a8-fec2-9cac-0454ae0dd392.htm">
+        <HelpTOCNode Id="6505c023-09f3-440b-98fa-265b6e2763d8" Title="CXIdxObjCInterfaceDeclInfo フィールド" Url="html/3b69460a-83a8-fec2-9cac-0454ae0dd392.htm">
           <HelpTOCNode Title="ContainerInfo フィールド" Url="html/05538d1f-d436-becd-aa40-c9cd58ba7609.htm" />
           <HelpTOCNode Title="Protocols フィールド" Url="html/f5bfa631-44a4-32a0-9a02-63e2df997294.htm" />
           <HelpTOCNode Title="SuperInfo フィールド" Url="html/abecdaad-3d1a-8d42-3577-fe7dc52070f9.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7681006d-74ee-47b5-a8f4-0a0985a0f745" Title="CXIdxObjCPropertyDeclInfo 構造体" Url="html/fab4b58b-3bea-3362-0654-49fc867a9f44.htm">
+      <HelpTOCNode Id="9c86e227-da47-4b52-a4d9-afa81e0cbfdf" Title="CXIdxObjCPropertyDeclInfo 構造体" Url="html/fab4b58b-3bea-3362-0654-49fc867a9f44.htm">
         <HelpTOCNode Title="CXIdxObjCPropertyDeclInfo メソッド" Url="html/49d98635-ddf4-2ec4-bbed-bc155b633369.htm" />
-        <HelpTOCNode Id="df696779-ed7e-4b39-b0d2-0bda6d576ac7" Title="CXIdxObjCPropertyDeclInfo フィールド" Url="html/e2e3b5d0-a061-da86-f705-3f16ad1b1d88.htm">
+        <HelpTOCNode Id="a4068ce9-dc5b-4762-8b4d-7dc5689e4581" Title="CXIdxObjCPropertyDeclInfo フィールド" Url="html/e2e3b5d0-a061-da86-f705-3f16ad1b1d88.htm">
           <HelpTOCNode Title="DeclInfo フィールド" Url="html/e74e2702-2cea-1f18-980c-5617d81e27e7.htm" />
           <HelpTOCNode Title="Getter フィールド" Url="html/1df7c4b6-7daa-4eb6-5562-62ab9cfba473.htm" />
           <HelpTOCNode Title="Setter フィールド" Url="html/463fde0f-cac8-ce55-e9db-8b6079c312ae.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="37508aad-94ea-437e-ad8e-550eb9d54c57" Title="CXIdxObjCProtocolRefInfo 構造体" Url="html/7dfa584c-598f-b678-4fdc-d5ab25d0b994.htm">
+      <HelpTOCNode Id="ace934d2-c112-4fb7-9759-4f98976c9d79" Title="CXIdxObjCProtocolRefInfo 構造体" Url="html/7dfa584c-598f-b678-4fdc-d5ab25d0b994.htm">
         <HelpTOCNode Title="CXIdxObjCProtocolRefInfo メソッド" Url="html/8f0ebd86-62d8-5a79-c48f-874e23624650.htm" />
-        <HelpTOCNode Id="bbecbc3d-416c-4da5-8c46-5c190f06094c" Title="CXIdxObjCProtocolRefInfo フィールド" Url="html/c1be79cf-7862-7159-16d4-6aaf7e8dbbac.htm">
+        <HelpTOCNode Id="8088431a-ad8f-4be3-b2cf-48f06f3cb938" Title="CXIdxObjCProtocolRefInfo フィールド" Url="html/c1be79cf-7862-7159-16d4-6aaf7e8dbbac.htm">
           <HelpTOCNode Title="Cursor フィールド" Url="html/d1825088-045a-b47e-9450-7e10773fb317.htm" />
           <HelpTOCNode Title="Loc フィールド" Url="html/159ab9f4-4d90-3e0f-8c1b-13270d9b4ef8.htm" />
           <HelpTOCNode Title="Protocol フィールド" Url="html/f8f30312-495a-b8ba-fd13-7ac81143d3b2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="178f8a4f-a69e-4b92-9b0b-44643ac8ea39" Title="CXIdxObjCProtocolRefListInfo 構造体" Url="html/a8e19a40-ea3b-64c2-db2f-c46d3625098e.htm">
+      <HelpTOCNode Id="bc2b2158-fbe4-4889-9d9c-3aaea21ed079" Title="CXIdxObjCProtocolRefListInfo 構造体" Url="html/a8e19a40-ea3b-64c2-db2f-c46d3625098e.htm">
         <HelpTOCNode Title="CXIdxObjCProtocolRefListInfo メソッド" Url="html/69ea99cb-5757-5823-9d67-308d8e079f8b.htm" />
-        <HelpTOCNode Id="8e8281bb-bdbb-45fb-b3c5-8766d0d8d629" Title="CXIdxObjCProtocolRefListInfo フィールド" Url="html/379142fd-f5c1-5e90-60b7-cfd77c216390.htm">
+        <HelpTOCNode Id="33338642-0281-419e-8a50-84dc81a2a282" Title="CXIdxObjCProtocolRefListInfo フィールド" Url="html/379142fd-f5c1-5e90-60b7-cfd77c216390.htm">
           <HelpTOCNode Title="NumProtocols フィールド" Url="html/993f78a7-707c-13db-22e0-dd00ee10a125.htm" />
           <HelpTOCNode Title="Protocols フィールド" Url="html/a26f5635-1e49-63a1-86b0-c096f81feacf.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="CXInclusionVisitor デリゲート" Url="html/146d0e14-edd3-ab0d-e169-25052a01d409.htm" />
-      <HelpTOCNode Id="b5f88c4f-7faa-44f9-ac4a-d8e424920b05" Title="CXPlatformAvailability 構造体" Url="html/9ba02249-68ed-047e-1de4-b097f6e48c25.htm">
+      <HelpTOCNode Id="09448640-85cc-4919-ba04-8d4148808a83" Title="CXPlatformAvailability 構造体" Url="html/9ba02249-68ed-047e-1de4-b097f6e48c25.htm">
         <HelpTOCNode Title="CXPlatformAvailability メソッド" Url="html/73e8b45c-c18f-c130-8d89-e4b99a899557.htm" />
-        <HelpTOCNode Id="7961f51e-8dae-4240-a4cd-6737ab73d595" Title="CXPlatformAvailability フィールド" Url="html/c8236445-3a4b-a9c6-baef-c280e4895965.htm">
+        <HelpTOCNode Id="769185d4-cf9c-4d39-a930-a8b136aad2fe" Title="CXPlatformAvailability フィールド" Url="html/c8236445-3a4b-a9c6-baef-c280e4895965.htm">
           <HelpTOCNode Title="Deprecated フィールド" Url="html/33f0d001-5f1a-8871-2a8f-62b5d8ab9941.htm" />
           <HelpTOCNode Title="Introduced フィールド" Url="html/5d213c11-4de4-13e0-209a-59f48762227e.htm" />
           <HelpTOCNode Title="Message フィールド" Url="html/0c738128-a20f-6df7-ecd5-305e810e24b1.htm" />
@@ -1506,48 +1506,48 @@
           <HelpTOCNode Title="Unavailable フィールド" Url="html/4486a46d-ba5d-051b-56b6-eaa79a062028.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b3ef9dc8-c3a6-4c4f-8de9-e0218958e1b4" Title="CXSourceLocation 構造体" Url="html/d7fb16c5-5ae4-ff95-44b0-63ce232571bf.htm">
+      <HelpTOCNode Id="232c9f1c-0932-42f6-9e5f-cb2a86ad3791" Title="CXSourceLocation 構造体" Url="html/d7fb16c5-5ae4-ff95-44b0-63ce232571bf.htm">
         <HelpTOCNode Title="CXSourceLocation メソッド" Url="html/b91f2de3-8589-38e7-78a3-4164947cde02.htm" />
-        <HelpTOCNode Id="0e52501d-8db9-4ee2-b59d-8cc10da4a8be" Title="CXSourceLocation フィールド" Url="html/b34ed68c-8600-e349-041b-7c9281c7045b.htm">
+        <HelpTOCNode Id="81f9a003-2e92-4565-8d61-f9fbca81267b" Title="CXSourceLocation フィールド" Url="html/b34ed68c-8600-e349-041b-7c9281c7045b.htm">
           <HelpTOCNode Title="IntData フィールド" Url="html/fab0735d-b876-ce0b-a40f-bbff42acb742.htm" />
           <HelpTOCNode Title="PtrData1 フィールド" Url="html/fcef7b6e-349d-4b65-5f48-a106d324e1ba.htm" />
           <HelpTOCNode Title="PtrData2 フィールド" Url="html/354c1a2e-34bf-ec97-7f60-c7a103a74a56.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4bd9d0f4-ac70-4cd1-ba12-86fd5b437ed3" Title="CXSourceRange 構造体" Url="html/64bec91e-4201-414c-4737-42500526aa62.htm">
+      <HelpTOCNode Id="5bd54db4-c10c-4137-b55a-f540c6fd6896" Title="CXSourceRange 構造体" Url="html/64bec91e-4201-414c-4737-42500526aa62.htm">
         <HelpTOCNode Title="CXSourceRange コンストラクター " Url="html/0b9303bb-5149-8436-c9e6-7802d3fe71be.htm" />
         <HelpTOCNode Title="CXSourceRange メソッド" Url="html/bade7150-25e8-a0ff-5f7b-3ff00ac6dd96.htm" />
-        <HelpTOCNode Id="b870fbd0-4889-4f1d-ac03-71cbcf225ca2" Title="CXSourceRange フィールド" Url="html/7b48d370-eb9f-6c48-ad8e-23846f12b82c.htm">
+        <HelpTOCNode Id="fecd3179-51ad-4f15-b135-e5ee3ed3a6b5" Title="CXSourceRange フィールド" Url="html/7b48d370-eb9f-6c48-ad8e-23846f12b82c.htm">
           <HelpTOCNode Title="BeginIntData フィールド" Url="html/d697db1a-4dde-8675-bd1c-68fee6a9f1e9.htm" />
           <HelpTOCNode Title="EndIntData フィールド" Url="html/d5d91921-fbea-60f9-a988-5dbeb347559c.htm" />
           <HelpTOCNode Title="PtrData1 フィールド" Url="html/f8ff62f8-1034-1e9a-c08d-ae9c6a3b2811.htm" />
           <HelpTOCNode Title="PtrData2 フィールド" Url="html/c4e5e468-bd36-e70a-a65f-a22f10416689.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="21518be5-baef-4591-a357-9d29674c21fa" Title="CXSourceRangeList 構造体" Url="html/ff6b3ec2-83d9-1e00-785d-42aed5b8d3ce.htm">
+      <HelpTOCNode Id="cc4954d3-ba19-48bf-9f2d-a0e03dff76d6" Title="CXSourceRangeList 構造体" Url="html/ff6b3ec2-83d9-1e00-785d-42aed5b8d3ce.htm">
         <HelpTOCNode Title="CXSourceRangeList メソッド" Url="html/abfb1ccc-ea21-a951-88f5-0f1237b1865d.htm" />
-        <HelpTOCNode Id="46532b0a-a01b-4942-b295-29b20e988474" Title="CXSourceRangeList フィールド" Url="html/95ba0042-ae78-4702-4467-b0853e4e321f.htm">
+        <HelpTOCNode Id="866e143c-dd23-41f8-aa9a-59426207b375" Title="CXSourceRangeList フィールド" Url="html/95ba0042-ae78-4702-4467-b0853e4e321f.htm">
           <HelpTOCNode Title="Count フィールド" Url="html/9b76049b-5064-653c-475a-e1d82ae6196b.htm" />
           <HelpTOCNode Title="Ranges フィールド" Url="html/53650b3a-192d-7b71-6d5f-a5c5c95ed21c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7f44c4fb-1cad-4400-bd62-a435f9f01d69" Title="CXString 構造体" Url="html/9a3f6d86-f73d-1eee-37a0-cc97ea6cbf6b.htm">
+      <HelpTOCNode Id="7c548961-6f96-4107-bf3e-ae22993b65a7" Title="CXString 構造体" Url="html/9a3f6d86-f73d-1eee-37a0-cc97ea6cbf6b.htm">
         <HelpTOCNode Title="CXString メソッド" Url="html/e43d7d9d-e83c-f514-6620-a0cbf4cd030b.htm" />
-        <HelpTOCNode Id="cef62117-336d-4d15-968d-876be4eb9be7" Title="CXString フィールド" Url="html/0d9d1200-22f8-946b-bb5a-89060a24f229.htm">
+        <HelpTOCNode Id="fb06502d-b68d-4e45-821d-ca7ba6cd20b7" Title="CXString フィールド" Url="html/0d9d1200-22f8-946b-bb5a-89060a24f229.htm">
           <HelpTOCNode Title="Data フィールド" Url="html/baab52af-034e-a6a7-e5fc-4b1b9d221ebb.htm" />
           <HelpTOCNode Title="PrivateFlags フィールド" Url="html/e22a1da4-fb16-7124-efde-5b0c3268264f.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="edae2349-4e1c-4d20-a4d6-4aa5fdc1f092" Title="CXStringSet 構造体" Url="html/c94524ed-ec74-0eb3-cb0d-dca2bc0d0071.htm">
+      <HelpTOCNode Id="6a427ff0-5e3c-4fb1-9b99-f2fffcfcfa71" Title="CXStringSet 構造体" Url="html/c94524ed-ec74-0eb3-cb0d-dca2bc0d0071.htm">
         <HelpTOCNode Title="CXStringSet メソッド" Url="html/f9955906-40a2-131a-ebe2-20ca41d13a45.htm" />
-        <HelpTOCNode Id="7d37d48a-3a3a-4007-96cd-6c2f2a6db4e3" Title="CXStringSet フィールド" Url="html/15be5830-e771-e2d7-2388-a067796a0956.htm">
+        <HelpTOCNode Id="cb364e5d-38bc-4ed9-adaf-d20f86367452" Title="CXStringSet フィールド" Url="html/15be5830-e771-e2d7-2388-a067796a0956.htm">
           <HelpTOCNode Title="Count フィールド" Url="html/0b021398-3d8b-40cc-8cc8-470ce1698ef0.htm" />
           <HelpTOCNode Title="Strings フィールド" Url="html/80bd6346-e02f-6f65-f5cc-9ade55a45a37.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f1e65b30-22c4-4835-838e-126bae969d05" Title="CXToken 構造体" Url="html/fa0a8075-92e8-9b94-326d-94610885d823.htm">
+      <HelpTOCNode Id="4701f0ef-dcf1-47b4-87b8-612357bd42fd" Title="CXToken 構造体" Url="html/fa0a8075-92e8-9b94-326d-94610885d823.htm">
         <HelpTOCNode Title="CXToken メソッド" Url="html/cc250b12-63b6-e1b6-5234-570e94756de8.htm" />
-        <HelpTOCNode Id="29cc61ee-c650-4aab-9ddc-b1d720a0aafc" Title="CXToken フィールド" Url="html/3c7307f2-f63f-a5e4-cd47-2aecc4c8b36a.htm">
+        <HelpTOCNode Id="250e623a-d177-455d-bbaa-ea3c2b6865df" Title="CXToken フィールド" Url="html/3c7307f2-f63f-a5e4-cd47-2aecc4c8b36a.htm">
           <HelpTOCNode Title="int_data1 フィールド" Url="html/902e9826-9422-0f29-4a19-67864028cbd9.htm" />
           <HelpTOCNode Title="int_data2 フィールド" Url="html/26965096-0ae0-a26e-ee6d-b2aad37206c1.htm" />
           <HelpTOCNode Title="int_data3 フィールド" Url="html/e9007a05-d9a8-f2a7-c253-2ef9d37fed37.htm" />
@@ -1555,42 +1555,42 @@
           <HelpTOCNode Title="ptr_data フィールド" Url="html/732a2f95-0115-d739-64a0-a30102a5f698.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ead0da34-78dd-4a8b-82cd-f774b605bc21" Title="CXTUResourceUsage 構造体" Url="html/31ee5732-9398-7782-7d04-9199c13e04f5.htm">
+      <HelpTOCNode Id="f3ba51a5-b813-49a0-b903-598c87c9f0fa" Title="CXTUResourceUsage 構造体" Url="html/31ee5732-9398-7782-7d04-9199c13e04f5.htm">
         <HelpTOCNode Title="CXTUResourceUsage メソッド" Url="html/b2183656-f4cf-758c-e21a-cbe983644bba.htm" />
-        <HelpTOCNode Id="43024ec4-7b1c-40b0-ab56-bd72bfe6a9e3" Title="CXTUResourceUsage フィールド" Url="html/252c7900-cb8e-c756-7bdb-b4f8d2f12e12.htm">
+        <HelpTOCNode Id="adf4b61c-b5b8-4053-a55e-e111ef55e7dc" Title="CXTUResourceUsage フィールド" Url="html/252c7900-cb8e-c756-7bdb-b4f8d2f12e12.htm">
           <HelpTOCNode Title="Data フィールド" Url="html/39948ee8-327c-4b55-f6b0-9b8a0f8bab49.htm" />
           <HelpTOCNode Title="Entries フィールド" Url="html/a18e7a8d-27f6-fbe5-a043-2b995c89bd58.htm" />
           <HelpTOCNode Title="NumEntries フィールド" Url="html/60a4afd0-6e80-7493-a475-38866700a7e5.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="dea73cdb-b764-48d6-86a7-34b4043f5f97" Title="CXTUResourceUsageEntry 構造体" Url="html/24b1e5d7-11e7-77f0-47ce-f9f085313fea.htm">
+      <HelpTOCNode Id="f93b2f8c-78cd-4af9-b0c8-9b7226fa3268" Title="CXTUResourceUsageEntry 構造体" Url="html/24b1e5d7-11e7-77f0-47ce-f9f085313fea.htm">
         <HelpTOCNode Title="CXTUResourceUsageEntry メソッド" Url="html/bafd61d6-df69-5231-0534-37d2b25ef2b7.htm" />
-        <HelpTOCNode Id="a78b3003-2d45-400e-a572-ca8fd88d1394" Title="CXTUResourceUsageEntry フィールド" Url="html/979cbed5-6858-472c-34d9-e049326acd47.htm">
+        <HelpTOCNode Id="39e8f06b-e7db-422e-a2a4-0f56bd856594" Title="CXTUResourceUsageEntry フィールド" Url="html/979cbed5-6858-472c-34d9-e049326acd47.htm">
           <HelpTOCNode Title="Amount フィールド" Url="html/6dd9e6d7-2593-673c-9fb0-b4faf7d80c4b.htm" />
           <HelpTOCNode Title="Kind フィールド" Url="html/5d069782-ae95-2610-f890-fb8bc522efa7.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e165406e-2eb1-44f4-9b9d-c0bf12bf59a5" Title="CXType 構造体" Url="html/b07c6550-d015-7570-ff63-93588b076a5d.htm">
+      <HelpTOCNode Id="d4bd51e6-f3c0-48b1-8d51-7bdde2225195" Title="CXType 構造体" Url="html/b07c6550-d015-7570-ff63-93588b076a5d.htm">
         <HelpTOCNode Title="CXType メソッド" Url="html/a4ab5ab7-c04c-8f7d-f7f9-c2fc05166538.htm" />
-        <HelpTOCNode Id="cd7a9b70-bb79-47a8-bfac-7c6737227320" Title="CXType フィールド" Url="html/135c96b2-73fa-f869-c11b-1fa1f4ec6b08.htm">
+        <HelpTOCNode Id="7273bba7-9a1a-4360-aa52-622be6daf45b" Title="CXType フィールド" Url="html/135c96b2-73fa-f869-c11b-1fa1f4ec6b08.htm">
           <HelpTOCNode Title="Data1 フィールド" Url="html/7ff0fd1e-2b86-499b-ea90-bb680c84c71b.htm" />
           <HelpTOCNode Title="Data2 フィールド" Url="html/05e9fdab-cf71-b41b-c252-8c502d60ae75.htm" />
           <HelpTOCNode Title="Kind フィールド" Url="html/f1a3956e-f1c4-9e46-f00e-4cfd65ee2dde.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="cfc7b80d-09f7-45eb-bf02-bb2f3c19f06a" Title="CXUnsavedFile 構造体" Url="html/dca8ee8c-9dcd-33e6-47a5-062e78d576cb.htm">
+      <HelpTOCNode Id="7d92ccf0-8f4b-4866-bd04-3b9c848cfe63" Title="CXUnsavedFile 構造体" Url="html/dca8ee8c-9dcd-33e6-47a5-062e78d576cb.htm">
         <HelpTOCNode Title="CXUnsavedFile コンストラクター " Url="html/85c31619-c364-01dc-6fb9-17eacca2031b.htm" />
         <HelpTOCNode Title="CXUnsavedFile メソッド" Url="html/66acb7a7-6574-5bf7-249f-230d17047fb2.htm" />
-        <HelpTOCNode Id="579f0cc1-36d4-4a3e-80f1-b40172bf02d6" Title="CXUnsavedFile フィールド" Url="html/73a57f83-e6cd-92ca-584c-d5e29ee49751.htm">
+        <HelpTOCNode Id="901c09e5-ef09-4a48-a3f0-c5ec174c5274" Title="CXUnsavedFile フィールド" Url="html/73a57f83-e6cd-92ca-584c-d5e29ee49751.htm">
           <HelpTOCNode Title="Contents フィールド" Url="html/4a352907-9be3-c8b7-d051-1bef492330dd.htm" />
           <HelpTOCNode Title="FileName フィールド" Url="html/5601f043-98b5-8492-7c91-9cfd2ba9f3c2.htm" />
           <HelpTOCNode Title="Length フィールド" Url="html/e9672db2-aade-fc35-4c14-7216ac678871.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e217aa12-e647-4ab8-a874-b9afbd1d79a9" Title="CXVersion 構造体" Url="html/c57c1384-617b-3648-b71f-f9708aa10e52.htm">
+      <HelpTOCNode Id="3b9eb4b3-0aaa-44e8-a317-c7928de6231c" Title="CXVersion 構造体" Url="html/c57c1384-617b-3648-b71f-f9708aa10e52.htm">
         <HelpTOCNode Title="CXVersion コンストラクター " Url="html/d53cae81-3df6-ac30-9b2a-6694393e547c.htm" />
         <HelpTOCNode Title="CXVersion メソッド" Url="html/7427e5cf-a06e-9729-f0e3-076ee3d9f333.htm" />
-        <HelpTOCNode Id="f52ace5d-2425-4a67-b0d6-b490a230a889" Title="CXVersion フィールド" Url="html/ee2a35fb-997b-4aeb-60f2-7b936b90c5c0.htm">
+        <HelpTOCNode Id="7c476abc-b3af-41e5-a517-4ca87d072721" Title="CXVersion フィールド" Url="html/ee2a35fb-997b-4aeb-60f2-7b936b90c5c0.htm">
           <HelpTOCNode Title="Major フィールド" Url="html/21ffecf6-8c99-7a8b-e4a9-d83f9fc184e3.htm" />
           <HelpTOCNode Title="Minor フィールド" Url="html/7c4f1b6c-46e8-3167-1526-9d018775da6e.htm" />
           <HelpTOCNode Title="SubMinor フィールド" Url="html/62e2b6b9-d04e-25f4-28a6-25c9e1d46d85.htm" />
@@ -1601,9 +1601,9 @@
       <HelpTOCNode Title="ImportedASTFileHandler デリゲート" Url="html/bb00855b-dd42-6417-e29e-75d2a741a5b0.htm" />
       <HelpTOCNode Title="IndexDeclarationHandler デリゲート" Url="html/d3efb055-4cb0-5dc4-c6dc-84f95bd27e72.htm" />
       <HelpTOCNode Title="IndexEntityReferenceHandler デリゲート" Url="html/85a693dc-3ece-ec8c-6470-9cfc5550b52d.htm" />
-      <HelpTOCNode Id="e15c59c2-5f39-44f6-9488-cec4233d726e" Title="IndexerCallbacks 構造体" Url="html/bf3f51fe-a557-1b22-e318-0e8067cbeafd.htm">
+      <HelpTOCNode Id="ee273087-a276-4c75-8b00-456efba0e2cd" Title="IndexerCallbacks 構造体" Url="html/bf3f51fe-a557-1b22-e318-0e8067cbeafd.htm">
         <HelpTOCNode Title="IndexerCallbacks メソッド" Url="html/6984a46a-1040-c1f4-d714-3e8a7549ee3d.htm" />
-        <HelpTOCNode Id="f0717e58-866d-44b9-8e1b-b2c96645f430" Title="IndexerCallbacks フィールド" Url="html/c3713403-c805-b0e8-491b-f8ac26f44a60.htm">
+        <HelpTOCNode Id="34bbf2a7-af11-4d0b-9fda-616fe7a0dddd" Title="IndexerCallbacks フィールド" Url="html/c3713403-c805-b0e8-491b-f8ac26f44a60.htm">
           <HelpTOCNode Title="AbortQuery フィールド" Url="html/d5c9e976-a3a4-651a-917d-8955ef4c522b.htm" />
           <HelpTOCNode Title="Diagnostic フィールド" Url="html/0b670fce-51aa-8eba-d79b-ae2c440a8012.htm" />
           <HelpTOCNode Title="EnteredMainFile フィールド" Url="html/53344222-4913-9ee2-fab6-3660a5246e47.htm" />
@@ -1614,8 +1614,8 @@
           <HelpTOCNode Title="StartedTranslationUnit フィールド" Url="html/fb2ab252-b35c-fbf7-28f8-0b4479968522.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="feabe810-1298-4303-bafa-a384816d4527" Title="LibClang クラス" Url="html/61d25157-394c-121d-aaf1-543efa4183d0.htm">
-        <HelpTOCNode Id="497e6354-4ee1-452a-b383-f46f985a477c" Title="LibClang メソッド" Url="html/aa5de6af-91e8-b206-bd77-cc3b446c5f9a.htm">
+      <HelpTOCNode Id="1eb97754-73a5-4310-9cae-62477679fd8a" Title="LibClang クラス" Url="html/61d25157-394c-121d-aaf1-543efa4183d0.htm">
+        <HelpTOCNode Id="d3577053-14c9-4982-b955-d7d47e8245dc" Title="LibClang メソッド" Url="html/aa5de6af-91e8-b206-bd77-cc3b446c5f9a.htm">
           <HelpTOCNode Title="clang_annotateTokens メソッド " Url="html/a4ce56bd-dc3d-4bbc-c7b0-3addc9024c12.htm" />
           <HelpTOCNode Title="clang_BlockCommandComment_getArgText メソッド " Url="html/ce59c8e6-8fb1-dbf6-cdef-1a74e38310a5.htm" />
           <HelpTOCNode Title="clang_BlockCommandComment_getCommandName メソッド " Url="html/48262b53-4123-af08-6140-dbc5acd40f1b.htm" />
@@ -1994,7 +1994,7 @@
           <HelpTOCNode Title="clang_VirtualFileOverlay_writeToBuffer メソッド " Url="html/28eb0bd4-bde7-c47b-f082-f81a2ceaf2f3.htm" />
           <HelpTOCNode Title="clang_visitChildren メソッド " Url="html/88307fa6-594e-c7d6-2165-58078bfbf28b.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="05161e55-9eb5-4500-b1db-59ff55ca99fc" Title="LibClang フィールド" Url="html/ac9e58ef-5eec-57eb-5eab-bee4d82a9873.htm">
+        <HelpTOCNode Id="44340cbe-edf4-46d6-929f-b9554bd24429" Title="LibClang フィールド" Url="html/ac9e58ef-5eec-57eb-5eab-bee4d82a9873.htm">
           <HelpTOCNode Title="LibraryCallingConvention フィールド" Url="html/259772b8-7582-47c9-4fdf-735f553152ea.htm" />
           <HelpTOCNode Title="LibraryName フィールド" Url="html/1fc16340-5baa-1a23-4850-c2e1823ae083.htm" />
         </HelpTOCNode>
@@ -2002,60 +2002,60 @@
       <HelpTOCNode Title="PpIncludedFileHandler デリゲート" Url="html/412ed619-b009-4136-1b7d-8bb4f8e9ea75.htm" />
       <HelpTOCNode Title="StartedTranslationUnitHandler デリゲート" Url="html/f08891c4-5316-01e9-8f4c-2b1b1b944276.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="999b6665-00bc-4bc9-8be6-37b018d3615e" Title="ClangNet.Samples" Url="html/601158bd-2d84-8f94-09e2-6e4c2f03fe3b.htm">
-      <HelpTOCNode Id="ab66b59f-bee8-4a82-902a-c5bbc806e0ad" Title="ATranslationUnitHandler クラス" Url="html/910fe727-6161-2001-6629-73be2e2fea92.htm">
+    <HelpTOCNode Id="bbd0b759-6313-470e-95cc-15e6c7b77b27" Title="ClangNet.Samples" Url="html/601158bd-2d84-8f94-09e2-6e4c2f03fe3b.htm">
+      <HelpTOCNode Id="355c08e7-fdb5-4f72-8a17-daf3d3e50385" Title="ATranslationUnitHandler クラス" Url="html/910fe727-6161-2001-6629-73be2e2fea92.htm">
         <HelpTOCNode Title="ATranslationUnitHandler コンストラクター " Url="html/205b895c-d52b-7bcc-08de-955fce0812d9.htm" />
-        <HelpTOCNode Id="a018371c-d87a-46fc-94c9-6519b7125ab9" Title="ATranslationUnitHandler プロパティ" Url="html/8f0b9ae3-cdc9-c9c8-a506-8743e99cbac4.htm">
+        <HelpTOCNode Id="a94f0557-1312-4840-bd4c-cc66ac4a8480" Title="ATranslationUnitHandler プロパティ" Url="html/8f0b9ae3-cdc9-c9c8-a506-8743e99cbac4.htm">
           <HelpTOCNode Title="CommandLineArgs プロパティ " Url="html/3fca929f-dc80-a126-999c-eaad6ec2896a.htm" />
           <HelpTOCNode Title="DisplayDiagnostic プロパティ " Url="html/bd542db1-0320-9c32-06ee-bd0c5fdb0016.htm" />
           <HelpTOCNode Title="ParseOptions プロパティ " Url="html/d1f66f23-ae9c-b0c2-e987-0baf89f71f84.htm" />
           <HelpTOCNode Title="SourcePath プロパティ " Url="html/1a8eea7e-407f-71b4-3f17-1eadde7dc9af.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6fdd4537-c0f1-4f12-9c60-5d6d4d0e57ce" Title="ATranslationUnitHandler メソッド" Url="html/d5382732-cf42-a192-e618-074fa9e56e41.htm">
+        <HelpTOCNode Id="7d598dc5-dbbd-498e-985e-515d2094a862" Title="ATranslationUnitHandler メソッド" Url="html/d5382732-cf42-a192-e618-074fa9e56e41.htm">
           <HelpTOCNode Title="Execute メソッド " Url="html/0d5cc947-ff5c-455c-fc27-ebf6c7ba68a9.htm" />
           <HelpTOCNode Title="ExecuteCore メソッド " Url="html/203cf935-9c72-ab70-27b9-6e56b2fc6930.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="521ef165-a6b0-4091-a11d-b34b0f6a7668" Title="ClangFileEx クラス" Url="html/92ba989f-5b20-c02a-b4ca-6973e46fdb3f.htm">
-        <HelpTOCNode Id="18a42713-4073-41f0-a230-65902056a1c6" Title="ClangFileEx メソッド" Url="html/c728c0ca-d026-812b-c049-db30f679f24c.htm">
+      <HelpTOCNode Id="959b6c68-4528-4889-98ff-d66fcf519fc6" Title="ClangFileEx クラス" Url="html/92ba989f-5b20-c02a-b4ca-6973e46fdb3f.htm">
+        <HelpTOCNode Id="13af5973-9f19-471a-bc88-0ddb7278e87e" Title="ClangFileEx メソッド" Url="html/c728c0ca-d026-812b-c049-db30f679f24c.htm">
           <HelpTOCNode Title="ToFullPath メソッド " Url="html/89095b15-7e7a-67b0-883f-1fc084e5cf3d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f9d03a81-45de-4ee7-a0c5-1705df31e038" Title="ClangSourceLocationEx クラス" Url="html/25089581-c493-e250-8644-184aa9b49c68.htm">
-        <HelpTOCNode Id="ac2ccf8e-7cb4-4336-bff4-377fcfdc6105" Title="ClangSourceLocationEx メソッド" Url="html/335a2a53-8430-3d84-4751-914700d58c87.htm">
+      <HelpTOCNode Id="8138de8b-312f-49d4-813f-115efad05499" Title="ClangSourceLocationEx クラス" Url="html/25089581-c493-e250-8644-184aa9b49c68.htm">
+        <HelpTOCNode Id="a1c4beab-dc50-4503-95bf-fd08fdf0e1da" Title="ClangSourceLocationEx メソッド" Url="html/335a2a53-8430-3d84-4751-914700d58c87.htm">
           <HelpTOCNode Title="GetFilePath メソッド " Url="html/a1200c7c-308f-a7b9-a6ae-6e3168548dfe.htm" />
           <HelpTOCNode Title="ToStringEx メソッド " Url="html/3d387744-e85e-7abb-2d11-d47c66b796f5.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d2501078-d179-4da5-a62d-b92a795dbec3" Title="CursorVisitor クラス" Url="html/416fdc1f-4ac7-56bc-590f-4840d6e4236b.htm">
+      <HelpTOCNode Id="de0e2fba-22d3-4120-a1b1-d067edbcac5d" Title="CursorVisitor クラス" Url="html/416fdc1f-4ac7-56bc-590f-4840d6e4236b.htm">
         <HelpTOCNode Title="CursorVisitor コンストラクター " Url="html/29bc128c-9c67-8f0f-0bbf-5d3f89178812.htm" />
-        <HelpTOCNode Id="fe9ca9c5-399c-4638-92d0-160f71c37796" Title="CursorVisitor メソッド" Url="html/7c08799f-bb7a-3e54-3185-c768b82af8a0.htm">
+        <HelpTOCNode Id="34948f35-5941-4ec1-9e7a-ee48852c5900" Title="CursorVisitor メソッド" Url="html/7c08799f-bb7a-3e54-3185-c768b82af8a0.htm">
           <HelpTOCNode Title="Execute メソッド " Url="html/70f5c42f-1987-c46f-66b8-9394f4ab3656.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0e9c0db0-7639-4bf9-8d9e-e98e454d278b" Title="CursorVisitor.CursorVisitorImpl クラス" Url="html/1a988941-3717-b513-fc48-97004683b59f.htm">
+      <HelpTOCNode Id="a39325ff-a823-48d8-9abf-65990a8ec37c" Title="CursorVisitor.CursorVisitorImpl クラス" Url="html/1a988941-3717-b513-fc48-97004683b59f.htm">
         <HelpTOCNode Title="CursorVisitor.CursorVisitorImpl コンストラクター " Url="html/1ee2ba7a-ea9b-5d77-9912-4972db092976.htm" />
-        <HelpTOCNode Id="f6922514-c9ca-4993-8dfe-124034b54bc0" Title="CursorVisitorImpl プロパティ" Url="html/e228e3b6-3429-1bee-087c-4562aa83cb71.htm">
+        <HelpTOCNode Id="6c1f26ed-c975-450b-88c7-b32db15fce5c" Title="CursorVisitorImpl プロパティ" Url="html/e228e3b6-3429-1bee-087c-4562aa83cb71.htm">
           <HelpTOCNode Title="SystemIncludes プロパティ " Url="html/a50944a0-7023-c051-c3ba-105c5a711deb.htm" />
           <HelpTOCNode Title="UserIncludes プロパティ " Url="html/2f548449-c387-860a-d7a4-4589d4d0922b.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3ed1344b-b4c7-4e55-a598-7c7f167e0831" Title="CursorVisitorImpl メソッド" Url="html/88d90a3b-6116-fb44-d597-f6f6923fd1d4.htm">
+        <HelpTOCNode Id="1ce3daf8-b264-472e-aaee-3de7725c0d77" Title="CursorVisitorImpl メソッド" Url="html/88d90a3b-6116-fb44-d597-f6f6923fd1d4.htm">
           <HelpTOCNode Title="DumpIncludes メソッド " Url="html/d62d4fc8-5360-3e07-46c5-7ab5911594bd.htm" />
           <HelpTOCNode Title="ExecuteCore メソッド " Url="html/3c789325-c314-4703-ed03-36620405041e.htm" />
           <HelpTOCNode Title="VisitChild メソッド " Url="html/87e5832e-466f-160d-dbbc-ff4ab2a79071.htm" />
           <HelpTOCNode Title="Visitor メソッド " Url="html/9083e908-43e2-5a62-a183-7e6e1c6333e5.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="77b45197-65ee-4619-a2e5-c7bdc4da83f3" Title="InclusionVisitor クラス" Url="html/90db812c-f7cb-ea8b-b15b-ccad6dcd704c.htm">
+      <HelpTOCNode Id="9385b43d-6094-44e8-902b-dc6bb97c3449" Title="InclusionVisitor クラス" Url="html/90db812c-f7cb-ea8b-b15b-ccad6dcd704c.htm">
         <HelpTOCNode Title="InclusionVisitor コンストラクター " Url="html/259ece3e-73e5-02fd-56de-2354b842a0df.htm" />
-        <HelpTOCNode Id="0e4a6c55-57b1-4545-8ff9-6d03f527a749" Title="InclusionVisitor メソッド" Url="html/530e5987-31d2-19c0-7ce1-8a589648e0a3.htm">
+        <HelpTOCNode Id="be31bbaf-5356-427f-bd10-9c66ed113492" Title="InclusionVisitor メソッド" Url="html/530e5987-31d2-19c0-7ce1-8a589648e0a3.htm">
           <HelpTOCNode Title="Execute メソッド " Url="html/167bd832-94e7-9880-1369-d392544bca8b.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="fe5e1c43-2212-4bef-a302-5448229ebb68" Title="InclusionVisitor.InclusionVisitorImpl クラス" Url="html/ef0e6c75-5758-ace9-fc2a-8c603690b887.htm">
+      <HelpTOCNode Id="0fb0c5aa-2fae-486e-b1f2-2df637cb6971" Title="InclusionVisitor.InclusionVisitorImpl クラス" Url="html/ef0e6c75-5758-ace9-fc2a-8c603690b887.htm">
         <HelpTOCNode Title="InclusionVisitor.InclusionVisitorImpl コンストラクター " Url="html/6aa9594b-55d1-4022-c59f-d362128bc865.htm" />
         <HelpTOCNode Title="InclusionVisitorImpl プロパティ" Url="html/0939e34e-ed40-2b1b-8de4-2e188c9a90bd.htm" />
-        <HelpTOCNode Id="847dfcea-15f4-4db6-84f0-562b21f0976a" Title="InclusionVisitorImpl メソッド" Url="html/a9a0362b-8164-5693-5bef-4f63bcb67336.htm">
+        <HelpTOCNode Id="41566306-e968-4fd5-b2a1-009b37784bb9" Title="InclusionVisitorImpl メソッド" Url="html/a9a0362b-8164-5693-5bef-4f63bcb67336.htm">
           <HelpTOCNode Title="ExecuteCore メソッド " Url="html/4f21f37b-6383-41f9-412f-4c7b4211670c.htm" />
           <HelpTOCNode Title="Visitor メソッド " Url="html/c3c11010-5a21-d21e-5178-a4f364b9309d.htm" />
         </HelpTOCNode>

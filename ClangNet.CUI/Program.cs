@@ -59,9 +59,9 @@ namespace ClangNet.CUI
             /// <returns>Parameters</returns>
             private (string, string[]) CreateParameters()
             {
-                var target_dir = $@".\Code";
-                var target_src = $@"{target_dir}\src\test.cpp";
-                var target_includes = new List<string> { $@"{target_dir}\inc" };
+                var target_dir = $@"./Code";
+                var target_src = $@"{target_dir}/src/test.cpp";
+                var target_includes = new List<string> { $@"{target_dir}/inc" };
                 var other_args = new List<string> { };
                 var cl_args = target_includes.Select(inc => $"-I{inc}").Concat(other_args);
                 var command_line_args = cl_args.ToArray();
