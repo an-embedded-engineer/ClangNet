@@ -9,7 +9,7 @@
     <DebugSymbols>true</DebugSymbols>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <PlatformTarget>x64</PlatformTarget>
-    <DocumentationFile>C:\Users\shin\source\repos\ClangNet\ClangNet\ClangNet.xml</DocumentationFile>
+    <DocumentationFile>ClangNet.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>

@@ -2376,16 +2376,16 @@
   <HelpKINode Title="FileManager クラス" Url="html/47d2078e-dc5d-df26-f786-925159f99bce.htm" />
   <HelpKINode Title="FileManager クラス、メソッド" Url="html/a5450a3f-e9bc-982e-bfe7-14b8a7e67d05.htm" />
   <HelpKINode Title="FileManager.AnalyseEncoding メソッド" Url="html/afee656f-91dc-0cdb-5fb2-4c2aef5a7dc7.htm" />
-  <HelpKINode Title="Filename フィールド" Url="html/3be8c6cf-c0c3-18f9-d6d6-c3289753299d.htm" />
   <HelpKINode Title="FileName フィールド" Url="html/5601f043-98b5-8492-7c91-9cfd2ba9f3c2.htm" />
-  <HelpKINode Title="Filename プロパティ">
-    <HelpKINode Title="ClangIndexIncludedFileInfo.Filename プロパティ " Url="html/b31bf65c-823c-0445-d925-8a5d2af82109.htm" />
-    <HelpKINode Title="ClangCompileCommand.Filename プロパティ " Url="html/0c466a1d-ad13-d4c5-2c07-1ccbe12e7b7e.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Filename フィールド" Url="html/3be8c6cf-c0c3-18f9-d6d6-c3289753299d.htm" />
   <HelpKINode Title="FileName プロパティ">
-    <HelpKINode Title="ClangFile.FileName プロパティ " Url="html/8d4bf103-80c9-2938-c4da-9fe17a405208.htm" />
     <HelpKINode Title="ClangLogicalLocation.FileName プロパティ " Url="html/d52d4720-d282-30dc-db7e-fc86b3547bc8.htm" />
     <HelpKINode Title="ClangUnsavedFile.FileName プロパティ " Url="html/919bb957-3f97-f59b-1b94-38b5427c689c.htm" />
+    <HelpKINode Title="ClangFile.FileName プロパティ " Url="html/8d4bf103-80c9-2938-c4da-9fe17a405208.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Filename プロパティ">
+    <HelpKINode Title="ClangCompileCommand.Filename プロパティ " Url="html/0c466a1d-ad13-d4c5-2c07-1ccbe12e7b7e.htm" />
+    <HelpKINode Title="ClangIndexIncludedFileInfo.Filename プロパティ " Url="html/b31bf65c-823c-0445-d925-8a5d2af82109.htm" />
   </HelpKINode>
   <HelpKINode Title="FileTime プロパティ" Url="html/94136457-fa59-55bb-c688-69aa45a77bbf.htm" />
   <HelpKINode Title="FileUniqueId プロパティ" Url="html/60fcb6ba-19cb-9248-afed-cb5de8da1379.htm" />
@@ -3420,8 +3420,8 @@
   <HelpKINode Title="ObjCCategoryDeclaration プロパティ" Url="html/543e9d1d-a0ed-9f6d-0960-4cd348acf7be.htm" />
   <HelpKINode Title="ObjCCategoryDeclaration 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="ObjCCategoryImplDeclaration 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
-  <HelpKINode Title="ObjCClass フィールド" Url="html/9e1e0bfd-f1aa-b743-696a-4308880f3732.htm" />
   <HelpKINode Title="ObjcClass フィールド" Url="html/1c8dff5f-ebc7-93a7-7145-4d4fbbe2a245.htm" />
+  <HelpKINode Title="ObjCClass フィールド" Url="html/9e1e0bfd-f1aa-b743-696a-4308880f3732.htm" />
   <HelpKINode Title="ObjCClass プロパティ">
     <HelpKINode Title="ClangIndexIBOutletCollectionAttributeInfo.ObjCClass プロパティ " Url="html/ec1e1a5a-0389-3db0-07e9-43947c892a3f.htm" />
     <HelpKINode Title="ClangIndexObjCCategoryDeclarationInfo.ObjCClass プロパティ " Url="html/7b29346b-1a9c-6912-5b2c-b8bda3a7efa9.htm" />
@@ -3994,9 +3994,9 @@
   <HelpKINode Title="Unexposed 列挙体メンバー">
     <HelpKINode Title="CallingConvention 列挙体" Url="html/0772be6a-d3b1-1288-722c-212576fc69e4.htm" />
     <HelpKINode Title="IndexAttributeKind 列挙体" Url="html/4bd739ad-bc12-891b-6fde-24141ac4d1fd.htm" />
-    <HelpKINode Title="TypeKind 列挙体" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
     <HelpKINode Title="CompletionContext 列挙体" Url="html/33d54941-a6af-3bad-38aa-392a924fefb2.htm" />
     <HelpKINode Title="IndexEntityKind 列挙体" Url="html/ed31d8e1-e2f9-2b4e-5204-29a4f56ef0de.htm" />
+    <HelpKINode Title="TypeKind 列挙体" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
   </HelpKINode>
   <HelpKINode Title="UnExposed 列挙体メンバー" Url="html/087a7781-a8b6-211e-d777-ab53413c4f92.htm" />
   <HelpKINode Title="UnexposedAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
