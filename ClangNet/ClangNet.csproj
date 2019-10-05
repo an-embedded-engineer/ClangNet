@@ -11,7 +11,10 @@
     <RepositoryUrl>https://github.com/an-embedded-engineer/ClangNet</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
     <NeutralLanguage>ja</NeutralLanguage>
-    <PackageReleaseNotes>1st Release</PackageReleaseNotes>
+    <PackageReleaseNotes>- Upgrade to LLVM v.9.0.0
+- Fix some errors</PackageReleaseNotes>
+    <Version>1.1.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
