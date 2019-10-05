@@ -70,5 +70,21 @@ namespace ClangNet
         /// The exception specification has not yet been evaluated.
         /// </remarks>
         Unevaluated,
+
+        /// <summary>
+        /// Unparsed
+        /// </summary>
+        /// <remarks>
+        /// The exception specification has not been parsed yet.
+        /// </remarks>
+        Unparsed,
+
+        /// <summary>
+        /// No Throw
+        /// </summary>
+        /// <remarks>
+        /// The cursor has a __declspec(nothrow) exception specification.
+        /// </remarks>
+        NoThrow,
     }
 }

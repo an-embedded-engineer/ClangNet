@@ -1667,9 +1667,17 @@ namespace ClangNet
         OMPTargetTeamsDistributeSimdDirective = 279,
 
         /// <summary>
+        /// Builtin Bit Cast Expression
+        /// </summary>
+        /// <remarks>
+        /// C++2a std::bit_cast expression.
+        /// </remarks>
+        BuiltinBitCastExpr = 280,
+
+        /// <summary>
         /// Last Statement
         /// </summary>
-        LastStatement = OMPTargetTeamsDistributeSimdDirective,
+        LastStatement = BuiltinBitCastExpr,
 
         /// <summary>
         /// Translation Unit
@@ -1883,9 +1891,29 @@ namespace ClangNet
         FlagEnum = 437,
 
         /// <summary>
+        /// Convergent Attribute
+        /// </summary>
+        ConvergentAttr = 438,
+
+        /// <summary>
+        /// Warn Unused Attribute
+        /// </summary>
+        WarnUnusedAttr = 439,
+
+        /// <summary>
+        /// Warn Unused Result Attribute
+        /// </summary>
+        WarnUnusedResultAttr = 440,
+
+        /// <summary>
+        /// Aligned Attribute
+        /// </summary>
+        AlignedAttr = 441,
+
+        /// <summary>
         /// Last Attribute
         /// </summary>
-        LastAttribute = FlagEnum,
+        LastAttribute = AlignedAttr,
 
         /* Preprocessing */
 

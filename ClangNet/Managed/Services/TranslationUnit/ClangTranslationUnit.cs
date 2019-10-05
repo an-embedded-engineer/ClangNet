@@ -286,13 +286,14 @@ namespace ClangNet
         /// <summary>
         /// Get Inclusions
         /// </summary>
+        /// <typeparam name="T">Client Data Type</typeparam>
         /// <param name="visitor">Managed Clang Inclusion Visitor Function</param>
-        /// <param name="client_data">Native Client Data Pointer</param>
-        public void GetInclusions(Action<ClangFile, ClangSourceLocation[], IntPtr> visitor, IntPtr client_data)
+        /// <param name="client_data">Client Data</param>
+        public void GetInclusions<T>(Action<ClangFile, ClangSourceLocation[], T> visitor, T client_data = default)
         {
-            var native_visitor = this.CreateNativeInclusionVisitor(visitor);
+            var native_visitor = this.CreateNativeInclusionVisitor(visitor, client_data);
 
-            LibClang.clang_getInclusions(this.Handle, native_visitor, client_data);
+            LibClang.clang_getInclusions(this.Handle, native_visitor, IntPtr.Zero);
         }
 
         /// <summary>
@@ -346,17 +347,17 @@ namespace ClangNet
         /// <summary>
         /// Create Native Clang Inclusion Visitor
         /// </summary>
+        /// <typeparam name="T">Client Data Type</typeparam>
         /// <param name="visitor">Managed Clang Inclusion Visitor Function</param>
+        /// <param name="client_data">Client Data</param>
         /// <returns>Native Clang Inclusion Visitor</returns>
-        private CXInclusionVisitor CreateNativeInclusionVisitor(Action<ClangFile, ClangSourceLocation[], IntPtr> visitor)
+        private CXInclusionVisitor CreateNativeInclusionVisitor<T>(Action<ClangFile, ClangSourceLocation[], T> visitor, T client_data)
         {
             CXInclusionVisitor v = (native_file, native_locations, native_len, native_client_data) =>
             {
                 var file = native_file.ToManaged<ClangFile>();
 
                 var locations = native_locations.ToNativeStructs<CXSourceLocation>((int)native_len).Select(loc => loc.ToManaged()).ToArray();
-
-                var client_data = native_client_data;
 
                 visitor(file, locations, client_data);
             };

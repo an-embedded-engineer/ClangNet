@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>an-embedded-engineer</Authors>
+    <Company>an-embedded-engineer</Company>
+    <Description>LLVM/Clang libclang .NET(C#) Bindings</Description>
+    <Copyright>Copyright © an-embedded-engineer</Copyright>
+    <PackageLicenseFile>Licenses.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/an-embedded-engineer/ClangNet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/an-embedded-engineer/ClangNet</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <NeutralLanguage>ja</NeutralLanguage>
+    <PackageReleaseNotes>1st Release</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -11,5 +21,18 @@
     <PlatformTarget>x64</PlatformTarget>
     <DocumentationFile>ClangNet.xml</DocumentationFile>
   </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+    <DocumentationFile>.\ClangNet.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Licenses.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

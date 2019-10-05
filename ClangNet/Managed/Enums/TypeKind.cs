@@ -609,6 +609,11 @@ namespace ClangNet
         /// OpenCL Intel Subgroup AVC Ime Dual Ref Streamin
         /// </summary>
         OCLIntelSubgroupAVCImeDualRefStreamin = 175,
+
+        /// <summary>
+        /// Extended Vector
+        /// </summary>
+        ExtVector = 176,
     }
 
     /// <summary>

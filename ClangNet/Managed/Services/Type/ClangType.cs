@@ -90,7 +90,7 @@ namespace ClangNet
         /// </summary>
         public string ObjeCEncoding
         {
-            get { return LibClang.clang_getDeclObjCEncoding(this.Source).ToManaged(); }
+            get { return LibClang.clang_Type_getObjCEncoding(this.Source).ToManaged(); }
         }
 
         /// <summary>
@@ -202,7 +202,7 @@ namespace ClangNet
         /// </summary>
         public ClangType NamedType
         {
-            get { return LibClang.clang_getNamedType(this.Source).ToManaged(); }
+            get { return LibClang.clang_Type_getNamedType(this.Source).ToManaged(); }
         }
 
         /// <summary>

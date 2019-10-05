@@ -275,7 +275,7 @@ namespace ClangNet.Native
         /// Other : Function Like Macro
         /// </returns>
         [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
-        internal static extern uint clang_isMacroFunctionLike(CXCursor cursor);
+        internal static extern uint clang_Cursor_isMacroFunctionLike(CXCursor cursor);
 
         /// <summary>
         /// Determine whether a  CXCursor that is a macro, is a
@@ -287,7 +287,7 @@ namespace ClangNet.Native
         /// Other : Builtin Macro
         /// </returns>
         [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
-        internal static extern uint clang_isMacroBuiltin(CXCursor cursor);
+        internal static extern uint clang_Cursor_isMacroBuiltin(CXCursor cursor);
 
         /// <summary>
         ///  Determine whether a CXCursor that is a function declaration, is an
@@ -299,7 +299,7 @@ namespace ClangNet.Native
         /// Other : Inlined Function
         /// </returns>
         [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
-        internal static extern uint clang_isFunctionInlined(CXCursor cursor);
+        internal static extern uint clang_Cursor_isFunctionInlined(CXCursor cursor);
 
         /// <summary>
         /// Determine whether a CXType has the "volatile" qualifier set,
@@ -373,7 +373,7 @@ namespace ClangNet.Native
         /// <param name="type">Cursor</param>
         /// <returns>Objective-C Type Encoding</returns>
         [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
-        internal static extern CXString clang_getDeclObjCEncoding(CXType type);
+        internal static extern CXString clang_Type_getObjCEncoding(CXType type);
 
         /// <summary>
         /// Retrieve the spelling of a given CXTypeKind.
@@ -585,7 +585,7 @@ namespace ClangNet.Native
         /// <param name="type">Type</param>
         /// <returns>Named Type</returns>
         [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
-        internal static extern CXType clang_getNamedType(CXType type);
+        internal static extern CXType clang_Type_getNamedType(CXType type);
 
         /// <summary>
         /// Determine if a typedef is 'transparent' tag.
@@ -698,6 +698,18 @@ namespace ClangNet.Native
         internal static extern long clang_Cursor_getOffsetOfField(CXCursor cursor);
 
         /// <summary>
+        /// Determine whether the given cursor represents an anonymous
+        /// tag or namespace.
+        /// </summary>
+        /// <param name="cursor">Cursor</param>
+        /// <returns>
+        /// 0 : Not Anonymous Tag or Namespace
+        /// Other : Anonymous Tag or Namespace
+        /// </returns>
+        [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
+        internal static extern uint clang_Cursor_isAnonymous(CXCursor cursor);
+
+        /// <summary>
         /// Determine whether the given cursor represents an anonymous record
         /// declaration.
         /// </summary>
@@ -707,7 +719,19 @@ namespace ClangNet.Native
         /// Other : Anonymous Record Declaration
         /// </returns>
         [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
-        internal static extern int clang_Cursor_isAnonymous(CXCursor cursor);
+        internal static extern uint clang_Cursor_isAnonymousRecordDecl(CXCursor cursor);
+
+        /// <summary>
+        /// Determine whether the given cursor represents an inline namespace
+        /// declaration.
+        /// </summary>
+        /// <param name="cursor">Cursor</param>
+        /// <returns>
+        /// 0 : Not Inline Namespace Declaration
+        /// Other : Inline Namespace Declaration
+        /// </returns>
+        [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
+        internal static extern uint clang_Cursor_isInlineNamespace(CXCursor cursor);
 
         /// <summary>
         /// Returns the number of template arguments for given template
@@ -716,7 +740,6 @@ namespace ClangNet.Native
         /// <param name="type">Type</param>
         /// <returns>Number of Template Arguments</returns>
         [DllImport(LibraryName, CallingConvention = LibraryCallingConvention)]
-        [return: MarshalAs(UnmanagedType.SysInt)]
         internal static extern int clang_Type_getNumTemplateArguments(CXType type);
 
         /// <summary>

@@ -1,6 +1,7 @@
 ﻿using ClangNet.Native;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Runtime.InteropServices;
 
@@ -222,7 +223,7 @@ namespace ClangNet
         /// </summary>
         public bool IsMacroFunctionLike
         {
-            get { return LibClang.clang_isMacroFunctionLike(this.Source).ToBool(); }
+            get { return LibClang.clang_Cursor_isMacroFunctionLike(this.Source).ToBool(); }
         }
 
         /// <summary>
@@ -230,7 +231,7 @@ namespace ClangNet
         /// </summary>
         public bool IsMacroBuiltin
         {
-            get { return LibClang.clang_isMacroBuiltin(this.Source).ToBool(); }
+            get { return LibClang.clang_Cursor_isMacroBuiltin(this.Source).ToBool(); }
         }
 
         /// <summary>
@@ -238,7 +239,7 @@ namespace ClangNet
         /// </summary>
         public bool IsFunctionInlined
         {
-            get { return LibClang.clang_isFunctionInlined(this.Source).ToBool(); }
+            get { return LibClang.clang_Cursor_isFunctionInlined(this.Source).ToBool(); }
         }
 
         /// <summary>
@@ -274,11 +275,27 @@ namespace ClangNet
         }
 
         /// <summary>
-        /// Anonymous Record Flag
+        /// Anonymous Tag or Namespace
         /// </summary>
         public bool IsAnonymous
         {
             get { return LibClang.clang_Cursor_isAnonymous(this.Source).ToBool(); }
+        }
+
+        /// <summary>
+        /// Anonymous Record Flag
+        /// </summary>
+        public bool IsAnonymousRecordDecl
+        {
+            get { return LibClang.clang_Cursor_isAnonymousRecordDecl(this.Source).ToBool(); }
+        }
+
+        /// <summary>
+        /// Inline Namespace Flag
+        /// </summary>
+        public bool IsInlineNamespace
+        {
+            get { return LibClang.clang_Cursor_isInlineNamespace(this.Source).ToBool(); }
         }
 
         /// <summary>
@@ -414,7 +431,21 @@ namespace ClangNet
         /// </summary>
         public ClangType ReceiverType
         {
-            get { return LibClang.clang_Cursor_getReceiverType(this.Source).ToManaged(); }
+            get
+            {
+                var kind = this.Source.Kind;
+
+                if(kind == CursorKind.ObjCMessageExpression
+                    || kind == CursorKind.MemberReferenceExpression
+                    || kind == CursorKind.CallExpression)
+                {
+                    return LibClang.clang_Cursor_getReceiverType(this.Source).ToManaged();
+                }
+                else
+                {
+                    return null;
+                }
+            }
         }
 
         /// <summary>

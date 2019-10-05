@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Reflection;
 using System.Globalization;
 using ClangNet.Native;
+using System.Diagnostics;
 
 namespace ClangNet
 {
@@ -47,7 +48,11 @@ namespace ClangNet
         /// <returns>Byte Array</returns>
         public static byte[] ToByteArray(this IntPtr ptr, ulong size)
         {
-            if (ptr != IntPtr.Zero)
+            if (ptr == IntPtr.Zero)
+            {
+                return new byte[0];
+            }
+            else
             {
                 var contents_bytes = new byte[size];
                 if (size > int.MaxValue)
@@ -56,10 +61,6 @@ namespace ClangNet
                 }
                 Marshal.Copy(ptr, contents_bytes, 0, (int)size);
                 return contents_bytes;
-            }
-            else
-            {
-                return new byte[0];
             }
         }
 
@@ -256,14 +257,20 @@ namespace ClangNet
         /// <returns>Managed String Set Array</returns>
         public static string[] ToManagedStringSet(this IntPtr string_set_ptr)
         {
-            var native_string_set = string_set_ptr.ToNativeStuct<CXStringSet>();
+            if (string_set_ptr == IntPtr.Zero)
+            {
+                return new string[0];
+            }
+            else
+            {
+                var native_string_set = string_set_ptr.ToNativeStuct<CXStringSet>();
 
-            var string_set = native_string_set.ToManaged();
+                var string_set = native_string_set.ToManaged();
 
-            LibClang.clang_disposeStringSet(string_set_ptr);
+                LibClang.clang_disposeStringSet(string_set_ptr);
 
-            return string_set;
+                return string_set;
+            }
         }
-
     }
 }

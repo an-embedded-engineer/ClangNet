@@ -194,5 +194,18 @@ namespace ClangNet
         /// Used to indicate that implicit attributes should be visited.
         /// </remarks>
         VisitImplicitAttributes = 0x2000,
+
+        /// <summary>
+        /// Ignore No Errors From Included Files
+        /// </summary>
+        /// <remarks>
+        /// Used to indicate that non-errors from included files should be ignored.
+        ///
+        /// If set, clang_getDiagnosticSetFromTU() will not report e.g. warnings from
+        /// included files anymore. This speeds up clang_getDiagnosticSetFromTU() for
+        /// the case where these warnings are not of interest, as for an IDE for
+        /// example, which typically shows only the diagnostics in the main file.
+        /// </remarks>
+        IgnoreNonErrorsFromIncludedFiles = 0x4000,
     }
 }

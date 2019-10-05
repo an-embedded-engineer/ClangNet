@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClangNet": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

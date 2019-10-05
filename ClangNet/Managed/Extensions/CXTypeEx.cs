@@ -19,7 +19,14 @@ namespace ClangNet
         /// <returns>Managed Clang Type</returns>
         internal static ClangType ToManaged(this CXType type)
         {
-            return new ClangType(type);
+            if (type.Kind == TypeKind.Invalid)
+            {
+                return null;
+            }
+            else
+            {
+                return new ClangType(type);
+            }
         }
     }
 }
