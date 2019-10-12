@@ -47,7 +47,7 @@ namespace ClangNet.Samples
             /// </summary>
             /// <param name="file">Clang File</param>
             /// <param name="location_stack">Clang Source Location Stack</param>
-            /// <param name="client_data">Native Client Data Pointer</param>
+            /// <param name="client_data">Client Data</param>
             private void Visitor(ClangFile file, ClangSourceLocation[] location_stack, IntPtr client_data)
             {
                 var depth = location_stack.Length;

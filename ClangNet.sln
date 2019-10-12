@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Licenses.txt = Licenses.txt
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClangNet.CppSamples", "ClangNet.CppSamples\ClangNet.CppSamples.vcxproj", "{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,16 @@ Global
 		{A55DA4AC-6CC0-48E4-94C7-67BC82030218}.Release|x64.Build.0 = Release|Any CPU
 		{A55DA4AC-6CC0-48E4-94C7-67BC82030218}.Release|x86.ActiveCfg = Release|Any CPU
 		{A55DA4AC-6CC0-48E4-94C7-67BC82030218}.Release|x86.Build.0 = Release|Any CPU
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Debug|x64.ActiveCfg = Debug|x64
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Debug|x64.Build.0 = Debug|x64
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Debug|x86.Build.0 = Debug|Win32
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Release|x64.ActiveCfg = Release|x64
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Release|x64.Build.0 = Release|x64
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Release|x86.ActiveCfg = Release|Win32
+		{F2AF0FD5-A20C-40C1-8A6E-58B0789BEFFD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

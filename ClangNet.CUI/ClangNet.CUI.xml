@@ -25,9 +25,19 @@
             Execute
             </summary>
         </member>
-        <member name="M:ClangNet.CUI.Program.ProgramImpl.CreateParameters">
+        <member name="M:ClangNet.CUI.Program.ProgramImpl.ExecuteBehaviorRelationsAnalysis">
             <summary>
-            Create Parameters(Source Path &amp; Command Line Arguments)
+            Execute Behavior Relations Analysis
+            </summary>
+        </member>
+        <member name="M:ClangNet.CUI.Program.ProgramImpl.ExecuteTranslationUnitHandlingTest">
+            <summary>
+            Execute Translation Unit Handling Test
+            </summary>
+        </member>
+        <member name="M:ClangNet.CUI.Program.ProgramImpl.CreateTranslationUnitHandlerParameters">
+            <summary>
+            Create Trnslation Unit Handler Parameters(Source Path &amp; Command Line Arguments)
             </summary>
             <returns>Parameters</returns>
         </member>

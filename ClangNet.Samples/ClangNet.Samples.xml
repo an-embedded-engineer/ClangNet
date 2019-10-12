@@ -37,6 +37,632 @@
             <param name="absolute">Absolute Path Flag</param>
             <returns>Source Location</returns>
         </member>
+        <member name="T:ClangNet.Samples.BehaviorRelationsAnalyser">
+            <summary>
+            Invokation Tree Generator
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorRelationsAnalyser.Execute">
+            <summary>
+            Execute Behavior Relations Analysis Process
+            </summary>
+        </member>
+        <member name="T:ClangNet.Samples.CrossReferencesDumper">
+            <summary>
+            Cross References Dumper
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.CrossReferencesDumper.Dump(ClangNet.Samples.TranslationUnitMap)">
+            <summary>
+            Dump Cross References
+            </summary>
+            <param name="map">Translation Unit Map</param>
+        </member>
+        <member name="T:ClangNet.Samples.CrossReferencesDumper.CrossReferencesDumperImpl">
+            <summary>
+            Cross References Dumper Implementation
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.CrossReferencesDumper.CrossReferencesDumperImpl.TranslationUnitMap">
+            <summary>
+            Translation Unit Map
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.CrossReferencesDumper.CrossReferencesDumperImpl.CrossReferenceMap">
+            <summary>
+            Cross Reference Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.CrossReferencesDumper.CrossReferencesDumperImpl.Execute(ClangNet.Samples.TranslationUnitMap)">
+            <summary>
+            Execute
+            </summary>
+            <param name="map">Translation Unit Map</param>
+        </member>
+        <member name="M:ClangNet.Samples.CrossReferencesDumper.CrossReferencesDumperImpl.AnalyseCrossReferences">
+            <summary>
+            Analyse Cross References
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.CrossReferencesDumper.CrossReferencesDumperImpl.DumpCrossReferences">
+            <summary>
+            Dump Cross References
+            </summary>
+        </member>
+        <member name="T:ClangNet.Samples.InvokationTreeDumper">
+            <summary>
+            Invokation Tree Dumper
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.InvokationTreeDumper.Dump(ClangNet.Samples.TranslationUnitMap)">
+            <summary>
+            Dump Invokation Tree
+            </summary>
+            <param name="map">Translation Unit Map</param>
+        </member>
+        <member name="T:ClangNet.Samples.InvokationTreeDumper.InvokationTreeDumperImpl">
+            <summary>
+            Invokation Tree Dumper Implementation
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.InvokationTreeDumper.InvokationTreeDumperImpl.TranslationUnitMap">
+            <summary>
+            Translation Unit Map
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.InvokationTreeDumper.InvokationTreeDumperImpl.BehaviorDefinitionMap">
+            <summary>
+            Behavior Definition Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.InvokationTreeDumper.InvokationTreeDumperImpl.Execute(ClangNet.Samples.TranslationUnitMap)">
+            <summary>
+            Execute
+            </summary>
+            <param name="map">Translation Unit Map</param>
+        </member>
+        <member name="M:ClangNet.Samples.InvokationTreeDumper.InvokationTreeDumperImpl.CreateBehaviorDefinitionMap">
+            <summary>
+            Create Behavior Definition Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.InvokationTreeDumper.InvokationTreeDumperImpl.DumpInvokationTrees">
+            <summary>
+            Dump Invokation Trees
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.InvokationTreeDumper.InvokationTreeDumperImpl.DumpInvokationTree(ClangNet.Samples.BehaviorInfo,System.Int32)">
+            <summary>
+            Dump Invokation Tree
+            </summary>
+            <param name="behavior">Behavior</param>
+            <param name="depth">Depth</param>
+        </member>
+        <member name="T:ClangNet.Samples.TranslationUnitsParser">
+            <summary>
+            Translation Units Parser
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitsParser.Parse(ClangNet.Samples.TranslationUnitParseSetting)">
+            <summary>
+            Parse Translation Units
+            </summary>
+            <param name="setting">Translation Unit Parse Setting</param>
+            <returns>Translation Unit Map</returns>
+        </member>
+        <member name="T:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl">
+            <summary>
+            Translation Units Parser Implementation
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.Setting">
+            <summary>
+            Translation Unit Parse Setting
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.CurrentTranslationUnit">
+            <summary>
+            Current Translation Unit
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.CurrentBehavior">
+            <summary>
+            Current Behavior
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.TranslationUnitMap">
+            <summary>
+            Translation Unit Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.Execute(ClangNet.Samples.TranslationUnitParseSetting)">
+            <summary>
+            Execute
+            </summary>
+            <param name="setting">Translation Unit Parse Setting</param>
+            <returns>Translation Unit Map</returns>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.ExecuteCore(ClangNet.ClangIndex,ClangNet.ClangTranslationUnit)">
+            <summary>
+            Execute Translation Unit Handler Core
+            </summary>
+            <param name="index">Clang Index</param>
+            <param name="tu">Clang Translation Unit</param>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.Visitor(ClangNet.ClangCursor,ClangNet.ClangCursor,System.Int32)">
+            <summary>
+            Cursor Visitor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <param name="parent">Parent Clang Cursor</param>
+            <param name="depth">Depth</param>
+            <returns>Child Visit Result</returns>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.VisitChild(ClangNet.ClangCursor,System.Int32)">
+            <summary>
+            Visit Child Clang Cursor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <param name="depth">Depth</param>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.DumpAstInfo(ClangNet.ClangCursor,System.Int32)">
+            <summary>
+            Dump AST Information
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <param name="depth">Depth</param>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl.AnalyseInvokationInfo(ClangNet.ClangCursor)">
+            <summary>
+            Analyse Invokation Info
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="T:ClangNet.Samples.AstNodeInfo">
+            <summary>
+            AST Node Info
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.AstNodeInfo.Location">
+            <summary>
+            Location
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.AstNodeInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.AstNodeInfo.GetLocation(ClangNet.ClangCursor)">
+            <summary>
+            Get Location
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <returns>Location String</returns>
+        </member>
+        <member name="T:ClangNet.Samples.BehaviorCrossReferenceInfo">
+            <summary>
+            Behavior Cross Reference Info
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorCrossReferenceInfo.ID">
+            <summary>
+            Behavior ID
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorCrossReferenceInfo.Type">
+            <summary>
+            Reference Type
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorCrossReferenceInfo.Location">
+            <summary>
+            Referenced Location
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorCrossReferenceInfo.#ctor(ClangNet.Samples.BehaviorInfo)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="info">Behavior Info</param>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorCrossReferenceInfo.#ctor(ClangNet.Samples.InvokationInfo)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="info">Invokation Info</param>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorCrossReferenceInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorCrossReferenceInfo.EqualsCore(ClangNet.Samples.BehaviorCrossReferenceInfo)">
+            <summary>
+            Equals Core
+            </summary>
+            <param name="other">Other Object</param>
+            <returns>Equality</returns>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorCrossReferenceInfo.GetHashCodeParameters">
+            <summary>
+            Get Hash Code Parameters
+            </summary>
+            <returns>Hash Code Parameters</returns>
+        </member>
+        <member name="T:ClangNet.Samples.BehaviorCrossReferenceMap">
+            <summary>
+            Behavior Cross Reference Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorCrossReferenceMap.Add(ClangNet.Samples.BehaviorCrossReferenceInfo)">
+            <summary>
+            Add Behavior Cross Reference Info
+            </summary>
+            <param name="info">Behavior Cross Reference Info</param>
+        </member>
+        <member name="T:ClangNet.Samples.BehaviorDefinitionMap">
+            <summary>
+            Behavior Definiton Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorDefinitionMap.Add(ClangNet.Samples.BehaviorInfo)">
+            <summary>
+            Add Behavior Info
+            </summary>
+            <param name="behavior">Behavior Info</param>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorDefinitionMap.AddIfNotRegistered(ClangNet.Samples.BehaviorInfo)">
+            <summary>
+            Add Behavior Info When Not Registered
+            </summary>
+            <param name="behavior">Behavior Info</param>
+        </member>
+        <member name="T:ClangNet.Samples.BehaviorInfo">
+            <summary>
+            Behavior Info
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorInfo.Type">
+            <summary>
+            Behavior Type
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorInfo.Name">
+            <summary>
+            Behavior Name
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorInfo.Parameters">
+            <summary>
+            Behavior Parameters
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorInfo.NameSpace">
+            <summary>
+            Behavior Namespace
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorInfo.Definition">
+            <summary>
+            Definition
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorInfo.ID">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.BehaviorInfo.Invokations">
+            <summary>
+            Invokation List
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorInfo.GetDefinition">
+            <summary>
+            Get Behavior Definition
+            </summary>
+            <returns>Behavior Definition</returns>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorInfo.AddInvokation(ClangNet.Samples.InvokationInfo)">
+            <summary>
+            Add Invokation Info
+            </summary>
+            <param name="invokation_info">Invokation Info</param>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorInfo.GenerateBehaviorID">
+            <summary>
+            Generate Behavior ID
+            </summary>
+            <returns>Behavior ID</returns>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorInfo.GetNamespace(ClangNet.ClangCursor)">
+            <summary>
+            Get Behavior Namespace
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <returns>Behavior Namespace</returns>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorInfo.ParseNamespace(ClangNet.ClangCursor,System.Collections.Generic.Stack{System.String})">
+            <summary>
+            Parse Namespace
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <param name="namespace_stack">Namespace Stack</param>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="T:ClangNet.Samples.BehaviorInfoFactory">
+            <summary>
+            Behavior Info Factory
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorInfoFactory.Create(ClangNet.ClangCursor)">
+            <summary>
+            Create Behavior Info
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+            <returns>Behavior Info</returns>
+        </member>
+        <member name="T:ClangNet.Samples.BehaviorLocationMap">
+            <summary>
+            Behavior Location Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorLocationMap.Add(ClangNet.Samples.BehaviorInfo)">
+            <summary>
+            Add Behavior Info
+            </summary>
+            <param name="behavior">Behavior Info</param>
+        </member>
+        <member name="M:ClangNet.Samples.BehaviorLocationMap.AddIfNotRegistered(ClangNet.Samples.BehaviorInfo)">
+            <summary>
+            Add Behavior Info When Not Registered
+            </summary>
+            <param name="behavior">Behavior Info</param>
+        </member>
+        <member name="T:ClangNet.Samples.ClassBehaviorInfo">
+            <summary>
+            Class Behavior Info
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.ClassBehaviorInfo.ClassName">
+            <summary>
+            Class Name
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.ClassBehaviorInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.ClassBehaviorInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="T:ClangNet.Samples.ConstructorInfo">
+            <summary>
+            Constructor Name
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.ConstructorInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.ConstructorInfo.GetDefinition">
+            <summary>
+            Get Behavior Definition
+            </summary>
+            <returns>Behavior Definition</returns>
+        </member>
+        <member name="M:ClangNet.Samples.ConstructorInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="T:ClangNet.Samples.CppMethodInfo">
+            <summary>
+            C++ Method Info
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.CppMethodInfo.ReturnType">
+            <summary>
+            Return Type
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.CppMethodInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.CppMethodInfo.GetDefinition">
+            <summary>
+            Get Behavior Definition
+            </summary>
+            <returns>Behavior Definition</returns>
+        </member>
+        <member name="M:ClangNet.Samples.CppMethodInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="T:ClangNet.Samples.DestructorInfo">
+            <summary>
+            Destructor Info
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.DestructorInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.DestructorInfo.GetDefinition">
+            <summary>
+            Get Behavior Definition
+            </summary>
+            <returns>Behavior Definition</returns>
+        </member>
+        <member name="M:ClangNet.Samples.DestructorInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="T:ClangNet.Samples.FunctionInfo">
+            <summary>
+            Function Info
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.FunctionInfo.ReturnType">
+            <summary>
+            Return Type
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.FunctionInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.FunctionInfo.GetDefinition">
+            <summary>
+            Get Behavior Definition
+            </summary>
+            <returns>Behavior Definition</returns>
+        </member>
+        <member name="M:ClangNet.Samples.FunctionInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="T:ClangNet.Samples.InvokationInfo">
+            <summary>
+            Invokation Info
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.InvokationInfo.ID">
+            <summary>
+            Behavior ID
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.InvokationInfo.Name">
+            <summary>
+            Behavior Name
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.InvokationInfo.Declaration">
+            <summary>
+            Declaration Behavior Info
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.InvokationInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.InvokationInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="T:ClangNet.Samples.TranslationUnitInfo">
+            <summary>
+            Translation Unit Info
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitInfo.Path">
+            <summary>
+            Translation Unit Path
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitInfo.BehaviorMap">
+            <summary>
+            Behavior Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitInfo.#ctor(ClangNet.ClangCursor)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="cursor">Clang Cursor</param>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitInfo.AddBehavior(ClangNet.Samples.BehaviorInfo)">
+            <summary>
+            Add Behavior Info
+            </summary>
+            <param name="behavior">Behavior Info</param>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitInfo.ToString">
+            <summary>
+            Convert to String
+            </summary>
+            <returns>Detail</returns>
+        </member>
+        <member name="T:ClangNet.Samples.TranslationUnitMap">
+            <summary>
+            Translation Unit Map
+            </summary>
+        </member>
+        <member name="M:ClangNet.Samples.TranslationUnitMap.Add(ClangNet.Samples.TranslationUnitInfo)">
+            <summary>
+            Add Translation Unit Info
+            </summary>
+            <param name="tu">Translation Unit Info</param>
+        </member>
+        <member name="T:ClangNet.Samples.TranslationUnitParseSetting">
+            <summary>
+            Translation Unit Parse Setting
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitParseSetting.Sources">
+            <summary>
+            Source Path List
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitParseSetting.CommandLineArgs">
+            <summary>
+            Command Line Arguments
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitParseSetting.ParseOptions">
+            <summary>
+            Translation Unit Parse Options
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitParseSetting.DisplayDiag">
+            <summary>
+            Display Diagnostics Flag
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.TranslationUnitParseSetting.DumpAST">
+            <summary>
+            Dump AST Flag
+            </summary>
+        </member>
         <member name="T:ClangNet.Samples.ATranslationUnitHandler">
             <summary>
             Abstract Translation Unit Handler
@@ -169,7 +795,55 @@
             </summary>
             <param name="file">Clang File</param>
             <param name="location_stack">Clang Source Location Stack</param>
-            <param name="client_data">Native Client Data Pointer</param>
+            <param name="client_data">Client Data</param>
+        </member>
+        <member name="T:ClangNet.Samples.ValueObject`1">
+            <summary>
+            Value Object
+            </summary>
+            <typeparam name="T">Value Object Type</typeparam>
+        </member>
+        <member name="M:ClangNet.Samples.ValueObject`1.EqualsCore(`0)">
+            <summary>
+            Check Equality Core
+            </summary>
+            <param name="other">Other Object</param>
+            <returns>Equality</returns>
+        </member>
+        <member name="M:ClangNet.Samples.ValueObject`1.GetHashCodeParameters">
+            <summary>
+            Get Hash Code Parameters
+            </summary>
+            <returns>Hash Code Parameters</returns>
+        </member>
+        <member name="M:ClangNet.Samples.ValueObject`1.op_Equality(ClangNet.Samples.ValueObject{`0},ClangNet.Samples.ValueObject{`0})">
+            <summary>
+            Equality Operator
+            </summary>
+            <param name="left">Left Value</param>
+            <param name="right">Right Value</param>
+            <returns>Equality</returns>
+        </member>
+        <member name="M:ClangNet.Samples.ValueObject`1.op_Inequality(ClangNet.Samples.ValueObject{`0},ClangNet.Samples.ValueObject{`0})">
+            <summary>
+            Inequality Operator
+            </summary>
+            <param name="left">Left Value</param>
+            <param name="right">Right Value</param>
+            <returns>Inequality</returns>
+        </member>
+        <member name="M:ClangNet.Samples.ValueObject`1.Equals(System.Object)">
+            <summary>
+            Check Equality
+            </summary>
+            <param name="obj">Other Object</param>
+            <returns>Equality</returns>
+        </member>
+        <member name="M:ClangNet.Samples.ValueObject`1.GetHashCode">
+            <summary>
+            Get Hash Code
+            </summary>
+            <returns>Hash Code</returns>
         </member>
         <member name="T:ClangNet.ALogger">
             <summary>

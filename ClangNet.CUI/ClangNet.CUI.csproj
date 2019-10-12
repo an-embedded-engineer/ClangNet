@@ -10,6 +10,11 @@
     <DocumentationFile>ClangNet.CUI.xml</DocumentationFile>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <PlatformTarget>x64</PlatformTarget>
+    <DocumentationFile>.\ClangNet.CUI.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <ProjectReference Include="..\ClangNet.Samples\ClangNet.Samples.csproj" />
   </ItemGroup>

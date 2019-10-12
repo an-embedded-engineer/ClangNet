@@ -30,13 +30,20 @@
         {
             var floc = loc.FileLocation;
 
-            var file = absolute ? floc.File.ToFullPath() : floc.File.FileName.Replace(@"\", "/");
+            if(floc.File != null)
+            {
+                var file = absolute ? floc.File.ToFullPath() : floc.File.FileName.Replace(@"\", "/");
 
-            var line = floc.Line;
+                var line = floc.Line;
 
-            var col = floc.Column;
+                var col = floc.Column;
 
-            return $"{file}[L.{line},C.{col}]";
+                return $"{file}[L.{line},C.{col}]";
+            }
+            else
+            {
+                return "";
+            }
         }
     }
 

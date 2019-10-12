@@ -37,13 +37,9 @@ namespace ClangNet.CUI
 
                     try
                     {
-                        var (target_src, command_line_args) = this.CreateParameters();
+                        this.ExecuteBehaviorRelationsAnalysis();
 
-                        CursorVisitor.Execute(target_src, command_line_args);
-
-                        this.SendMessage();
-
-                        InclusionVisitor.Execute(target_src, command_line_args);
+                        //this.ExecuteTranslationUnitHandlingTest();
                     }
                     catch(Exception ex)
                     {
@@ -54,12 +50,34 @@ namespace ClangNet.CUI
             }
 
             /// <summary>
-            /// Create Parameters(Source Path &amp; Command Line Arguments)
+            /// Execute Behavior Relations Analysis
+            /// </summary>
+            private void ExecuteBehaviorRelationsAnalysis()
+            {
+                BehaviorRelationsAnalyser.Execute();
+            }
+
+            /// <summary>
+            /// Execute Translation Unit Handling Test
+            /// </summary>
+            private void ExecuteTranslationUnitHandlingTest()
+            {
+                var (target_src, command_line_args) = this.CreateTranslationUnitHandlerParameters();
+
+                CursorVisitor.Execute(target_src, command_line_args);
+
+                this.SendMessage();
+
+                InclusionVisitor.Execute(target_src, command_line_args);
+            }
+
+            /// <summary>
+            /// Create Trnslation Unit Handler Parameters(Source Path &amp; Command Line Arguments)
             /// </summary>
             /// <returns>Parameters</returns>
-            private (string, string[]) CreateParameters()
+            private (string, string[]) CreateTranslationUnitHandlerParameters()
             {
-                var target_dir = $@"./Code";
+                var target_dir = $@"./Code1";
                 var target_src = $@"{target_dir}/src/test.cpp";
                 var target_includes = new List<string> { $@"{target_dir}/inc" };
                 var other_args = new List<string> { };
