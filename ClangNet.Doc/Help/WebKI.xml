@@ -7,12 +7,25 @@
   <HelpKINode Title="AbortQuery フィールド" Url="html/d5c9e976-a3a4-651a-917d-8955ef4c522b.htm" />
   <HelpKINode Title="AbortQueryHandler デリゲート" Url="html/630416e8-01b6-1412-1d63-01945be08783.htm" />
   <HelpKINode Title="Accum 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
-  <HelpKINode Title="Add メソッド" Url="html/b5dcc283-8d18-6980-2dbd-07e2213e55c6.htm" />
+  <HelpKINode Title="Add メソッド">
+    <HelpKINode Title="BehaviorCrossReferenceMap.Add メソッド " Url="html/2ef79557-41b5-731c-b1df-633b94638143.htm" />
+    <HelpKINode Title="BehaviorDefinitionMap.Add メソッド " Url="html/0d6c8e6b-d5ea-7a7d-5b2a-53293afe5b0c.htm" />
+    <HelpKINode Title="BehaviorLocationMap.Add メソッド " Url="html/7a9ee480-9066-2edb-76a6-2256e8b38418.htm" />
+    <HelpKINode Title="LogManager.Add メソッド " Url="html/b5dcc283-8d18-6980-2dbd-07e2213e55c6.htm" />
+    <HelpKINode Title="TranslationUnitMap.Add メソッド " Url="html/90910d3a-7184-3775-4a38-8c0e8b30e825.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddBehavior メソッド" Url="html/8ad35692-616c-28ca-9647-90b325d88dc8.htm" />
   <HelpKINode Title="AddFileMapping メソッド" Url="html/5a185e0d-c958-ac47-d00d-e50b1ab44179.htm" />
+  <HelpKINode Title="AddIfNotRegistered メソッド">
+    <HelpKINode Title="BehaviorDefinitionMap.AddIfNotRegistered メソッド " Url="html/a9dc2006-7b58-0ae8-6fb2-04fd3d783792.htm" />
+    <HelpKINode Title="BehaviorLocationMap.AddIfNotRegistered メソッド " Url="html/284ac73c-4d4c-258a-d9ca-5a51acb45524.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddInvokation メソッド" Url="html/efb4a142-6fb1-b101-1486-b95cd902057c.htm" />
   <HelpKINode Title="Address プロパティ" Url="html/5285a67c-de9b-60bb-5ccf-749de790c58a.htm" />
   <HelpKINode Title="AddressOf 列挙体メンバー" Url="html/78397212-5ee9-4c6f-5b66-b94f466b8a49.htm" />
   <HelpKINode Title="AddressSpace プロパティ" Url="html/5f84fe21-3bd9-0644-253c-990d12e6f41a.htm" />
   <HelpKINode Title="AddrLabelExpression 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="AlignedAttr 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="AlignOf プロパティ" Url="html/56091eaf-5a1d-b3a3-1601-47ac2c6f7be3.htm" />
   <HelpKINode Title="Alignof 列挙体メンバー" Url="html/5e60d057-b142-d60e-39d9-24af6fa66c4c.htm" />
   <HelpKINode Title="AllCompileCommands プロパティ" Url="html/f89d7cbf-6b0c-bd41-e95f-d45837e80a41.htm" />
@@ -37,7 +50,9 @@
   <HelpKINode Title="Amount フィールド" Url="html/6dd9e6d7-2593-673c-9fb0-b4faf7d80c4b.htm" />
   <HelpKINode Title="Amount プロパティ" Url="html/6a85e5b9-8e9b-81ab-424c-1583a7017c2c.htm" />
   <HelpKINode Title="Analyse メソッド" Url="html/f8ec4a23-63cd-4189-90f2-2005ce848f3e.htm" />
+  <HelpKINode Title="AnalyseCrossReferences メソッド" Url="html/6a076ef0-42ca-d6cc-2a19-180e727fe2bd.htm" />
   <HelpKINode Title="AnalyseEncoding メソッド" Url="html/afee656f-91dc-0cdb-5fb2-4c2aef5a7dc7.htm" />
+  <HelpKINode Title="AnalyseInvokationInfo メソッド" Url="html/b401a6b9-0b34-d55d-ebd0-ea28e011b09f.htm" />
   <HelpKINode Title="AnnotateAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="AnnotateTokens プロパティ" Url="html/49e26fe9-f5d3-90c4-798f-699641e1cc21.htm" />
   <HelpKINode Title="AnnotationCount プロパティ" Url="html/d63e7db8-be36-15a4-b5dc-9d93d30c86b7.htm" />
@@ -63,6 +78,13 @@
   <HelpKINode Title="AST 列挙体メンバー" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
   <HelpKINode Title="ASTFile プロパティ" Url="html/123ddfe9-9c5e-bc47-d377-f0c42318a2fb.htm" />
   <HelpKINode Title="ASTNode フィールド" Url="html/173441d2-4ce4-bbd5-d4bd-ab3b85299f07.htm" />
+  <HelpKINode Title="AstNodeInfo クラス" Url="html/ffeaadb9-17ce-3cdb-23d3-fb91970b09ff.htm" />
+  <HelpKINode Title="AstNodeInfo クラス、コンストラクター" Url="html/36036e25-2841-68df-3fa5-e4a0f18e703a.htm" />
+  <HelpKINode Title="AstNodeInfo クラス、プロパティ" Url="html/1ec302ea-4d78-cc39-44a5-1abb0eb23032.htm" />
+  <HelpKINode Title="AstNodeInfo クラス、メソッド" Url="html/9a86cfd0-a75e-3687-af61-930b337a95b8.htm" />
+  <HelpKINode Title="AstNodeInfo.AstNodeInfo コンストラクター" Url="html/36036e25-2841-68df-3fa5-e4a0f18e703a.htm" />
+  <HelpKINode Title="AstNodeInfo.GetLocation メソッド" Url="html/912dd05e-691b-a2ee-ec86-dc34591c492d.htm" />
+  <HelpKINode Title="AstNodeInfo.Location プロパティ" Url="html/d5578d07-57bd-e612-0c6c-ebdb618e8d57.htm" />
   <HelpKINode Title="ASTReadError 列挙体メンバー" Url="html/71ffab7b-c913-f2ff-b71f-1fc0bf4e2a1a.htm" />
   <HelpKINode Title="ASTSideTables 列挙体メンバー" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
   <HelpKINode Title="AsUnsignedLong プロパティ" Url="html/64e73c8b-f6a3-4613-d589-10a39ba58b54.htm" />
@@ -113,6 +135,63 @@
   <HelpKINode Title="Bases プロパティ" Url="html/06ea0c0b-f962-f407-e35f-fbdae23d6ed5.htm" />
   <HelpKINode Title="BasicNoexcept 列挙体メンバー" Url="html/7718f6c6-9dbd-75fe-7b83-dd57f561326b.htm" />
   <HelpKINode Title="BeginIntData フィールド" Url="html/d697db1a-4dde-8675-bd1c-68fee6a9f1e9.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo クラス" Url="html/c5e448df-be06-2e69-f42a-58c8106f2b3a.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo クラス、コンストラクター" Url="html/f7f238c7-d597-386c-a57f-fe324d90335a.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo クラス、プロパティ" Url="html/a1d40f4d-1845-30f7-03b5-4068effaa12d.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo クラス、メソッド" Url="html/d36b93ee-7ad6-21cd-86fe-0e8e12452057.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo.BehaviorCrossReferenceInfo コンストラクター" Url="html/f7f238c7-d597-386c-a57f-fe324d90335a.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo.EqualsCore メソッド" Url="html/21243bde-7fb9-8dfb-20fd-55fa3b25d267.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo.GetHashCodeParameters メソッド" Url="html/f8a41f51-ab73-56b0-2c59-636aa966d25b.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo.ID プロパティ" Url="html/6fa41da4-4c00-2c68-7083-e5266afaa9f3.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo.Location プロパティ" Url="html/6af0a6d2-3b1e-898f-8a1a-1a309c3d4c1c.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo.ToString メソッド" Url="html/cf3bc8a2-b400-4493-0cd1-055f9cb0c001.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceInfo.Type プロパティ" Url="html/28b06ea5-6182-74ac-bce1-c9bb949ce7da.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceMap クラス" Url="html/f765f572-697f-96f0-cb18-91433571afd4.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceMap クラス、コンストラクター" Url="html/850b30d2-b6c3-45a0-8eff-2ed09b074a2a.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceMap クラス、プロパティ" Url="html/07e47ff7-f55d-bc19-1029-52cdde3647a2.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceMap クラス、メソッド" Url="html/6804cc7f-1d8a-9fc7-0b5c-b47aab2654eb.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceMap.Add メソッド" Url="html/2ef79557-41b5-731c-b1df-633b94638143.htm" />
+  <HelpKINode Title="BehaviorCrossReferenceMap.BehaviorCrossReferenceMap コンストラクター" Url="html/850b30d2-b6c3-45a0-8eff-2ed09b074a2a.htm" />
+  <HelpKINode Title="BehaviorDefinitionMap クラス" Url="html/d2b8aa48-d634-319d-7bbe-64aa887b68b1.htm" />
+  <HelpKINode Title="BehaviorDefinitionMap クラス、コンストラクター" Url="html/5c155ada-3551-a4bd-60c6-b51ba87e7d21.htm" />
+  <HelpKINode Title="BehaviorDefinitionMap クラス、プロパティ" Url="html/60bac31b-cbcd-9c37-9123-53dadc69fd00.htm" />
+  <HelpKINode Title="BehaviorDefinitionMap クラス、メソッド" Url="html/e1c932bc-1db0-67c9-75b7-47a04b25a34e.htm" />
+  <HelpKINode Title="BehaviorDefinitionMap プロパティ" Url="html/516c804d-c9d1-e6f6-1c6e-ce229f3779ed.htm" />
+  <HelpKINode Title="BehaviorDefinitionMap.Add メソッド" Url="html/0d6c8e6b-d5ea-7a7d-5b2a-53293afe5b0c.htm" />
+  <HelpKINode Title="BehaviorDefinitionMap.AddIfNotRegistered メソッド" Url="html/a9dc2006-7b58-0ae8-6fb2-04fd3d783792.htm" />
+  <HelpKINode Title="BehaviorDefinitionMap.BehaviorDefinitionMap コンストラクター" Url="html/5c155ada-3551-a4bd-60c6-b51ba87e7d21.htm" />
+  <HelpKINode Title="BehaviorInfo クラス" Url="html/38180bd0-4232-2fb3-e0d1-7c54435c0c81.htm" />
+  <HelpKINode Title="BehaviorInfo クラス、コンストラクター" Url="html/5481395a-8606-9c2c-02e8-547caab9c597.htm" />
+  <HelpKINode Title="BehaviorInfo クラス、プロパティ" Url="html/2825a038-9155-5eca-f357-37cd7e5f4b94.htm" />
+  <HelpKINode Title="BehaviorInfo クラス、メソッド" Url="html/d9ebc1b5-c52e-4973-d2c6-c83a941a11a7.htm" />
+  <HelpKINode Title="BehaviorInfo.AddInvokation メソッド" Url="html/efb4a142-6fb1-b101-1486-b95cd902057c.htm" />
+  <HelpKINode Title="BehaviorInfo.BehaviorInfo コンストラクター" Url="html/5481395a-8606-9c2c-02e8-547caab9c597.htm" />
+  <HelpKINode Title="BehaviorInfo.Definition プロパティ" Url="html/cc664553-5cd1-da0b-d609-df22c1c1286d.htm" />
+  <HelpKINode Title="BehaviorInfo.GenerateBehaviorID メソッド" Url="html/a82c84a6-4839-8065-f510-b590e6902492.htm" />
+  <HelpKINode Title="BehaviorInfo.GetDefinition メソッド" Url="html/47ed3976-6abc-4fc8-c7cf-7565749b9a6c.htm" />
+  <HelpKINode Title="BehaviorInfo.GetNamespace メソッド" Url="html/089a6058-65a7-05c5-4fb0-40045569140a.htm" />
+  <HelpKINode Title="BehaviorInfo.ID プロパティ" Url="html/0c5654dd-56d2-9179-1d9d-02d30aba5f87.htm" />
+  <HelpKINode Title="BehaviorInfo.Invokations プロパティ" Url="html/4782e65b-8028-e86d-4196-78adffccda82.htm" />
+  <HelpKINode Title="BehaviorInfo.Name プロパティ" Url="html/9113a7ce-dd10-26d1-2270-3dba4a4e78f5.htm" />
+  <HelpKINode Title="BehaviorInfo.NameSpace プロパティ" Url="html/a1f3d28b-7665-3056-ff4a-749fa82aa6ab.htm" />
+  <HelpKINode Title="BehaviorInfo.Parameters プロパティ" Url="html/83515a05-463b-024d-f52c-9ff01ec0455c.htm" />
+  <HelpKINode Title="BehaviorInfo.ParseNamespace メソッド" Url="html/2cc47abd-c1e9-696c-340e-c24586d81d8b.htm" />
+  <HelpKINode Title="BehaviorInfo.ToString メソッド" Url="html/f04ad393-c876-36fa-7710-fa1fa8535d58.htm" />
+  <HelpKINode Title="BehaviorInfo.Type プロパティ" Url="html/18844ee9-e4f9-8f98-848d-c074fd52b96d.htm" />
+  <HelpKINode Title="BehaviorInfoFactory クラス" Url="html/97b89af1-7332-ed2e-0bdd-4da5fd496a90.htm" />
+  <HelpKINode Title="BehaviorInfoFactory クラス、メソッド" Url="html/cde66853-af86-859d-c0fd-17c045f3b37c.htm" />
+  <HelpKINode Title="BehaviorInfoFactory.Create メソッド" Url="html/447af0fd-01d0-47d5-7a5e-716e3387cc91.htm" />
+  <HelpKINode Title="BehaviorLocationMap クラス" Url="html/d0199bea-2d3a-30ae-5ba3-3507aab69223.htm" />
+  <HelpKINode Title="BehaviorLocationMap クラス、コンストラクター" Url="html/bb1687b4-bd31-1f0b-7160-47a90dc83cbe.htm" />
+  <HelpKINode Title="BehaviorLocationMap クラス、プロパティ" Url="html/62525861-604b-8126-863f-611b4cd65080.htm" />
+  <HelpKINode Title="BehaviorLocationMap クラス、メソッド" Url="html/658ef691-ee75-ae90-0f31-767e411d0884.htm" />
+  <HelpKINode Title="BehaviorLocationMap.Add メソッド" Url="html/7a9ee480-9066-2edb-76a6-2256e8b38418.htm" />
+  <HelpKINode Title="BehaviorLocationMap.AddIfNotRegistered メソッド" Url="html/284ac73c-4d4c-258a-d9ca-5a51acb45524.htm" />
+  <HelpKINode Title="BehaviorLocationMap.BehaviorLocationMap コンストラクター" Url="html/bb1687b4-bd31-1f0b-7160-47a90dc83cbe.htm" />
+  <HelpKINode Title="BehaviorMap プロパティ" Url="html/f2aa6c96-2ea4-7d05-e010-ce25270ea63a.htm" />
+  <HelpKINode Title="BehaviorRelationsAnalyser クラス" Url="html/f13d28aa-a36e-64e3-73c3-a132159c3116.htm" />
+  <HelpKINode Title="BehaviorRelationsAnalyser クラス、メソッド" Url="html/9ce8dadf-284f-8181-bb10-96d62551b786.htm" />
+  <HelpKINode Title="BehaviorRelationsAnalyser.Execute メソッド" Url="html/a519e9dd-bc6a-c3be-9735-13bc3e70e9c8.htm" />
   <HelpKINode Title="BinaryOperator 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="BlockCommand 列挙体メンバー" Url="html/73556912-1fa4-efa9-ca93-d0520fc304e1.htm" />
   <HelpKINode Title="BlockCommandArgumentCount プロパティ" Url="html/1156efeb-b91f-b792-3d82-221caac0e2bf.htm" />
@@ -148,6 +227,7 @@
   <HelpKINode Title="BufferLogger.BufferLogger コンストラクター" Url="html/c39fd99e-35d9-11cf-679f-fd3a0e38b884.htm" />
   <HelpKINode Title="BufferLogger.Dispose メソッド" Url="html/534225be-a770-f383-4092-ff11e0570d7a.htm" />
   <HelpKINode Title="BufferLogger.WriteMessage メソッド" Url="html/82bf106c-bb0a-6cb9-46e9-4c1a7e7bc007.htm" />
+  <HelpKINode Title="BuiltinBitCastExpr 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="ByCopy 列挙体メンバー" Url="html/3d5a333c-0663-504a-e2ec-292f7e450e4f.htm" />
   <HelpKINode Title="ByRef 列挙体メンバー" Url="html/3d5a333c-0663-504a-e2ec-292f7e450e4f.htm" />
   <HelpKINode Title="C 列挙体メンバー">
@@ -367,6 +447,7 @@
   <HelpKINode Title="ClangCursor.IncludedFile プロパティ" Url="html/19838c03-4b14-8966-6af3-4b235266ab5b.htm" />
   <HelpKINode Title="ClangCursor.IsAbstractRecord プロパティ" Url="html/e84e0c58-4bf8-cd65-a10d-e217432be1de.htm" />
   <HelpKINode Title="ClangCursor.IsAnonymous プロパティ" Url="html/514d9024-579b-2772-918e-37eea59eed41.htm" />
+  <HelpKINode Title="ClangCursor.IsAnonymousRecordDecl プロパティ" Url="html/bab4f0e5-3072-bfea-c19d-31edd782ec60.htm" />
   <HelpKINode Title="ClangCursor.IsBitField プロパティ" Url="html/1a98ee1d-5e20-dd83-1ddf-0c96ba0fb24a.htm" />
   <HelpKINode Title="ClangCursor.IsConstMethod プロパティ" Url="html/a32c0c04-b2fe-685f-3308-2c0bcf4379bb.htm" />
   <HelpKINode Title="ClangCursor.IsConvertingConstructor プロパティ" Url="html/65c652e6-9328-ad6d-9331-03890ea18a7b.htm" />
@@ -377,6 +458,7 @@
   <HelpKINode Title="ClangCursor.IsDynamicCall プロパティ" Url="html/0f003dab-1076-4cb0-9055-8d466d7440f0.htm" />
   <HelpKINode Title="ClangCursor.IsExternalSymbol メソッド" Url="html/d5e23c0e-76ee-fbc7-d20e-a62500543352.htm" />
   <HelpKINode Title="ClangCursor.IsFunctionInlined プロパティ" Url="html/f82d7862-3f33-6588-b57e-4ddcfb9b5137.htm" />
+  <HelpKINode Title="ClangCursor.IsInlineNamespace プロパティ" Url="html/778b6419-c8bf-02ea-81a1-53f12b1e5055.htm" />
   <HelpKINode Title="ClangCursor.IsInvalidDeclaration プロパティ" Url="html/44de2048-7c77-f11c-8a55-3e45e1597838.htm" />
   <HelpKINode Title="ClangCursor.IsMacroBuiltin プロパティ" Url="html/534e110a-695a-2cb0-4750-e8b15920fb30.htm" />
   <HelpKINode Title="ClangCursor.IsMacroFunctionLike プロパティ" Url="html/5871e6bd-d15c-b5c1-2807-ea164eec6a15.htm" />
@@ -993,13 +1075,38 @@
   <HelpKINode Title="ClangNet.ResourceUsageKind 列挙体" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
   <HelpKINode Title="ClangNet.ResourceUsageKindEx クラス" Url="html/35c98a6d-b077-b6d6-e826-5c817dfb5e7a.htm" />
   <HelpKINode Title="ClangNet.Samples 名前空間" Url="html/601158bd-2d84-8f94-09e2-6e4c2f03fe3b.htm" />
+  <HelpKINode Title="ClangNet.Samples.AstNodeInfo クラス" Url="html/ffeaadb9-17ce-3cdb-23d3-fb91970b09ff.htm" />
   <HelpKINode Title="ClangNet.Samples.ATranslationUnitHandler クラス" Url="html/910fe727-6161-2001-6629-73be2e2fea92.htm" />
+  <HelpKINode Title="ClangNet.Samples.BehaviorCrossReferenceInfo クラス" Url="html/c5e448df-be06-2e69-f42a-58c8106f2b3a.htm" />
+  <HelpKINode Title="ClangNet.Samples.BehaviorCrossReferenceMap クラス" Url="html/f765f572-697f-96f0-cb18-91433571afd4.htm" />
+  <HelpKINode Title="ClangNet.Samples.BehaviorDefinitionMap クラス" Url="html/d2b8aa48-d634-319d-7bbe-64aa887b68b1.htm" />
+  <HelpKINode Title="ClangNet.Samples.BehaviorInfo クラス" Url="html/38180bd0-4232-2fb3-e0d1-7c54435c0c81.htm" />
+  <HelpKINode Title="ClangNet.Samples.BehaviorInfoFactory クラス" Url="html/97b89af1-7332-ed2e-0bdd-4da5fd496a90.htm" />
+  <HelpKINode Title="ClangNet.Samples.BehaviorLocationMap クラス" Url="html/d0199bea-2d3a-30ae-5ba3-3507aab69223.htm" />
+  <HelpKINode Title="ClangNet.Samples.BehaviorRelationsAnalyser クラス" Url="html/f13d28aa-a36e-64e3-73c3-a132159c3116.htm" />
   <HelpKINode Title="ClangNet.Samples.ClangFileEx クラス" Url="html/92ba989f-5b20-c02a-b4ca-6973e46fdb3f.htm" />
   <HelpKINode Title="ClangNet.Samples.ClangSourceLocationEx クラス" Url="html/25089581-c493-e250-8644-184aa9b49c68.htm" />
+  <HelpKINode Title="ClangNet.Samples.ClassBehaviorInfo クラス" Url="html/9866b539-0684-2198-f16d-ab6ad30e8ff0.htm" />
+  <HelpKINode Title="ClangNet.Samples.ConstructorInfo クラス" Url="html/ff58267d-9cab-d65b-2de9-52d8fd311556.htm" />
+  <HelpKINode Title="ClangNet.Samples.CppMethodInfo クラス" Url="html/f6154070-e75d-d34e-9f69-fac39e9419b2.htm" />
+  <HelpKINode Title="ClangNet.Samples.CrossReferencesDumper クラス" Url="html/2104015f-8f4f-b44f-e52f-8e6f56d3e02f.htm" />
+  <HelpKINode Title="ClangNet.Samples.CrossReferencesDumper.CrossReferencesDumperImpl クラス" Url="html/60b8d11d-58c5-1981-c51e-d01d00c00088.htm" />
   <HelpKINode Title="ClangNet.Samples.CursorVisitor クラス" Url="html/416fdc1f-4ac7-56bc-590f-4840d6e4236b.htm" />
   <HelpKINode Title="ClangNet.Samples.CursorVisitor.CursorVisitorImpl クラス" Url="html/1a988941-3717-b513-fc48-97004683b59f.htm" />
+  <HelpKINode Title="ClangNet.Samples.DestructorInfo クラス" Url="html/d86b5081-3a7a-5186-c1f4-8156e0b69cbf.htm" />
+  <HelpKINode Title="ClangNet.Samples.FunctionInfo クラス" Url="html/d5fe88df-134a-4b77-5507-7f5a7957e979.htm" />
   <HelpKINode Title="ClangNet.Samples.InclusionVisitor クラス" Url="html/90db812c-f7cb-ea8b-b15b-ccad6dcd704c.htm" />
   <HelpKINode Title="ClangNet.Samples.InclusionVisitor.InclusionVisitorImpl クラス" Url="html/ef0e6c75-5758-ace9-fc2a-8c603690b887.htm" />
+  <HelpKINode Title="ClangNet.Samples.InvokationInfo クラス" Url="html/cb90183e-c7f2-d414-cdc8-ee5533603d94.htm" />
+  <HelpKINode Title="ClangNet.Samples.InvokationTreeDumper クラス" Url="html/e4b4cf52-3847-7ca1-4968-510c64db8bfa.htm" />
+  <HelpKINode Title="ClangNet.Samples.InvokationTreeDumper.InvokationTreeDumperImpl クラス" Url="html/757e3113-b2e8-097f-0c9c-916a92080e08.htm" />
+  <HelpKINode Title="ClangNet.Samples.TranslationUnitInfo クラス" Url="html/639d17c4-02cd-936e-c566-672ebd3d932c.htm" />
+  <HelpKINode Title="ClangNet.Samples.TranslationUnitMap クラス" Url="html/87a8db23-b480-db12-a0fd-cfec930665b0.htm" />
+  <HelpKINode Title="ClangNet.Samples.TranslationUnitParseSetting クラス" Url="html/37517307-e91b-dc24-8858-7b2c98e2ad28.htm" />
+  <HelpKINode Title="ClangNet.Samples.TranslationUnitsParser クラス" Url="html/5b25cbe0-e3cc-15e0-7163-ab1c845c488a.htm" />
+  <HelpKINode Title="ClangNet.Samples.TranslationUnitsParser.TranslationUnitsParserImpl クラス" Url="html/035a4d61-c2de-3fc9-63f1-9d2aac156b9d.htm" />
+  <HelpKINode Title="ClangNet.Samples.ValueObject(Of T) クラス" Url="html/3979fe0f-b786-a9de-e748-f332ed1a70c9.htm" />
+  <HelpKINode Title="ClangNet.Samples.ValueObject&lt;T&gt; クラス" Url="html/3979fe0f-b786-a9de-e748-f332ed1a70c9.htm" />
   <HelpKINode Title="ClangNet.SaveError 列挙体" Url="html/93b07cb2-948c-aa87-f4b5-4c4c7b6d60ba.htm" />
   <HelpKINode Title="ClangNet.SaveTranslationUnitFlags 列挙体" Url="html/9057aaff-8bc5-cc90-4c5b-cd12e53b8479.htm" />
   <HelpKINode Title="ClangNet.StorageClass 列挙体" Url="html/857469a3-068d-69f6-db14-45aae34e4072.htm" />
@@ -1139,7 +1246,8 @@
   <HelpKINode Title="ClangTranslationUnit クラス、メソッド" Url="html/b205f1a3-35b4-a61c-48b1-6b251d2ba951.htm" />
   <HelpKINode Title="ClangTranslationUnit.ClangTranslationUnit コンストラクター" Url="html/1079590e-c808-3807-486b-a7c15bd9e3c2.htm" />
   <HelpKINode Title="ClangTranslationUnit.CreateNativeCursorAndRangeVisitor メソッド" Url="html/7c2cd63e-5c1f-f092-156f-1a4b8c5134be.htm" />
-  <HelpKINode Title="ClangTranslationUnit.CreateNativeInclusionVisitor メソッド" Url="html/07e8eee3-629b-63d2-3da7-085de98b2534.htm" />
+  <HelpKINode Title="ClangTranslationUnit.CreateNativeInclusionVisitor(Of T) メソッド" Url="html/95ce75fa-c0ab-2803-a87e-98120efed0ab.htm" />
+  <HelpKINode Title="ClangTranslationUnit.CreateNativeInclusionVisitor&lt;T&gt; メソッド" Url="html/95ce75fa-c0ab-2803-a87e-98120efed0ab.htm" />
   <HelpKINode Title="ClangTranslationUnit.Cursor プロパティ" Url="html/8da7b7a7-c4d2-a16c-6da3-22318e35d827.htm" />
   <HelpKINode Title="ClangTranslationUnit.DefaultReparseOptions プロパティ" Url="html/9c94439a-6f8e-5760-362f-f0215e25e1d9.htm" />
   <HelpKINode Title="ClangTranslationUnit.DefaultSaveOptions プロパティ" Url="html/afcec327-ce6e-0e11-206d-28aa420a4758.htm" />
@@ -1154,7 +1262,8 @@
   <HelpKINode Title="ClangTranslationUnit.GetFile メソッド" Url="html/89a6f980-0717-e785-acd6-5cbf20082721.htm" />
   <HelpKINode Title="ClangTranslationUnit.GetFileContents メソッド" Url="html/ead52765-9751-3f21-7204-2d158fa30b72.htm" />
   <HelpKINode Title="ClangTranslationUnit.GetHashCode メソッド" Url="html/ed4ae98f-5f10-df3f-7bd1-318ae500ed70.htm" />
-  <HelpKINode Title="ClangTranslationUnit.GetInclusions メソッド" Url="html/e77b60ff-88ce-6f5a-a8e6-0ec1cb1d7940.htm" />
+  <HelpKINode Title="ClangTranslationUnit.GetInclusions(Of T) メソッド" Url="html/df2f8b5f-7339-b8fe-728d-bfd48fc46668.htm" />
+  <HelpKINode Title="ClangTranslationUnit.GetInclusions&lt;T&gt; メソッド" Url="html/df2f8b5f-7339-b8fe-728d-bfd48fc46668.htm" />
   <HelpKINode Title="ClangTranslationUnit.GetLocation メソッド" Url="html/7af6fe6c-548e-e1e4-a1e6-db4b3c2f99a4.htm" />
   <HelpKINode Title="ClangTranslationUnit.GetModuleForFile メソッド" Url="html/1fd39f1a-865d-cab4-6ffe-9859be81d693.htm" />
   <HelpKINode Title="ClangTranslationUnit.GetSkippedRanges メソッド" Url="html/16415808-6f76-fc1c-774f-6f88fa21e335.htm" />
@@ -1346,9 +1455,14 @@
   <HelpKINode Title="clang_Cursor_getTranslationUnit メソッド" Url="html/d764aa71-444b-7079-fdf9-b8669aabe5e8.htm" />
   <HelpKINode Title="clang_Cursor_hasAttrs メソッド" Url="html/50b23286-ad87-6c5a-2ba4-511cd91494f0.htm" />
   <HelpKINode Title="clang_Cursor_isAnonymous メソッド" Url="html/39d6123e-108d-c5b4-749c-5cc731f00ddd.htm" />
+  <HelpKINode Title="clang_Cursor_isAnonymousRecordDecl メソッド" Url="html/ccbdc366-c624-66bd-1b5d-1719ac98be6f.htm" />
   <HelpKINode Title="clang_Cursor_isBitField メソッド" Url="html/7b092d79-17b6-6b1b-d94a-a5e300601742.htm" />
   <HelpKINode Title="clang_Cursor_isDynamicCall メソッド" Url="html/df2a25d5-cc63-9898-2872-c5c1ba083e4c.htm" />
   <HelpKINode Title="clang_Cursor_isExternalSymbol メソッド" Url="html/d3539e5e-4694-87c1-4534-cc2bb73aec4f.htm" />
+  <HelpKINode Title="clang_Cursor_isFunctionInlined メソッド" Url="html/cadf6602-fe44-5fa9-ee37-2431124694cd.htm" />
+  <HelpKINode Title="clang_Cursor_isInlineNamespace メソッド" Url="html/30f142c0-0436-c9a2-ef07-f80d9e98088b.htm" />
+  <HelpKINode Title="clang_Cursor_isMacroBuiltin メソッド" Url="html/d74df623-1b84-c02c-30d9-ec4c19e9d6e4.htm" />
+  <HelpKINode Title="clang_Cursor_isMacroFunctionLike メソッド" Url="html/171c57fc-5e15-daa0-f33c-60ec72bad242.htm" />
   <HelpKINode Title="clang_Cursor_isNull メソッド" Url="html/3c237a9a-a445-1de7-461b-b2f730aa23fd.htm" />
   <HelpKINode Title="clang_Cursor_isObjCOptional メソッド" Url="html/9a2c74a1-60f2-5e98-4e63-8c62ecd911ad.htm" />
   <HelpKINode Title="clang_Cursor_isVariadic メソッド" Url="html/eb8d23a5-d1a9-8322-910c-5f6234b40ad0.htm" />
@@ -1458,7 +1572,6 @@
   <HelpKINode Title="clang_getCursorVisibility メソッド" Url="html/2b94364b-3437-cf0f-c1b8-7a871ed1162b.htm" />
   <HelpKINode Title="clang_getCXTUResourceUsage メソッド" Url="html/b9d87f23-726b-efd9-f65a-121f38264a40.htm" />
   <HelpKINode Title="clang_getCXXAccessSpecifier メソッド" Url="html/1b1b9c8d-434b-cd10-9d22-04e9417e63a2.htm" />
-  <HelpKINode Title="clang_getDeclObjCEncoding メソッド" Url="html/906ae883-96cd-9e57-cdc9-c70254ada705.htm" />
   <HelpKINode Title="clang_getDeclObjCTypeEncoding メソッド" Url="html/62bb2a3f-335a-041f-2ca3-f52da3256a4e.htm" />
   <HelpKINode Title="clang_getDefinitionSpellingAndExtent メソッド" Url="html/35b1996b-fe51-7146-311d-7100d528a4da.htm" />
   <HelpKINode Title="clang_getDiagnostic メソッド" Url="html/40875a5c-05ac-f388-84d9-cc4b3488d626.htm" />
@@ -1495,7 +1608,6 @@
   <HelpKINode Title="clang_getInstantiationLocation メソッド" Url="html/ac3281a6-f695-294b-4e7a-7df367b1ae8e.htm" />
   <HelpKINode Title="clang_getLocation メソッド" Url="html/0c63a80c-ccdd-f09e-72c0-22992bd569c3.htm" />
   <HelpKINode Title="clang_getLocationForOffset メソッド" Url="html/3a0eff0e-4157-5784-159a-e45b04f803b4.htm" />
-  <HelpKINode Title="clang_getNamedType メソッド" Url="html/67184c30-26da-3197-ae45-638c923b1645.htm" />
   <HelpKINode Title="clang_getNullCursor メソッド" Url="html/2dec26fb-ebdd-7d38-1906-b77011e50da5.htm" />
   <HelpKINode Title="clang_getNullLocation メソッド" Url="html/17b2e5d3-9b1e-8857-bb91-2d3445482e58.htm" />
   <HelpKINode Title="clang_getNullRange メソッド" Url="html/5b85e87a-7fd6-4665-6149-0d1be865e119.htm" />
@@ -1570,12 +1682,9 @@
   <HelpKINode Title="clang_isDeclaration メソッド" Url="html/7be527e5-18fb-62bd-2946-5487f4a9b633.htm" />
   <HelpKINode Title="clang_isExpression メソッド" Url="html/672537ad-0b38-f681-236a-9eca3ddf2c4f.htm" />
   <HelpKINode Title="clang_isFileMultipleIncludeGuarded メソッド" Url="html/524f9ccd-3e0a-41ff-a30c-2c75936e33cb.htm" />
-  <HelpKINode Title="clang_isFunctionInlined メソッド" Url="html/4dd93f22-a0f3-99ab-f300-f5814cd87492.htm" />
   <HelpKINode Title="clang_isFunctionTypeVariadic メソッド" Url="html/4eb6a476-353b-cd66-b746-c65a11f769ff.htm" />
   <HelpKINode Title="clang_isInvalid メソッド" Url="html/35371497-fb2f-ce6c-9958-cc33f3469be7.htm" />
   <HelpKINode Title="clang_isInvalidDeclaration メソッド" Url="html/4422b1a0-5697-bf66-f87d-88d857d4053e.htm" />
-  <HelpKINode Title="clang_isMacroBuiltin メソッド" Url="html/eed68fcf-1a2a-beb7-71da-f85a1a456442.htm" />
-  <HelpKINode Title="clang_isMacroFunctionLike メソッド" Url="html/8c2e1738-c230-47b6-82c4-e5aef79bee6d.htm" />
   <HelpKINode Title="clang_isPODType メソッド" Url="html/cc9fe1ed-496a-c0e3-a68d-dd7eeca9775d.htm" />
   <HelpKINode Title="clang_isPreprocessing メソッド" Url="html/f737334f-b740-48b9-f9f0-4d13df16390c.htm" />
   <HelpKINode Title="clang_isReference メソッド" Url="html/5cde8c7a-934c-1aa1-e023-03d75d06d0e5.htm" />
@@ -1633,10 +1742,12 @@
   <HelpKINode Title="clang_Type_getClassType メソッド" Url="html/78836480-936a-7a9b-e640-14b45b8dee78.htm" />
   <HelpKINode Title="clang_Type_getCXXRefQualifier メソッド" Url="html/220d5550-3300-4680-2d78-50e96d165553.htm" />
   <HelpKINode Title="clang_Type_getModifiedType メソッド" Url="html/6afc9c70-81b1-c0ef-ec77-23db246b0ad0.htm" />
+  <HelpKINode Title="clang_Type_getNamedType メソッド" Url="html/d1a3aeef-4996-3cbf-0888-2078c860ed98.htm" />
   <HelpKINode Title="clang_Type_getNullability メソッド" Url="html/29b2a3b9-f400-b13d-d691-d7e086bcbc31.htm" />
   <HelpKINode Title="clang_Type_getNumObjCProtocolRefs メソッド" Url="html/ab7f1247-15a9-c3e5-b417-b9fbaef87695.htm" />
   <HelpKINode Title="clang_Type_getNumObjCTypeArgs メソッド" Url="html/dbc9eb3b-4826-5a23-c241-933000b87d5a.htm" />
   <HelpKINode Title="clang_Type_getNumTemplateArguments メソッド" Url="html/0fa6fc74-9ee1-9c1d-3ff2-9e7c275502dc.htm" />
+  <HelpKINode Title="clang_Type_getObjCEncoding メソッド" Url="html/fbc70420-9ee1-fac4-fbe9-2f984d84bca0.htm" />
   <HelpKINode Title="clang_Type_getObjCObjectBaseType メソッド" Url="html/a0b5633e-148d-9ffc-4fbe-966b40272b72.htm" />
   <HelpKINode Title="clang_Type_getObjCProtocolDecl メソッド" Url="html/d538b93f-524b-6c77-b546-2bc626128226.htm" />
   <HelpKINode Title="clang_Type_getObjCTypeArg メソッド" Url="html/cc03d695-88fe-1c9b-c2c9-5ca57b8eb0af.htm" />
@@ -1654,6 +1765,13 @@
   <HelpKINode Title="clang_VirtualFileOverlay_writeToBuffer メソッド" Url="html/28eb0bd4-bde7-c47b-f082-f81a2ceaf2f3.htm" />
   <HelpKINode Title="clang_visitChildren メソッド" Url="html/88307fa6-594e-c7d6-2165-58078bfbf28b.htm" />
   <HelpKINode Title="Class 列挙体メンバー" Url="html/c6f90457-9f4b-d1cd-2cfc-2982d916294e.htm" />
+  <HelpKINode Title="ClassBehaviorInfo クラス" Url="html/9866b539-0684-2198-f16d-ab6ad30e8ff0.htm" />
+  <HelpKINode Title="ClassBehaviorInfo クラス、コンストラクター" Url="html/d354c5e2-2605-74f5-65b4-5cd8fd91e58f.htm" />
+  <HelpKINode Title="ClassBehaviorInfo クラス、プロパティ" Url="html/15cbaaa4-71d8-0dbc-ed70-a9232abaa890.htm" />
+  <HelpKINode Title="ClassBehaviorInfo クラス、メソッド" Url="html/a0d21590-fcb1-d0b8-dff8-b8e424fd8156.htm" />
+  <HelpKINode Title="ClassBehaviorInfo.ClassBehaviorInfo コンストラクター" Url="html/d354c5e2-2605-74f5-65b4-5cd8fd91e58f.htm" />
+  <HelpKINode Title="ClassBehaviorInfo.ClassName プロパティ" Url="html/0c5cbcc6-9fd9-8ee9-878f-5d24fbb5da38.htm" />
+  <HelpKINode Title="ClassBehaviorInfo.ToString メソッド" Url="html/89cc953f-aa81-c6f1-0833-596157dc411b.htm" />
   <HelpKINode Title="ClassCursor フィールド">
     <HelpKINode Title="CXIdxIBOutletCollectionAttrInfo.ClassCursor フィールド" Url="html/c9bed474-124b-af1a-f70b-65b3ec2063a8.htm" />
     <HelpKINode Title="CXIdxObjCCategoryDeclInfo.ClassCursor フィールド" Url="html/924cf90b-2fe5-dc2f-38eb-6c8fa5e270c9.htm" />
@@ -1671,6 +1789,7 @@
     <HelpKINode Title="ClangIndexIBOutletCollectionAttributeInfo.ClassLocation プロパティ " Url="html/c770f5f5-f83c-9a25-0bfd-0a51642f0fec.htm" />
     <HelpKINode Title="ClangIndexObjCCategoryDeclarationInfo.ClassLocation プロパティ " Url="html/04b96166-2646-592f-9d6d-7e3d1359e662.htm" />
   </HelpKINode>
+  <HelpKINode Title="ClassName プロパティ" Url="html/0c5cbcc6-9fd9-8ee9-878f-5d24fbb5da38.htm" />
   <HelpKINode Title="ClassTag 列挙体メンバー" Url="html/33d54941-a6af-3bad-38aa-392a924fefb2.htm" />
   <HelpKINode Title="ClassTemplate 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="ClassTemplatePartialSpecialization 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
@@ -1681,7 +1800,10 @@
   <HelpKINode Title="Colon 列挙体メンバー" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
   <HelpKINode Title="Column プロパティ" Url="html/ed43d213-911a-03d0-ba11-1dabf2f24e51.htm" />
   <HelpKINode Title="Comma 列挙体メンバー" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
-  <HelpKINode Title="CommandLineArgs プロパティ" Url="html/3fca929f-dc80-a126-999c-eaad6ec2896a.htm" />
+  <HelpKINode Title="CommandLineArgs プロパティ">
+    <HelpKINode Title="ATranslationUnitHandler.CommandLineArgs プロパティ " Url="html/3fca929f-dc80-a126-999c-eaad6ec2896a.htm" />
+    <HelpKINode Title="TranslationUnitParseSetting.CommandLineArgs プロパティ " Url="html/2f2156d6-7210-5f78-9846-3cf5bba9e94f.htm" />
+  </HelpKINode>
   <HelpKINode Title="Comment 列挙体メンバー" Url="html/469a7a46-1f39-fea1-a546-0ba9a648a36b.htm" />
   <HelpKINode Title="CommentInlineCommandRenderKind 列挙体" Url="html/45bad9fc-d491-313f-db1a-5671a49dbf42.htm" />
   <HelpKINode Title="CommentKind 列挙体" Url="html/73556912-1fa4-efa9-ca93-d0520fc304e1.htm" />
@@ -1713,6 +1835,13 @@
   <HelpKINode Title="ConstantsAsWritten 列挙体メンバー" Url="html/5e60d057-b142-d60e-39d9-24af6fa66c4c.htm" />
   <HelpKINode Title="ConstAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="Constructor 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="ConstructorInfo クラス" Url="html/ff58267d-9cab-d65b-2de9-52d8fd311556.htm" />
+  <HelpKINode Title="ConstructorInfo クラス、コンストラクター" Url="html/4fe1e835-973f-d80f-be82-9a691b15cd00.htm" />
+  <HelpKINode Title="ConstructorInfo クラス、プロパティ" Url="html/74ec9380-3630-fd7e-a5ca-011508a25546.htm" />
+  <HelpKINode Title="ConstructorInfo クラス、メソッド" Url="html/eec6b302-7a92-288b-de74-90a32c83015b.htm" />
+  <HelpKINode Title="ConstructorInfo.ConstructorInfo コンストラクター" Url="html/4fe1e835-973f-d80f-be82-9a691b15cd00.htm" />
+  <HelpKINode Title="ConstructorInfo.GetDefinition メソッド" Url="html/cb3937e8-5d3e-80da-b9fc-cc82ef97c94f.htm" />
+  <HelpKINode Title="ConstructorInfo.ToString メソッド" Url="html/24723696-1014-9621-3108-28a694836a74.htm" />
   <HelpKINode Title="ConstructUSRObjCCategory メソッド" Url="html/e2db5061-c98d-0b3f-ee43-8620a1116d70.htm" />
   <HelpKINode Title="ConstructUSRObjCClass メソッド" Url="html/eacea8cd-1012-e49c-8d90-18e051334689.htm" />
   <HelpKINode Title="ConstructUSRObjCIVar メソッド" Url="html/a180a93b-4d87-5ce5-4060-e20a5a2e8716.htm" />
@@ -1740,6 +1869,7 @@
     <HelpKINode Title="VisitorResult 列挙体" Url="html/061995db-c2f1-dfa8-b21f-5d65c3214054.htm" />
   </HelpKINode>
   <HelpKINode Title="ContinueStatement 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="ConvergentAttr 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="ConversionFunction 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="Copy 列挙体メンバー" Url="html/c6f90457-9f4b-d1cd-2cfc-2982d916294e.htm" />
   <HelpKINode Title="Count フィールド">
@@ -1753,7 +1883,17 @@
     <HelpKINode Title="ClangTokenSet.Count プロパティ " Url="html/cece7ff1-6752-a6bd-dab8-1cba2c34020a.htm" />
   </HelpKINode>
   <HelpKINode Title="CPlusPlus 列挙体メンバー" Url="html/0745e4c2-c162-5351-4850-29627c9516de.htm" />
+  <HelpKINode Title="CppMethodInfo クラス" Url="html/f6154070-e75d-d34e-9f69-fac39e9419b2.htm" />
+  <HelpKINode Title="CppMethodInfo クラス、コンストラクター" Url="html/c9b33913-1b19-aa03-5b52-045820e7c3d5.htm" />
+  <HelpKINode Title="CppMethodInfo クラス、プロパティ" Url="html/c8130716-70e4-8901-d82a-533548a0042b.htm" />
+  <HelpKINode Title="CppMethodInfo クラス、メソッド" Url="html/4b783864-5f37-bff2-3154-1904a8786b8b.htm" />
+  <HelpKINode Title="CppMethodInfo.CppMethodInfo コンストラクター" Url="html/c9b33913-1b19-aa03-5b52-045820e7c3d5.htm" />
+  <HelpKINode Title="CppMethodInfo.GetDefinition メソッド" Url="html/f765117b-8cdf-1a33-587b-20e69876f7db.htm" />
+  <HelpKINode Title="CppMethodInfo.ReturnType プロパティ" Url="html/00f89bd0-1593-4122-d3d6-a7de09f87ad9.htm" />
+  <HelpKINode Title="CppMethodInfo.ToString メソッド" Url="html/c2dff8d2-227e-9a6e-4243-a4a0a184f467.htm" />
   <HelpKINode Title="Crashed 列挙体メンバー" Url="html/71ffab7b-c913-f2ff-b71f-1fc0bf4e2a1a.htm" />
+  <HelpKINode Title="Create メソッド" Url="html/447af0fd-01d0-47d5-7a5e-716e3387cc91.htm" />
+  <HelpKINode Title="CreateBehaviorDefinitionMap メソッド" Url="html/7eac71a5-8ecb-7b05-d67d-01600cd3c6bc.htm" />
   <HelpKINode Title="CreateCompilationDatabaseFromDirectory メソッド" Url="html/8366a268-7495-984c-d0c7-9f9f5d3afc59.htm" />
   <HelpKINode Title="CreateCursorAndRangeVisitor メソッド" Url="html/1ec87609-deca-0f70-6925-16d918db7b64.htm" />
   <HelpKINode Title="CreateCursorSet メソッド" Url="html/f72eb809-37f0-c701-3fe9-a849bdc1cdfa.htm" />
@@ -1763,19 +1903,36 @@
   <HelpKINode Title="CreateModuleMapDescriptor メソッド" Url="html/f3ef510c-e937-ccb2-3635-c0d340010430.htm" />
   <HelpKINode Title="CreateNativeCursorAndRangeVisitor メソッド" Url="html/7c2cd63e-5c1f-f092-156f-1a4b8c5134be.htm" />
   <HelpKINode Title="CreateNativeFieldVisitor メソッド" Url="html/278e8ae8-bb78-0d6e-45c5-d1091780b0c3.htm" />
-  <HelpKINode Title="CreateNativeInclusionVisitor メソッド" Url="html/07e8eee3-629b-63d2-3da7-085de98b2534.htm" />
-  <HelpKINode Title="CreateParameters メソッド" Url="html/30f1d100-1320-d939-3621-11aeebdb7962.htm" />
+  <HelpKINode Title="CreateNativeInclusionVisitor(Of T) メソッド" Url="html/95ce75fa-c0ab-2803-a87e-98120efed0ab.htm" />
+  <HelpKINode Title="CreateNativeInclusionVisitor&lt;T&gt; メソッド" Url="html/95ce75fa-c0ab-2803-a87e-98120efed0ab.htm" />
   <HelpKINode Title="CreatePreambleOnFirstParse 列挙体メンバー" Url="html/3fdff3be-dcdc-495a-d888-7e7260f3bd39.htm" />
   <HelpKINode Title="CreateTranslationUnit メソッド" Url="html/d2588ef3-0151-7b69-39b3-01dae0ab3d4e.htm" />
   <HelpKINode Title="CreateTranslationUnitFromSourceFile メソッド" Url="html/60698013-ac75-a2c4-d192-50ce86ffb69a.htm" />
+  <HelpKINode Title="CreateTranslationUnitHandlerParameters メソッド" Url="html/36cd258c-f195-a2ae-56e5-06a62dcd3e6e.htm" />
   <HelpKINode Title="CreateVirtualFileOverlay メソッド" Url="html/e9589bfd-17f6-a298-243d-90f2fe920359.htm" />
+  <HelpKINode Title="CrossReferenceMap プロパティ" Url="html/be5a39a5-dd67-8eac-d114-42a093f7a390.htm" />
+  <HelpKINode Title="CrossReferencesDumper クラス" Url="html/2104015f-8f4f-b44f-e52f-8e6f56d3e02f.htm" />
+  <HelpKINode Title="CrossReferencesDumper クラス、メソッド" Url="html/4e85d422-eff5-3987-d8e6-00d48df75451.htm" />
+  <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl クラス" Url="html/60b8d11d-58c5-1981-c51e-d01d00c00088.htm" />
+  <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl クラス、コンストラクター" Url="html/c79a228c-ffd8-8354-13e6-cdea7d1d0238.htm" />
+  <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl.AnalyseCrossReferences メソッド" Url="html/6a076ef0-42ca-d6cc-2a19-180e727fe2bd.htm" />
+  <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl.CrossReferenceMap プロパティ" Url="html/be5a39a5-dd67-8eac-d114-42a093f7a390.htm" />
+  <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl.CrossReferencesDumperImpl コンストラクター" Url="html/c79a228c-ffd8-8354-13e6-cdea7d1d0238.htm" />
+  <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl.DumpCrossReferences メソッド" Url="html/100057e9-4c1c-c705-adb9-aec723e49ce0.htm" />
+  <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl.Execute メソッド" Url="html/6f16c1ea-2d2c-4137-6787-1f4661c680bd.htm" />
+  <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl.TranslationUnitMap プロパティ" Url="html/5b0775a6-8175-245f-6f70-8ca2350acbe3.htm" />
+  <HelpKINode Title="CrossReferencesDumper.Dump メソッド" Url="html/cfcabb98-c6ae-8426-f0c0-f9165a1cf12c.htm" />
+  <HelpKINode Title="CrossReferencesDumperImpl クラス、プロパティ" Url="html/79053249-fb06-c9bb-fb6b-3501185bcbb2.htm" />
+  <HelpKINode Title="CrossReferencesDumperImpl クラス、メソッド" Url="html/d7221442-a777-4d4f-91d7-4cb190122a1a.htm" />
   <HelpKINode Title="CStyleCastExpression 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="CUDAConstantAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="CUDADeviceAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="CUDAGlobalAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="CUDAHostAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="CUDASharedAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="CurrentBehavior プロパティ" Url="html/1cf005d0-65b3-b705-015a-9cae87133261.htm" />
   <HelpKINode Title="CurrentParameter 列挙体メンバー" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
+  <HelpKINode Title="CurrentTranslationUnit プロパティ" Url="html/3738ef99-87c8-40d3-479d-1e5ba7fb72a0.htm" />
   <HelpKINode Title="Cursor フィールド">
     <HelpKINode Title="CXIdxAttrInfo.Cursor フィールド" Url="html/6ebdf87c-e0ba-18f5-40b3-04b8661cb9bc.htm" />
     <HelpKINode Title="CXIdxBaseClassInfo.Cursor フィールド" Url="html/1f50a04c-1115-6ce6-4831-46e6b6f2e443.htm" />
@@ -2173,6 +2330,7 @@
     <HelpKINode Title="ClangIndexCxxClassDeclarationInfo.Declaration プロパティ " Url="html/b07c549f-44b0-4f04-e311-e8df1b853b16.htm" />
     <HelpKINode Title="ClangIndexObjCContainerDeclarationInfo.Declaration プロパティ " Url="html/c860bc10-a272-f4f5-7ead-e505795e7d08.htm" />
     <HelpKINode Title="ClangIndexObjCPropertyDeclarationInfo.Declaration プロパティ " Url="html/2a93b9a5-ae08-bcc7-6c48-b02ab2494a0a.htm" />
+    <HelpKINode Title="InvokationInfo.Declaration プロパティ " Url="html/b6a8502c-c435-e78d-1b49-83dcbb337aa3.htm" />
   </HelpKINode>
   <HelpKINode Title="Declaration 列挙体メンバー">
     <HelpKINode Title="SymbolRole 列挙体" Url="html/78397212-5ee9-4c6f-5b66-b94f466b8a49.htm" />
@@ -2195,7 +2353,10 @@
   <HelpKINode Title="DefaultReparseOptions プロパティ" Url="html/9c94439a-6f8e-5760-362f-f0215e25e1d9.htm" />
   <HelpKINode Title="DefaultSaveOptions プロパティ" Url="html/afcec327-ce6e-0e11-206d-28aa420a4758.htm" />
   <HelpKINode Title="DefaultStatement 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
-  <HelpKINode Title="Definition プロパティ" Url="html/9336d069-7885-0fbd-119e-9d29a019c156.htm" />
+  <HelpKINode Title="Definition プロパティ">
+    <HelpKINode Title="BehaviorInfo.Definition プロパティ " Url="html/cc664553-5cd1-da0b-d609-df22c1c1286d.htm" />
+    <HelpKINode Title="ClangCursor.Definition プロパティ " Url="html/9336d069-7885-0fbd-119e-9d29a019c156.htm" />
+  </HelpKINode>
   <HelpKINode Title="Definition 列挙体メンバー" Url="html/78397212-5ee9-4c6f-5b66-b94f466b8a49.htm" />
   <HelpKINode Title="Dependent 列挙体メンバー">
     <HelpKINode Title="TypeKind 列挙体" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
@@ -2205,6 +2366,13 @@
   <HelpKINode Title="Deprecated フィールド" Url="html/33f0d001-5f1a-8871-2a8f-62b5d8ab9941.htm" />
   <HelpKINode Title="Deprecated 列挙体メンバー" Url="html/a1055777-3dbe-876b-a014-e11cb5fbbfda.htm" />
   <HelpKINode Title="Destructor 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="DestructorInfo クラス" Url="html/d86b5081-3a7a-5186-c1f4-8156e0b69cbf.htm" />
+  <HelpKINode Title="DestructorInfo クラス、コンストラクター" Url="html/61459fc8-d2c6-1519-c9f6-34db972f626d.htm" />
+  <HelpKINode Title="DestructorInfo クラス、プロパティ" Url="html/dc4b227e-7f1c-e4f9-3e95-00688b06be31.htm" />
+  <HelpKINode Title="DestructorInfo クラス、メソッド" Url="html/bef54524-421c-8786-7a81-065d64bf0a91.htm" />
+  <HelpKINode Title="DestructorInfo.DestructorInfo コンストラクター" Url="html/61459fc8-d2c6-1519-c9f6-34db972f626d.htm" />
+  <HelpKINode Title="DestructorInfo.GetDefinition メソッド" Url="html/229a5dda-69a9-ad22-e56a-4abb2b0b0f48.htm" />
+  <HelpKINode Title="DestructorInfo.ToString メソッド" Url="html/c5aff419-3eb4-fcb1-a6a0-15a91d5dbbb4.htm" />
   <HelpKINode Title="DetailedPreprocessingRecord 列挙体メンバー" Url="html/3fdff3be-dcdc-495a-d888-7e7260f3bd39.htm" />
   <HelpKINode Title="Diagnostic イベント" Url="html/36e291c3-7565-1bbb-d92c-e7032c837f75.htm" />
   <HelpKINode Title="Diagnostic フィールド" Url="html/0b670fce-51aa-8eba-d79b-ae2c440a8012.htm" />
@@ -2221,6 +2389,7 @@
   <HelpKINode Title="DisplayCategoryId 列挙体メンバー" Url="html/1b0a6429-92cf-323e-37a2-edaff70792db.htm" />
   <HelpKINode Title="DisplayCategoryName 列挙体メンバー" Url="html/1b0a6429-92cf-323e-37a2-edaff70792db.htm" />
   <HelpKINode Title="DisplayColumn 列挙体メンバー" Url="html/1b0a6429-92cf-323e-37a2-edaff70792db.htm" />
+  <HelpKINode Title="DisplayDiag プロパティ" Url="html/46d70bf3-b2b0-cf65-a8e1-563dea343bf2.htm" />
   <HelpKINode Title="DisplayDiagnostic プロパティ" Url="html/bd542db1-0320-9c32-06ee-bd0c5fdb0016.htm" />
   <HelpKINode Title="DisplayName プロパティ" Url="html/394e9c47-7e77-5b0b-d74a-b03ec9bfd7dc.htm" />
   <HelpKINode Title="DisplayOption 列挙体メンバー" Url="html/1b0a6429-92cf-323e-37a2-edaff70792db.htm" />
@@ -2256,7 +2425,16 @@
   <HelpKINode Title="DoStatement 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="DotMemberAccess 列挙体メンバー" Url="html/33d54941-a6af-3bad-38aa-392a924fefb2.htm" />
   <HelpKINode Title="Double 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
+  <HelpKINode Title="Dump メソッド">
+    <HelpKINode Title="CrossReferencesDumper.Dump メソッド " Url="html/cfcabb98-c6ae-8426-f0c0-f9165a1cf12c.htm" />
+    <HelpKINode Title="InvokationTreeDumper.Dump メソッド " Url="html/59dc890d-dd5b-4271-3d63-d9ac58d3e14a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DumpAST プロパティ" Url="html/d1c0fb09-c87c-8b5c-aa72-06d7715a1b7d.htm" />
+  <HelpKINode Title="DumpAstInfo メソッド" Url="html/c1322435-f431-a0f2-add0-618abbf32565.htm" />
+  <HelpKINode Title="DumpCrossReferences メソッド" Url="html/100057e9-4c1c-c705-adb9-aec723e49ce0.htm" />
   <HelpKINode Title="DumpIncludes メソッド" Url="html/d62d4fc8-5360-3e07-46c5-7ab5911594bd.htm" />
+  <HelpKINode Title="DumpInvokationTree メソッド" Url="html/da807aab-1e77-7dc1-332f-c70cdc912d92.htm" />
+  <HelpKINode Title="DumpInvokationTrees メソッド" Url="html/3fa807eb-7f7c-cf5a-b7cb-aaf910613c3b.htm" />
   <HelpKINode Title="Dynamic 列挙体メンバー">
     <HelpKINode Title="CursorExceptionSpecificationKind 列挙体" Url="html/7718f6c6-9dbd-75fe-7b83-dd57f561326b.htm" />
     <HelpKINode Title="SymbolRole 列挙体" Url="html/78397212-5ee9-4c6f-5b66-b94f466b8a49.htm" />
@@ -2297,18 +2475,22 @@
     <HelpKINode Title="ClangSourceLocation.Equality 演算子 " Url="html/68deda45-6bc1-a9c4-e8de-f4d931f5b3ee.htm" />
     <HelpKINode Title="ClangSourceRange.Equality 演算子 " Url="html/f2d74354-b732-e830-c1b2-59481f9ec645.htm" />
     <HelpKINode Title="ClangValueObject(T).Equality 演算子 " Url="html/cc9911a7-17cf-82c1-015a-22a745551f60.htm" />
+    <HelpKINode Title="ValueObject(T).Equality 演算子 " Url="html/b4e6480d-3891-88b7-c747-d4d756c57ac1.htm" />
   </HelpKINode>
   <HelpKINode Title="Equals メソッド">
     <HelpKINode Title="ClangSourceLocation.Equals メソッド " Url="html/49a80864-3b7a-60a9-d124-933046c5b1af.htm" />
     <HelpKINode Title="ClangSourceRange.Equals メソッド " Url="html/28550c59-16c5-85f5-f12d-70bb46df9628.htm" />
     <HelpKINode Title="ClangTranslationUnit.Equals メソッド " Url="html/334c1f91-789c-0167-fddd-50ce99cea940.htm" />
     <HelpKINode Title="ClangValueObject(T).Equals メソッド " Url="html/dbf317cf-eb9f-eb07-c1a4-6f74dfb22762.htm" />
+    <HelpKINode Title="ValueObject(T).Equals メソッド " Url="html/a5ce5c76-0bc9-fc17-1dcc-504a6841bd1f.htm" />
   </HelpKINode>
   <HelpKINode Title="EqualsCore メソッド">
+    <HelpKINode Title="BehaviorCrossReferenceInfo.EqualsCore メソッド " Url="html/21243bde-7fb9-8dfb-20fd-55fa3b25d267.htm" />
     <HelpKINode Title="ClangCursor.EqualsCore メソッド " Url="html/bb490991-1aa1-8470-bff8-cb45da5c0c64.htm" />
     <HelpKINode Title="ClangFileUniqueId.EqualsCore メソッド " Url="html/9c410aa6-2655-1c8b-ae1b-3161748b06e8.htm" />
     <HelpKINode Title="ClangType.EqualsCore メソッド " Url="html/1ac4d0d3-34fc-33a2-c9c0-2fdcec6e0eba.htm" />
     <HelpKINode Title="ClangValueObject(T).EqualsCore メソッド " Url="html/1848e853-b73b-fdea-042d-3089e68eb397.htm" />
+    <HelpKINode Title="ValueObject(T).EqualsCore メソッド " Url="html/f452548d-1294-60d6-a2ef-cee89c308661.htm" />
   </HelpKINode>
   <HelpKINode Title="Error メソッド">
     <HelpKINode Title="ALogger.Error メソッド " Url="html/426d5a53-6c4f-5be1-78b1-ddf9fcd01509.htm" />
@@ -2326,16 +2508,23 @@
   </HelpKINode>
   <HelpKINode Title="Execute メソッド">
     <HelpKINode Title="ATranslationUnitHandler.Execute メソッド " Url="html/0d5cc947-ff5c-455c-fc27-ebf6c7ba68a9.htm" />
+    <HelpKINode Title="BehaviorRelationsAnalyser.Execute メソッド " Url="html/a519e9dd-bc6a-c3be-9735-13bc3e70e9c8.htm" />
+    <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl.Execute メソッド " Url="html/6f16c1ea-2d2c-4137-6787-1f4661c680bd.htm" />
     <HelpKINode Title="CursorVisitor.Execute メソッド " Url="html/70f5c42f-1987-c46f-66b8-9394f4ab3656.htm" />
     <HelpKINode Title="InclusionVisitor.Execute メソッド " Url="html/167bd832-94e7-9880-1369-d392544bca8b.htm" />
+    <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.Execute メソッド " Url="html/a2cb53c9-5ed0-be51-8e72-785cab9037c1.htm" />
     <HelpKINode Title="Program.ProgramImpl.Execute メソッド " Url="html/0343a814-4223-0c4f-c75a-085e20c7e726.htm" />
+    <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.Execute メソッド " Url="html/474361d6-804b-d23c-c070-b26c6f60be0f.htm" />
   </HelpKINode>
+  <HelpKINode Title="ExecuteBehaviorRelationsAnalysis メソッド" Url="html/367d96be-56f6-c2ef-9b39-54f8b8d2bad1.htm" />
   <HelpKINode Title="ExecuteCore メソッド">
     <HelpKINode Title="ATranslationUnitHandler.ExecuteCore メソッド " Url="html/203cf935-9c72-ab70-27b9-6e56b2fc6930.htm" />
     <HelpKINode Title="CursorVisitor.CursorVisitorImpl.ExecuteCore メソッド " Url="html/3c789325-c314-4703-ed03-36620405041e.htm" />
     <HelpKINode Title="InclusionVisitor.InclusionVisitorImpl.ExecuteCore メソッド " Url="html/4f21f37b-6383-41f9-412f-4c7b4211670c.htm" />
+    <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.ExecuteCore メソッド " Url="html/15471285-0135-99c7-e08a-0bfbd4de3637.htm" />
   </HelpKINode>
   <HelpKINode Title="ExecuteOnThread メソッド" Url="html/94ff5d23-0c32-9a31-2cae-699d73e7f763.htm" />
+  <HelpKINode Title="ExecuteTranslationUnitHandlingTest メソッド" Url="html/e887e95a-d53c-9ad2-fb6e-bcabccd613bc.htm" />
   <HelpKINode Title="ExpansionLocation プロパティ" Url="html/e637fab0-eb06-a724-e2ad-3e216163cdc8.htm" />
   <HelpKINode Title="Expression 列挙体メンバー" Url="html/d264dae5-b2b3-9b1a-6f01-407c24715795.htm" />
   <HelpKINode Title="Extent プロパティ">
@@ -2346,6 +2535,7 @@
   <HelpKINode Title="External 列挙体メンバー" Url="html/96f34e30-2739-6613-2a54-6fc63f405bbc.htm" />
   <HelpKINode Title="ExternalASTSourceMembufferMalloc 列挙体メンバー" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
   <HelpKINode Title="ExternalASTSourceMembufferMMap 列挙体メンバー" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
+  <HelpKINode Title="ExtVector 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
   <HelpKINode Title="Failure 列挙体メンバー" Url="html/71ffab7b-c913-f2ff-b71f-1fc0bf4e2a1a.htm" />
   <HelpKINode Title="Fatal 列挙体メンバー" Url="html/1b6aeb84-ff73-6285-d1fe-ddd2416e673a.htm" />
   <HelpKINode Title="Field 列挙体メンバー" Url="html/ed31d8e1-e2f9-2b4e-5204-29a4f56ef0de.htm" />
@@ -2378,14 +2568,14 @@
   <HelpKINode Title="FileManager.AnalyseEncoding メソッド" Url="html/afee656f-91dc-0cdb-5fb2-4c2aef5a7dc7.htm" />
   <HelpKINode Title="FileName フィールド" Url="html/5601f043-98b5-8492-7c91-9cfd2ba9f3c2.htm" />
   <HelpKINode Title="Filename フィールド" Url="html/3be8c6cf-c0c3-18f9-d6d6-c3289753299d.htm" />
-  <HelpKINode Title="FileName プロパティ">
-    <HelpKINode Title="ClangFile.FileName プロパティ " Url="html/8d4bf103-80c9-2938-c4da-9fe17a405208.htm" />
-    <HelpKINode Title="ClangLogicalLocation.FileName プロパティ " Url="html/d52d4720-d282-30dc-db7e-fc86b3547bc8.htm" />
-    <HelpKINode Title="ClangUnsavedFile.FileName プロパティ " Url="html/919bb957-3f97-f59b-1b94-38b5427c689c.htm" />
-  </HelpKINode>
   <HelpKINode Title="Filename プロパティ">
     <HelpKINode Title="ClangCompileCommand.Filename プロパティ " Url="html/0c466a1d-ad13-d4c5-2c07-1ccbe12e7b7e.htm" />
     <HelpKINode Title="ClangIndexIncludedFileInfo.Filename プロパティ " Url="html/b31bf65c-823c-0445-d925-8a5d2af82109.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileName プロパティ">
+    <HelpKINode Title="ClangUnsavedFile.FileName プロパティ " Url="html/919bb957-3f97-f59b-1b94-38b5427c689c.htm" />
+    <HelpKINode Title="ClangFile.FileName プロパティ " Url="html/8d4bf103-80c9-2938-c4da-9fe17a405208.htm" />
+    <HelpKINode Title="ClangLogicalLocation.FileName プロパティ " Url="html/d52d4720-d282-30dc-db7e-fc86b3547bc8.htm" />
   </HelpKINode>
   <HelpKINode Title="FileTime プロパティ" Url="html/94136457-fa59-55bb-c688-69aa45a77bbf.htm" />
   <HelpKINode Title="FileUniqueId プロパティ" Url="html/60fcb6ba-19cb-9248-afed-cb5de8da1379.htm" />
@@ -2425,11 +2615,20 @@
   <HelpKINode Title="FullyQualifiedName 列挙体メンバー" Url="html/5e60d057-b142-d60e-39d9-24af6fa66c4c.htm" />
   <HelpKINode Title="Function 列挙体メンバー" Url="html/ed31d8e1-e2f9-2b4e-5204-29a4f56ef0de.htm" />
   <HelpKINode Title="FunctionDeclaration 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="FunctionInfo クラス" Url="html/d5fe88df-134a-4b77-5507-7f5a7957e979.htm" />
+  <HelpKINode Title="FunctionInfo クラス、コンストラクター" Url="html/f5885c52-e75b-d8a2-8cf4-4ff94408b83d.htm" />
+  <HelpKINode Title="FunctionInfo クラス、プロパティ" Url="html/0b878dbb-b187-262f-97c5-284e9f59ccc8.htm" />
+  <HelpKINode Title="FunctionInfo クラス、メソッド" Url="html/08333e28-cd71-8d43-efdd-776a1216e8b2.htm" />
+  <HelpKINode Title="FunctionInfo.FunctionInfo コンストラクター" Url="html/f5885c52-e75b-d8a2-8cf4-4ff94408b83d.htm" />
+  <HelpKINode Title="FunctionInfo.GetDefinition メソッド" Url="html/ae1b61c6-a070-5735-e922-fa5e5c3da79f.htm" />
+  <HelpKINode Title="FunctionInfo.ReturnType プロパティ" Url="html/3783cb2a-2ebd-3113-f8c2-cb48da23238f.htm" />
+  <HelpKINode Title="FunctionInfo.ToString メソッド" Url="html/f3e535f7-d7b8-83bf-bac8-aee1d42abed6.htm" />
   <HelpKINode Title="FunctionNoProto 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
   <HelpKINode Title="FunctionProto 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
   <HelpKINode Title="FunctionTemplate 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="FunctionTypeCallingConvention プロパティ" Url="html/f90df4ef-62fe-92de-b773-a112b30dc4cd.htm" />
   <HelpKINode Title="GCCAsmStatement 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="GenerateBehaviorID メソッド" Url="html/a82c84a6-4839-8065-f510-b590e6902492.htm" />
   <HelpKINode Title="GenericSelectionExpression 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="Get メソッド" Url="html/084f1b51-87f5-5e09-458b-7ff9081b78ae.htm" />
   <HelpKINode Title="GetAllSkippedRanges メソッド" Url="html/29befdc5-e276-aae8-d9a9-4268b12cd7c0.htm" />
@@ -2452,6 +2651,13 @@
   <HelpKINode Title="GetCursorReferenceNameRange メソッド" Url="html/df7478d0-0a7a-bca8-6c95-bdbae9da5b25.htm" />
   <HelpKINode Title="GetDefaultCodeCompleteOptions メソッド" Url="html/33e83001-ac00-93e4-92a9-31dfe12b31f4.htm" />
   <HelpKINode Title="GetDefaultDiagnosticDisplayOptions メソッド" Url="html/c6b6f11e-1b9f-d9dd-d377-99ef6cf21422.htm" />
+  <HelpKINode Title="GetDefinition メソッド">
+    <HelpKINode Title="BehaviorInfo.GetDefinition メソッド " Url="html/47ed3976-6abc-4fc8-c7cf-7565749b9a6c.htm" />
+    <HelpKINode Title="ConstructorInfo.GetDefinition メソッド " Url="html/cb3937e8-5d3e-80da-b9fc-cc82ef97c94f.htm" />
+    <HelpKINode Title="CppMethodInfo.GetDefinition メソッド " Url="html/f765117b-8cdf-1a33-587b-20e69876f7db.htm" />
+    <HelpKINode Title="DestructorInfo.GetDefinition メソッド " Url="html/229a5dda-69a9-ad22-e56a-4abb2b0b0f48.htm" />
+    <HelpKINode Title="FunctionInfo.GetDefinition メソッド " Url="html/ae1b61c6-a070-5735-e922-fa5e5c3da79f.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetDefinitionSpellingAndExtent メソッド" Url="html/e55a2250-c841-326e-d75d-98637b7ad6b8.htm" />
   <HelpKINode Title="GetDiagnostic メソッド">
     <HelpKINode Title="ClangCodeCompleteResults.GetDiagnostic メソッド " Url="html/e941184f-703b-207a-a56d-5a9df695f9e4.htm" />
@@ -2469,6 +2675,7 @@
     <HelpKINode Title="ClangSourceRange.GetHashCode メソッド " Url="html/8f4de145-de69-ecff-1e77-00b35867d5d4.htm" />
     <HelpKINode Title="ClangTranslationUnit.GetHashCode メソッド " Url="html/ed4ae98f-5f10-df3f-7bd1-318ae500ed70.htm" />
     <HelpKINode Title="ClangValueObject(T).GetHashCode メソッド " Url="html/5375c49c-b686-b133-f272-8fbe1802151a.htm" />
+    <HelpKINode Title="ValueObject(T).GetHashCode メソッド " Url="html/cd822819-b509-e7ec-7ec9-d5b76e984c9b.htm" />
   </HelpKINode>
   <HelpKINode Title="GetHashCodeCore メソッド">
     <HelpKINode Title="ClangCursor.GetHashCodeCore メソッド " Url="html/5658bc80-b02b-be4e-83a3-93eb88906f84.htm" />
@@ -2476,14 +2683,23 @@
     <HelpKINode Title="ClangType.GetHashCodeCore メソッド " Url="html/0e298343-97b2-f59b-bf29-64d2c9f73931.htm" />
     <HelpKINode Title="ClangValueObject(T).GetHashCodeCore メソッド " Url="html/ce605d7c-2068-f6bc-3127-f4d9a8bdf857.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetHashCodeParameters メソッド">
+    <HelpKINode Title="BehaviorCrossReferenceInfo.GetHashCodeParameters メソッド " Url="html/f8a41f51-ab73-56b0-2c59-636aa966d25b.htm" />
+    <HelpKINode Title="ValueObject(T).GetHashCodeParameters メソッド " Url="html/833c0df0-bd9e-2e23-bee1-7fedf5f0be5a.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetHtmlStartTagAttributeName メソッド" Url="html/e4107762-6eba-d399-0bd4-b17e7c929bdf.htm" />
   <HelpKINode Title="GetHtmlStartTagAttributeValue メソッド" Url="html/8a9664f8-e4af-6639-39a3-cf5f2bd69cf7.htm" />
-  <HelpKINode Title="GetInclusions メソッド" Url="html/e77b60ff-88ce-6f5a-a8e6-0ec1cb1d7940.htm" />
+  <HelpKINode Title="GetInclusions(Of T) メソッド" Url="html/df2f8b5f-7339-b8fe-728d-bfd48fc46668.htm" />
+  <HelpKINode Title="GetInclusions&lt;T&gt; メソッド" Url="html/df2f8b5f-7339-b8fe-728d-bfd48fc46668.htm" />
   <HelpKINode Title="GetInlineCommandArgumentText メソッド" Url="html/8bba1afb-ff0d-8364-6235-56e4378a9e46.htm" />
-  <HelpKINode Title="GetLocation メソッド" Url="html/7af6fe6c-548e-e1e4-a1e6-db4b3c2f99a4.htm" />
+  <HelpKINode Title="GetLocation メソッド">
+    <HelpKINode Title="AstNodeInfo.GetLocation メソッド " Url="html/912dd05e-691b-a2ee-ec86-dc34591c492d.htm" />
+    <HelpKINode Title="ClangTranslationUnit.GetLocation メソッド " Url="html/7af6fe6c-548e-e1e4-a1e6-db4b3c2f99a4.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetMappedSourceContent メソッド" Url="html/657bec0f-a619-e1d7-9645-b9f82a3678d3.htm" />
   <HelpKINode Title="GetMappedSourcePath メソッド" Url="html/68e77eb4-4363-bbf5-25fd-7c5f5ae3976d.htm" />
   <HelpKINode Title="GetModuleForFile メソッド" Url="html/1fd39f1a-865d-cab4-6ffe-9859be81d693.htm" />
+  <HelpKINode Title="GetNamespace メソッド" Url="html/089a6058-65a7-05c5-4fb0-40045569140a.htm" />
   <HelpKINode Title="GetNullCursor メソッド" Url="html/796332db-a403-0d22-de2b-495c32e5c578.htm" />
   <HelpKINode Title="GetNullLocation メソッド" Url="html/7cbe0708-6060-77c1-9925-d4306b203b6f.htm" />
   <HelpKINode Title="GetNullRange メソッド" Url="html/3a99c586-d317-40f0-ff22-6af8d0058a90.htm" />
@@ -2539,10 +2755,16 @@
   <HelpKINode Title="IBOutletCollectionAttribute プロパティ" Url="html/1d43336f-9da6-28f5-08e6-028656bb397b.htm" />
   <HelpKINode Title="IBOutletCollectionAttribute 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="IBOutletCollectionType プロパティ" Url="html/8def784e-27cc-db2e-ee32-f8cdaddb6945.htm" />
+  <HelpKINode Title="ID プロパティ">
+    <HelpKINode Title="BehaviorCrossReferenceInfo.ID プロパティ " Url="html/6fa41da4-4c00-2c68-7083-e5266afaa9f3.htm" />
+    <HelpKINode Title="BehaviorInfo.ID プロパティ " Url="html/0c5654dd-56d2-9179-1d9d-02d30aba5f87.htm" />
+    <HelpKINode Title="InvokationInfo.ID プロパティ " Url="html/180b0368-b26c-853e-d60a-81c5460aadff.htm" />
+  </HelpKINode>
   <HelpKINode Title="Identifier 列挙体メンバー" Url="html/469a7a46-1f39-fea1-a546-0ba9a648a36b.htm" />
   <HelpKINode Title="Identifiers 列挙体メンバー" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
   <HelpKINode Title="IfStatement 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="Ignored 列挙体メンバー" Url="html/1b6aeb84-ff73-6285-d1fe-ddd2416e673a.htm" />
+  <HelpKINode Title="IgnoreNonErrorsFromIncludedFiles 列挙体メンバー" Url="html/3fdff3be-dcdc-495a-d888-7e7260f3bd39.htm" />
   <HelpKINode Title="ILogger インターフェイス" Url="html/1fb991c8-083b-d69a-c2a7-f656bb1dd81b.htm" />
   <HelpKINode Title="ILogger インターフェイス、メソッド" Url="html/93872ea5-2b13-80e3-3d30-24981bec70bf.htm" />
   <HelpKINode Title="ILogger.Error メソッド" Url="html/35c14fb3-94fa-d2e9-92e4-0580f80a18ba.htm" />
@@ -2631,6 +2853,7 @@
     <HelpKINode Title="ClangSourceLocation.Inequality 演算子 " Url="html/1ccfb656-9e9d-c7e5-b300-a4de97655e4c.htm" />
     <HelpKINode Title="ClangSourceRange.Inequality 演算子 " Url="html/cf8f355e-2b09-09c9-8cb8-985b18d7ffc8.htm" />
     <HelpKINode Title="ClangValueObject(T).Inequality 演算子 " Url="html/85c21d36-c5d3-1b02-8be5-c1d6ae3740d8.htm" />
+    <HelpKINode Title="ValueObject(T).Inequality 演算子 " Url="html/6c215984-5ad3-f919-44ba-46a214ace6d2.htm" />
   </HelpKINode>
   <HelpKINode Title="Info プロパティ">
     <HelpKINode Title="ClangIndexAttributeInfo.Info プロパティ " Url="html/35c03a96-d0bc-7a2d-b55b-ae90dcec9da7.htm" />
@@ -2722,10 +2945,35 @@
   </HelpKINode>
   <HelpKINode Title="InvalidTU 列挙体メンバー" Url="html/93b07cb2-948c-aa87-f4b5-4c4c7b6d60ba.htm" />
   <HelpKINode Title="InvocationEmissionPathOption プロパティ" Url="html/3c6b1280-536b-423c-fa82-75d11c0c7c6d.htm" />
+  <HelpKINode Title="InvokationInfo クラス" Url="html/cb90183e-c7f2-d414-cdc8-ee5533603d94.htm" />
+  <HelpKINode Title="InvokationInfo クラス、コンストラクター" Url="html/d97fae57-f33a-c5fb-3432-e3b4c1d1cc77.htm" />
+  <HelpKINode Title="InvokationInfo クラス、プロパティ" Url="html/49eac292-b6b6-7669-19ba-c6fe19deb49b.htm" />
+  <HelpKINode Title="InvokationInfo クラス、メソッド" Url="html/7b244f36-0e0e-f76e-5ea0-07455f4cf362.htm" />
+  <HelpKINode Title="InvokationInfo.Declaration プロパティ" Url="html/b6a8502c-c435-e78d-1b49-83dcbb337aa3.htm" />
+  <HelpKINode Title="InvokationInfo.ID プロパティ" Url="html/180b0368-b26c-853e-d60a-81c5460aadff.htm" />
+  <HelpKINode Title="InvokationInfo.InvokationInfo コンストラクター" Url="html/d97fae57-f33a-c5fb-3432-e3b4c1d1cc77.htm" />
+  <HelpKINode Title="InvokationInfo.Name プロパティ" Url="html/439b4a2e-88ad-a244-9809-36d2f9471ffb.htm" />
+  <HelpKINode Title="InvokationInfo.ToString メソッド" Url="html/c6d1ced0-e03f-7d78-542f-38571402cefa.htm" />
+  <HelpKINode Title="Invokations プロパティ" Url="html/4782e65b-8028-e86d-4196-78adffccda82.htm" />
+  <HelpKINode Title="InvokationTreeDumper クラス" Url="html/e4b4cf52-3847-7ca1-4968-510c64db8bfa.htm" />
+  <HelpKINode Title="InvokationTreeDumper クラス、メソッド" Url="html/f5d5444e-9537-828e-0fdd-b420093f913c.htm" />
+  <HelpKINode Title="InvokationTreeDumper.Dump メソッド" Url="html/59dc890d-dd5b-4271-3d63-d9ac58d3e14a.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl クラス" Url="html/757e3113-b2e8-097f-0c9c-916a92080e08.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl クラス、コンストラクター" Url="html/ce7dddd2-657d-7ea3-de58-ebad9d1ae2f2.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.BehaviorDefinitionMap プロパティ" Url="html/516c804d-c9d1-e6f6-1c6e-ce229f3779ed.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.CreateBehaviorDefinitionMap メソッド" Url="html/7eac71a5-8ecb-7b05-d67d-01600cd3c6bc.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.DumpInvokationTree メソッド" Url="html/da807aab-1e77-7dc1-332f-c70cdc912d92.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.DumpInvokationTrees メソッド" Url="html/3fa807eb-7f7c-cf5a-b7cb-aaf910613c3b.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.Execute メソッド" Url="html/a2cb53c9-5ed0-be51-8e72-785cab9037c1.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.InvokationTreeDumperImpl コンストラクター" Url="html/ce7dddd2-657d-7ea3-de58-ebad9d1ae2f2.htm" />
+  <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.TranslationUnitMap プロパティ" Url="html/009e0af8-3a83-a1da-b6c2-a3a28737f0c7.htm" />
+  <HelpKINode Title="InvokationTreeDumperImpl クラス、プロパティ" Url="html/c7133cda-94ca-38b8-7069-6291f07e0b39.htm" />
+  <HelpKINode Title="InvokationTreeDumperImpl クラス、メソッド" Url="html/83551c45-45e7-fd13-f828-54b0ed976094.htm" />
   <HelpKINode Title="IsAbstractRecord プロパティ" Url="html/e84e0c58-4bf8-cd65-a10d-e217432be1de.htm" />
   <HelpKINode Title="IsAngled フィールド" Url="html/6b2f1655-ae8d-c96b-d03c-6495ae66a091.htm" />
   <HelpKINode Title="IsAngled プロパティ" Url="html/d4c5a206-305f-c712-f30f-7832ef76cdb0.htm" />
   <HelpKINode Title="IsAnonymous プロパティ" Url="html/514d9024-579b-2772-918e-37eea59eed41.htm" />
+  <HelpKINode Title="IsAnonymousRecordDecl プロパティ" Url="html/bab4f0e5-3072-bfea-c19d-31edd782ec60.htm" />
   <HelpKINode Title="IsAttribute メソッド" Url="html/860cfc9b-f373-7693-b9c0-d9e62dcfb7d7.htm" />
   <HelpKINode Title="IsBitField プロパティ" Url="html/1a98ee1d-5e20-dd83-1ddf-0c96ba0fb24a.htm" />
   <HelpKINode Title="IsConstMethod プロパティ" Url="html/a32c0c04-b2fe-685f-3308-2c0bcf4379bb.htm" />
@@ -2761,6 +3009,7 @@
   </HelpKINode>
   <HelpKINode Title="IsImport フィールド" Url="html/4ecbba37-c8e6-375e-b162-6834e45d55b7.htm" />
   <HelpKINode Title="IsImport プロパティ" Url="html/62a8102a-ced1-e849-68d1-81ec792e4a61.htm" />
+  <HelpKINode Title="IsInlineNamespace プロパティ" Url="html/778b6419-c8bf-02ea-81a1-53f12b1e5055.htm" />
   <HelpKINode Title="IsInSystemHeader プロパティ" Url="html/6313ee56-1af9-9922-d16d-5895fc8c09a0.htm" />
   <HelpKINode Title="IsInvalid メソッド" Url="html/88012b72-9f1b-179e-a9cf-a142de24c301.htm" />
   <HelpKINode Title="IsInvalidDeclaration プロパティ" Url="html/44de2048-7c77-f11c-8a55-3e45e1597838.htm" />
@@ -2929,9 +3178,14 @@
   <HelpKINode Title="LibClang.clang_Cursor_getTranslationUnit メソッド" Url="html/d764aa71-444b-7079-fdf9-b8669aabe5e8.htm" />
   <HelpKINode Title="LibClang.clang_Cursor_hasAttrs メソッド" Url="html/50b23286-ad87-6c5a-2ba4-511cd91494f0.htm" />
   <HelpKINode Title="LibClang.clang_Cursor_isAnonymous メソッド" Url="html/39d6123e-108d-c5b4-749c-5cc731f00ddd.htm" />
+  <HelpKINode Title="LibClang.clang_Cursor_isAnonymousRecordDecl メソッド" Url="html/ccbdc366-c624-66bd-1b5d-1719ac98be6f.htm" />
   <HelpKINode Title="LibClang.clang_Cursor_isBitField メソッド" Url="html/7b092d79-17b6-6b1b-d94a-a5e300601742.htm" />
   <HelpKINode Title="LibClang.clang_Cursor_isDynamicCall メソッド" Url="html/df2a25d5-cc63-9898-2872-c5c1ba083e4c.htm" />
   <HelpKINode Title="LibClang.clang_Cursor_isExternalSymbol メソッド" Url="html/d3539e5e-4694-87c1-4534-cc2bb73aec4f.htm" />
+  <HelpKINode Title="LibClang.clang_Cursor_isFunctionInlined メソッド" Url="html/cadf6602-fe44-5fa9-ee37-2431124694cd.htm" />
+  <HelpKINode Title="LibClang.clang_Cursor_isInlineNamespace メソッド" Url="html/30f142c0-0436-c9a2-ef07-f80d9e98088b.htm" />
+  <HelpKINode Title="LibClang.clang_Cursor_isMacroBuiltin メソッド" Url="html/d74df623-1b84-c02c-30d9-ec4c19e9d6e4.htm" />
+  <HelpKINode Title="LibClang.clang_Cursor_isMacroFunctionLike メソッド" Url="html/171c57fc-5e15-daa0-f33c-60ec72bad242.htm" />
   <HelpKINode Title="LibClang.clang_Cursor_isNull メソッド" Url="html/3c237a9a-a445-1de7-461b-b2f730aa23fd.htm" />
   <HelpKINode Title="LibClang.clang_Cursor_isObjCOptional メソッド" Url="html/9a2c74a1-60f2-5e98-4e63-8c62ecd911ad.htm" />
   <HelpKINode Title="LibClang.clang_Cursor_isVariadic メソッド" Url="html/eb8d23a5-d1a9-8322-910c-5f6234b40ad0.htm" />
@@ -3041,7 +3295,6 @@
   <HelpKINode Title="LibClang.clang_getCursorVisibility メソッド" Url="html/2b94364b-3437-cf0f-c1b8-7a871ed1162b.htm" />
   <HelpKINode Title="LibClang.clang_getCXTUResourceUsage メソッド" Url="html/b9d87f23-726b-efd9-f65a-121f38264a40.htm" />
   <HelpKINode Title="LibClang.clang_getCXXAccessSpecifier メソッド" Url="html/1b1b9c8d-434b-cd10-9d22-04e9417e63a2.htm" />
-  <HelpKINode Title="LibClang.clang_getDeclObjCEncoding メソッド" Url="html/906ae883-96cd-9e57-cdc9-c70254ada705.htm" />
   <HelpKINode Title="LibClang.clang_getDeclObjCTypeEncoding メソッド" Url="html/62bb2a3f-335a-041f-2ca3-f52da3256a4e.htm" />
   <HelpKINode Title="LibClang.clang_getDefinitionSpellingAndExtent メソッド" Url="html/35b1996b-fe51-7146-311d-7100d528a4da.htm" />
   <HelpKINode Title="LibClang.clang_getDiagnostic メソッド" Url="html/40875a5c-05ac-f388-84d9-cc4b3488d626.htm" />
@@ -3078,7 +3331,6 @@
   <HelpKINode Title="LibClang.clang_getInstantiationLocation メソッド" Url="html/ac3281a6-f695-294b-4e7a-7df367b1ae8e.htm" />
   <HelpKINode Title="LibClang.clang_getLocation メソッド" Url="html/0c63a80c-ccdd-f09e-72c0-22992bd569c3.htm" />
   <HelpKINode Title="LibClang.clang_getLocationForOffset メソッド" Url="html/3a0eff0e-4157-5784-159a-e45b04f803b4.htm" />
-  <HelpKINode Title="LibClang.clang_getNamedType メソッド" Url="html/67184c30-26da-3197-ae45-638c923b1645.htm" />
   <HelpKINode Title="LibClang.clang_getNullCursor メソッド" Url="html/2dec26fb-ebdd-7d38-1906-b77011e50da5.htm" />
   <HelpKINode Title="LibClang.clang_getNullLocation メソッド" Url="html/17b2e5d3-9b1e-8857-bb91-2d3445482e58.htm" />
   <HelpKINode Title="LibClang.clang_getNullRange メソッド" Url="html/5b85e87a-7fd6-4665-6149-0d1be865e119.htm" />
@@ -3153,12 +3405,9 @@
   <HelpKINode Title="LibClang.clang_isDeclaration メソッド" Url="html/7be527e5-18fb-62bd-2946-5487f4a9b633.htm" />
   <HelpKINode Title="LibClang.clang_isExpression メソッド" Url="html/672537ad-0b38-f681-236a-9eca3ddf2c4f.htm" />
   <HelpKINode Title="LibClang.clang_isFileMultipleIncludeGuarded メソッド" Url="html/524f9ccd-3e0a-41ff-a30c-2c75936e33cb.htm" />
-  <HelpKINode Title="LibClang.clang_isFunctionInlined メソッド" Url="html/4dd93f22-a0f3-99ab-f300-f5814cd87492.htm" />
   <HelpKINode Title="LibClang.clang_isFunctionTypeVariadic メソッド" Url="html/4eb6a476-353b-cd66-b746-c65a11f769ff.htm" />
   <HelpKINode Title="LibClang.clang_isInvalid メソッド" Url="html/35371497-fb2f-ce6c-9958-cc33f3469be7.htm" />
   <HelpKINode Title="LibClang.clang_isInvalidDeclaration メソッド" Url="html/4422b1a0-5697-bf66-f87d-88d857d4053e.htm" />
-  <HelpKINode Title="LibClang.clang_isMacroBuiltin メソッド" Url="html/eed68fcf-1a2a-beb7-71da-f85a1a456442.htm" />
-  <HelpKINode Title="LibClang.clang_isMacroFunctionLike メソッド" Url="html/8c2e1738-c230-47b6-82c4-e5aef79bee6d.htm" />
   <HelpKINode Title="LibClang.clang_isPODType メソッド" Url="html/cc9fe1ed-496a-c0e3-a68d-dd7eeca9775d.htm" />
   <HelpKINode Title="LibClang.clang_isPreprocessing メソッド" Url="html/f737334f-b740-48b9-f9f0-4d13df16390c.htm" />
   <HelpKINode Title="LibClang.clang_isReference メソッド" Url="html/5cde8c7a-934c-1aa1-e023-03d75d06d0e5.htm" />
@@ -3216,10 +3465,12 @@
   <HelpKINode Title="LibClang.clang_Type_getClassType メソッド" Url="html/78836480-936a-7a9b-e640-14b45b8dee78.htm" />
   <HelpKINode Title="LibClang.clang_Type_getCXXRefQualifier メソッド" Url="html/220d5550-3300-4680-2d78-50e96d165553.htm" />
   <HelpKINode Title="LibClang.clang_Type_getModifiedType メソッド" Url="html/6afc9c70-81b1-c0ef-ec77-23db246b0ad0.htm" />
+  <HelpKINode Title="LibClang.clang_Type_getNamedType メソッド" Url="html/d1a3aeef-4996-3cbf-0888-2078c860ed98.htm" />
   <HelpKINode Title="LibClang.clang_Type_getNullability メソッド" Url="html/29b2a3b9-f400-b13d-d691-d7e086bcbc31.htm" />
   <HelpKINode Title="LibClang.clang_Type_getNumObjCProtocolRefs メソッド" Url="html/ab7f1247-15a9-c3e5-b417-b9fbaef87695.htm" />
   <HelpKINode Title="LibClang.clang_Type_getNumObjCTypeArgs メソッド" Url="html/dbc9eb3b-4826-5a23-c241-933000b87d5a.htm" />
   <HelpKINode Title="LibClang.clang_Type_getNumTemplateArguments メソッド" Url="html/0fa6fc74-9ee1-9c1d-3ff2-9e7c275502dc.htm" />
+  <HelpKINode Title="LibClang.clang_Type_getObjCEncoding メソッド" Url="html/fbc70420-9ee1-fac4-fbe9-2f984d84bca0.htm" />
   <HelpKINode Title="LibClang.clang_Type_getObjCObjectBaseType メソッド" Url="html/a0b5633e-148d-9ffc-4fbe-966b40272b72.htm" />
   <HelpKINode Title="LibClang.clang_Type_getObjCProtocolDecl メソッド" Url="html/d538b93f-524b-6c77-b546-2bc626128226.htm" />
   <HelpKINode Title="LibClang.clang_Type_getObjCTypeArg メソッド" Url="html/cc03d695-88fe-1c9b-c2c9-5ca57b8eb0af.htm" />
@@ -3257,6 +3508,8 @@
     <HelpKINode Title="CXIdxObjCProtocolRefInfo.Loc フィールド" Url="html/159ab9f4-4d90-3e0f-8c1b-13270d9b4ef8.htm" />
   </HelpKINode>
   <HelpKINode Title="Location プロパティ">
+    <HelpKINode Title="AstNodeInfo.Location プロパティ " Url="html/d5578d07-57bd-e612-0c6c-ebdb618e8d57.htm" />
+    <HelpKINode Title="BehaviorCrossReferenceInfo.Location プロパティ " Url="html/6af0a6d2-3b1e-898f-8a1a-1a309c3d4c1c.htm" />
     <HelpKINode Title="ClangCursor.Location プロパティ " Url="html/ea05e7b9-8334-547b-4022-c03ef75584b3.htm" />
     <HelpKINode Title="ClangDiagnostic.Location プロパティ " Url="html/eb7e4394-4723-8165-2eb4-7bd96cf88bf5.htm" />
     <HelpKINode Title="ClangIndexAttributeInfo.Location プロパティ " Url="html/7f65a395-9d6a-c579-8aae-542d4398956d.htm" />
@@ -3327,12 +3580,15 @@
   <HelpKINode Title="MSWChar 列挙体メンバー" Url="html/5e60d057-b142-d60e-39d9-24af6fa66c4c.htm" />
   <HelpKINode Title="Name フィールド" Url="html/33e76002-9c28-9b96-57cc-b58529a9c48d.htm" />
   <HelpKINode Title="Name プロパティ">
+    <HelpKINode Title="BehaviorInfo.Name プロパティ " Url="html/9113a7ce-dd10-26d1-2270-3dba4a4e78f5.htm" />
     <HelpKINode Title="ClangDiagnosticCategory.Name プロパティ " Url="html/c5319ddc-f18b-d7ef-b3bd-e1bcf679ddb3.htm" />
     <HelpKINode Title="ClangIndexEntityInfo.Name プロパティ " Url="html/1ecd4d09-b927-0e2c-f5d1-3de7ba40eeef.htm" />
     <HelpKINode Title="ClangModule.Name プロパティ " Url="html/451b039e-8b87-9e38-de0c-24ed625b9365.htm" />
+    <HelpKINode Title="InvokationInfo.Name プロパティ " Url="html/439b4a2e-88ad-a244-9809-36d2f9471ffb.htm" />
   </HelpKINode>
   <HelpKINode Title="NamedType プロパティ" Url="html/de7cd389-2a27-8f43-5005-73f8b4af8d25.htm" />
   <HelpKINode Title="NameRefFlags 列挙体" Url="html/e8bcee88-58b9-4328-1b7e-43e6cbcc6149.htm" />
+  <HelpKINode Title="NameSpace プロパティ" Url="html/a1f3d28b-7665-3056-ff4a-749fa82aa6ab.htm" />
   <HelpKINode Title="Namespace 列挙体メンバー">
     <HelpKINode Title="CompletionContext 列挙体" Url="html/33d54941-a6af-3bad-38aa-392a924fefb2.htm" />
     <HelpKINode Title="CursorKind 列挙体" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
@@ -3373,6 +3629,7 @@
   <HelpKINode Title="NotAvailable 列挙体メンバー" Url="html/a1055777-3dbe-876b-a014-e11cb5fbbfda.htm" />
   <HelpKINode Title="NotConstantSize 列挙体メンバー" Url="html/220bb168-afb2-1872-c3e2-6f85721f03b2.htm" />
   <HelpKINode Title="Note 列挙体メンバー" Url="html/1b6aeb84-ff73-6285-d1fe-ddd2416e673a.htm" />
+  <HelpKINode Title="NoThrow 列挙体メンバー" Url="html/7718f6c6-9dbd-75fe-7b83-dd57f561326b.htm" />
   <HelpKINode Title="NotImplemented 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="NSConsumed 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="NSConsumesSelf 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
@@ -3631,6 +3888,7 @@
   <HelpKINode Title="ParamCommandDirection プロパティ" Url="html/094b910f-2ab5-ef5c-b403-a6a6d9025a4d.htm" />
   <HelpKINode Title="ParamCommandParamIndex プロパティ" Url="html/959d8610-a4d5-28c7-58e0-0127778fc61c.htm" />
   <HelpKINode Title="ParamCommandParamName プロパティ" Url="html/97ae1679-8ca6-b882-071f-a56a1656da7c.htm" />
+  <HelpKINode Title="Parameters プロパティ" Url="html/83515a05-463b-024d-f52c-9ff01ec0455c.htm" />
   <HelpKINode Title="ParenExpression 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="Parent プロパティ">
     <HelpKINode Title="ClangCompletionString.Parent プロパティ " Url="html/4b118de5-804a-2429-9337-d4a7b2bb069d.htm" />
@@ -3639,10 +3897,16 @@
   <HelpKINode Title="ParentEntity フィールド" Url="html/29fa176b-305e-4c4c-a439-f39d5f3d8f12.htm" />
   <HelpKINode Title="ParentEntity プロパティ" Url="html/0a2b751b-8853-981b-0d4c-9503057a1688.htm" />
   <HelpKINode Title="ParmDeclaration 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="Parse メソッド" Url="html/77b5ca92-e8ef-c81c-c5ea-be95970129a8.htm" />
   <HelpKINode Title="ParsedComment プロパティ" Url="html/f2a712a1-fe8f-9923-59d0-e0154c5db93c.htm" />
-  <HelpKINode Title="ParseOptions プロパティ" Url="html/d1f66f23-ae9c-b0c2-e987-0baf89f71f84.htm" />
+  <HelpKINode Title="ParseNamespace メソッド" Url="html/2cc47abd-c1e9-696c-340e-c24586d81d8b.htm" />
+  <HelpKINode Title="ParseOptions プロパティ">
+    <HelpKINode Title="ATranslationUnitHandler.ParseOptions プロパティ " Url="html/d1f66f23-ae9c-b0c2-e987-0baf89f71f84.htm" />
+    <HelpKINode Title="TranslationUnitParseSetting.ParseOptions プロパティ " Url="html/af090c2d-648a-a35e-a45b-551dbee649e1.htm" />
+  </HelpKINode>
   <HelpKINode Title="ParseTranslationUnit メソッド" Url="html/7d84fa7e-db71-25cd-3596-3cadd74b5c4c.htm" />
   <HelpKINode Title="ParseTranslationUnitFullArgv メソッド" Url="html/bfbea4a2-3aa8-fa7e-9e8f-7696ca364cef.htm" />
+  <HelpKINode Title="Path プロパティ" Url="html/2589bf00-0005-6a07-95d3-1b83d0681ab6.htm" />
   <HelpKINode Title="Pipe 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
   <HelpKINode Title="Placeholder 列挙体メンバー" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
   <HelpKINode Title="Platform フィールド" Url="html/45cc507b-e967-807d-97c9-bfd6d4e98e0a.htm" />
@@ -3675,8 +3939,10 @@
   <HelpKINode Title="Program.ProgramImpl クラス" Url="html/e978f775-d451-8a21-b29e-3f42c5d3123b.htm" />
   <HelpKINode Title="Program.ProgramImpl クラス、コンストラクター" Url="html/6df9fdb6-d792-9abb-ced8-61a386a7fc0d.htm" />
   <HelpKINode Title="Program.ProgramImpl.CreateLogger メソッド" Url="html/8564f62c-5f49-7a7f-997b-69d3c783414e.htm" />
-  <HelpKINode Title="Program.ProgramImpl.CreateParameters メソッド" Url="html/30f1d100-1320-d939-3621-11aeebdb7962.htm" />
+  <HelpKINode Title="Program.ProgramImpl.CreateTranslationUnitHandlerParameters メソッド" Url="html/36cd258c-f195-a2ae-56e5-06a62dcd3e6e.htm" />
   <HelpKINode Title="Program.ProgramImpl.Execute メソッド" Url="html/0343a814-4223-0c4f-c75a-085e20c7e726.htm" />
+  <HelpKINode Title="Program.ProgramImpl.ExecuteBehaviorRelationsAnalysis メソッド" Url="html/367d96be-56f6-c2ef-9b39-54f8b8d2bad1.htm" />
+  <HelpKINode Title="Program.ProgramImpl.ExecuteTranslationUnitHandlingTest メソッド" Url="html/e887e95a-d53c-9ad2-fb6e-bcabccd613bc.htm" />
   <HelpKINode Title="Program.ProgramImpl.InitializeMessenger メソッド" Url="html/d2222084-18d0-fa6a-0e5f-3ce5e366c592.htm" />
   <HelpKINode Title="Program.ProgramImpl.ProgramImpl コンストラクター" Url="html/6df9fdb6-d792-9abb-ced8-61a386a7fc0d.htm" />
   <HelpKINode Title="ProgramImpl クラス、メソッド" Url="html/ef81b669-3508-5219-5099-815a48b631f0.htm" />
@@ -3746,6 +4012,10 @@
   <HelpKINode Title="ResultType 列挙体メンバー" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
   <HelpKINode Title="Retain 列挙体メンバー" Url="html/c6f90457-9f4b-d1cd-2cfc-2982d916294e.htm" />
   <HelpKINode Title="ReturnStatement 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="ReturnType プロパティ">
+    <HelpKINode Title="CppMethodInfo.ReturnType プロパティ " Url="html/00f89bd0-1593-4122-d3d6-a7de09f87ad9.htm" />
+    <HelpKINode Title="FunctionInfo.ReturnType プロパティ " Url="html/3783cb2a-2ebd-3113-f8c2-cb48da23238f.htm" />
+  </HelpKINode>
   <HelpKINode Title="RightAngle 列挙体メンバー" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
   <HelpKINode Title="RightBrace 列挙体メンバー" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
   <HelpKINode Title="RightBracket 列挙体メンバー" Url="html/4af36095-954c-672c-e446-54744f7dfd1c.htm" />
@@ -3777,6 +4047,7 @@
   <HelpKINode Title="Setter フィールド" Url="html/463fde0f-cac8-ce55-e9db-8b6079c312ae.htm" />
   <HelpKINode Title="Setter プロパティ" Url="html/542a82d9-d817-8445-2fe0-8121c08456a4.htm" />
   <HelpKINode Title="Setter 列挙体メンバー" Url="html/c6f90457-9f4b-d1cd-2cfc-2982d916294e.htm" />
+  <HelpKINode Title="Setting プロパティ" Url="html/b5f68e3f-95ba-4b00-9bdb-ba9ae3fbaa13.htm" />
   <HelpKINode Title="SetUmbrellaHeader メソッド" Url="html/e6e5c6ab-2e46-0bbb-b695-8444edb6b286.htm" />
   <HelpKINode Title="Severity プロパティ" Url="html/c2d15bcc-044c-793f-b83a-9163b0e6b4dd.htm" />
   <HelpKINode Title="Short 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
@@ -3813,6 +4084,7 @@
   <HelpKINode Title="SourceManagerMembufferMalloc 列挙体メンバー" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
   <HelpKINode Title="SourceManagerMembufferMMap 列挙体メンバー" Url="html/5b204579-cb2d-8e16-b946-6861355ee60d.htm" />
   <HelpKINode Title="SourcePath プロパティ" Url="html/1a8eea7e-407f-71b4-3f17-1eadde7dc9af.htm" />
+  <HelpKINode Title="Sources プロパティ" Url="html/095aa605-1010-f2d6-e473-cda3fc9384c0.htm" />
   <HelpKINode Title="SpecializedCursorTemplate プロパティ" Url="html/c61b6ed3-4b75-c516-e8ee-689de3e5c207.htm" />
   <HelpKINode Title="Spelling プロパティ">
     <HelpKINode Title="ClangCursor.Spelling プロパティ " Url="html/28fd957a-1f00-f2b6-cf3b-c760d1a00399.htm" />
@@ -3939,10 +4211,19 @@
   <HelpKINode Title="ToNativeStuct メソッド" Url="html/3e514da0-ec63-ad5a-3b96-c16587273dc5.htm" />
   <HelpKINode Title="ToSpelling メソッド" Url="html/7b5f1325-cb6f-96f5-b2c4-d6a5e3020871.htm" />
   <HelpKINode Title="ToString メソッド">
+    <HelpKINode Title="BehaviorCrossReferenceInfo.ToString メソッド " Url="html/cf3bc8a2-b400-4493-0cd1-055f9cb0c001.htm" />
+    <HelpKINode Title="BehaviorInfo.ToString メソッド " Url="html/f04ad393-c876-36fa-7710-fa1fa8535d58.htm" />
     <HelpKINode Title="ClangFile.ToString メソッド " Url="html/1fc5d8d9-848a-d6c5-1c80-8aec16b01c49.htm" />
     <HelpKINode Title="ClangFileUniqueId.ToString メソッド " Url="html/e478c93d-cd0e-2506-1928-b474595702d5.htm" />
     <HelpKINode Title="ClangLogicalLocation.ToString メソッド " Url="html/27ab90b3-2a8a-7b86-7117-9cfe68609cc2.htm" />
     <HelpKINode Title="ClangPhysicalLocation.ToString メソッド " Url="html/7dec974b-d20f-57ee-a363-96cc8814c81f.htm" />
+    <HelpKINode Title="ClassBehaviorInfo.ToString メソッド " Url="html/89cc953f-aa81-c6f1-0833-596157dc411b.htm" />
+    <HelpKINode Title="ConstructorInfo.ToString メソッド " Url="html/24723696-1014-9621-3108-28a694836a74.htm" />
+    <HelpKINode Title="CppMethodInfo.ToString メソッド " Url="html/c2dff8d2-227e-9a6e-4243-a4a0a184f467.htm" />
+    <HelpKINode Title="DestructorInfo.ToString メソッド " Url="html/c5aff419-3eb4-fcb1-a6a0-15a91d5dbbb4.htm" />
+    <HelpKINode Title="FunctionInfo.ToString メソッド " Url="html/f3e535f7-d7b8-83bf-bac8-aee1d42abed6.htm" />
+    <HelpKINode Title="InvokationInfo.ToString メソッド " Url="html/c6d1ced0-e03f-7d78-542f-38571402cefa.htm" />
+    <HelpKINode Title="TranslationUnitInfo.ToString メソッド " Url="html/c72b0dc8-297a-961e-bdde-5170154c8bc0.htm" />
   </HelpKINode>
   <HelpKINode Title="ToStringEx メソッド" Url="html/3d387744-e85e-7abb-2d11-d47c66b796f5.htm" />
   <HelpKINode Title="ToUInt メソッド" Url="html/3ae3df3c-8812-8e8e-8d29-8cdac10f5aa9.htm" />
@@ -3957,9 +4238,61 @@
   </HelpKINode>
   <HelpKINode Title="TranslationUnit 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="TranslationUnitFlags 列挙体" Url="html/3fdff3be-dcdc-495a-d888-7e7260f3bd39.htm" />
+  <HelpKINode Title="TranslationUnitInfo クラス" Url="html/639d17c4-02cd-936e-c566-672ebd3d932c.htm" />
+  <HelpKINode Title="TranslationUnitInfo クラス、コンストラクター" Url="html/e6177b93-b8ba-3d00-75fe-f49166b515ad.htm" />
+  <HelpKINode Title="TranslationUnitInfo クラス、プロパティ" Url="html/7be1f3da-007f-1420-3fea-bfff379b2ba1.htm" />
+  <HelpKINode Title="TranslationUnitInfo クラス、メソッド" Url="html/9fa81645-4c26-f83b-e903-ff370281c782.htm" />
+  <HelpKINode Title="TranslationUnitInfo.AddBehavior メソッド" Url="html/8ad35692-616c-28ca-9647-90b325d88dc8.htm" />
+  <HelpKINode Title="TranslationUnitInfo.BehaviorMap プロパティ" Url="html/f2aa6c96-2ea4-7d05-e010-ce25270ea63a.htm" />
+  <HelpKINode Title="TranslationUnitInfo.Path プロパティ" Url="html/2589bf00-0005-6a07-95d3-1b83d0681ab6.htm" />
+  <HelpKINode Title="TranslationUnitInfo.ToString メソッド" Url="html/c72b0dc8-297a-961e-bdde-5170154c8bc0.htm" />
+  <HelpKINode Title="TranslationUnitInfo.TranslationUnitInfo コンストラクター" Url="html/e6177b93-b8ba-3d00-75fe-f49166b515ad.htm" />
+  <HelpKINode Title="TranslationUnitMap クラス" Url="html/87a8db23-b480-db12-a0fd-cfec930665b0.htm" />
+  <HelpKINode Title="TranslationUnitMap クラス、コンストラクター" Url="html/970db7d9-b560-238a-5381-56e2367dc0da.htm" />
+  <HelpKINode Title="TranslationUnitMap クラス、プロパティ" Url="html/3178179a-de17-89e4-0d9f-0a50946cbd56.htm" />
+  <HelpKINode Title="TranslationUnitMap クラス、メソッド" Url="html/115c211c-8fea-4588-9316-cb5b22695d1f.htm" />
+  <HelpKINode Title="TranslationUnitMap プロパティ">
+    <HelpKINode Title="CrossReferencesDumper.CrossReferencesDumperImpl.TranslationUnitMap プロパティ " Url="html/5b0775a6-8175-245f-6f70-8ca2350acbe3.htm" />
+    <HelpKINode Title="InvokationTreeDumper.InvokationTreeDumperImpl.TranslationUnitMap プロパティ " Url="html/009e0af8-3a83-a1da-b6c2-a3a28737f0c7.htm" />
+    <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.TranslationUnitMap プロパティ " Url="html/f31493b5-41fa-81e4-eb3b-93274a740175.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TranslationUnitMap.Add メソッド" Url="html/90910d3a-7184-3775-4a38-8c0e8b30e825.htm" />
+  <HelpKINode Title="TranslationUnitMap.TranslationUnitMap コンストラクター" Url="html/970db7d9-b560-238a-5381-56e2367dc0da.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting クラス" Url="html/37517307-e91b-dc24-8858-7b2c98e2ad28.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting クラス、コンストラクター" Url="html/69fd7855-702f-a075-ed08-fd77bf422f59.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting クラス、プロパティ" Url="html/59254c3b-13bb-c0f4-50d6-ce26cc052fef.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting クラス、メソッド" Url="html/b0fee65a-0f64-68af-f24f-f9edd1e57675.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting.CommandLineArgs プロパティ" Url="html/2f2156d6-7210-5f78-9846-3cf5bba9e94f.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting.DisplayDiag プロパティ" Url="html/46d70bf3-b2b0-cf65-a8e1-563dea343bf2.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting.DumpAST プロパティ" Url="html/d1c0fb09-c87c-8b5c-aa72-06d7715a1b7d.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting.ParseOptions プロパティ" Url="html/af090c2d-648a-a35e-a45b-551dbee649e1.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting.Sources プロパティ" Url="html/095aa605-1010-f2d6-e473-cda3fc9384c0.htm" />
+  <HelpKINode Title="TranslationUnitParseSetting.TranslationUnitParseSetting コンストラクター" Url="html/69fd7855-702f-a075-ed08-fd77bf422f59.htm" />
+  <HelpKINode Title="TranslationUnitsParser クラス" Url="html/5b25cbe0-e3cc-15e0-7163-ab1c845c488a.htm" />
+  <HelpKINode Title="TranslationUnitsParser クラス、メソッド" Url="html/7909d6ba-2fbe-7ad1-8b9a-a1bb72ce2ea5.htm" />
+  <HelpKINode Title="TranslationUnitsParser.Parse メソッド" Url="html/77b5ca92-e8ef-c81c-c5ea-be95970129a8.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl クラス" Url="html/035a4d61-c2de-3fc9-63f1-9d2aac156b9d.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl クラス、コンストラクター" Url="html/8d9cadd8-4fa0-96de-00b8-c6d48793e17b.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.AnalyseInvokationInfo メソッド" Url="html/b401a6b9-0b34-d55d-ebd0-ea28e011b09f.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.CurrentBehavior プロパティ" Url="html/1cf005d0-65b3-b705-015a-9cae87133261.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.CurrentTranslationUnit プロパティ" Url="html/3738ef99-87c8-40d3-479d-1e5ba7fb72a0.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.DumpAstInfo メソッド" Url="html/c1322435-f431-a0f2-add0-618abbf32565.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.Execute メソッド" Url="html/474361d6-804b-d23c-c070-b26c6f60be0f.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.ExecuteCore メソッド" Url="html/15471285-0135-99c7-e08a-0bfbd4de3637.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.Setting プロパティ" Url="html/b5f68e3f-95ba-4b00-9bdb-ba9ae3fbaa13.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.TranslationUnitMap プロパティ" Url="html/f31493b5-41fa-81e4-eb3b-93274a740175.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.TranslationUnitsParserImpl コンストラクター" Url="html/8d9cadd8-4fa0-96de-00b8-c6d48793e17b.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.VisitChild メソッド" Url="html/09720bb6-3e0f-c8f6-3221-de874514a730.htm" />
+  <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.Visitor メソッド" Url="html/766050aa-6032-86d3-14f8-a89d226c6531.htm" />
+  <HelpKINode Title="TranslationUnitsParserImpl クラス、プロパティ" Url="html/caff1bea-55c0-5934-d3cf-1f0defa9fb7b.htm" />
+  <HelpKINode Title="TranslationUnitsParserImpl クラス、メソッド" Url="html/aa98c4f9-c2bb-756f-ed27-d671d67f3f07.htm" />
   <HelpKINode Title="Triple プロパティ" Url="html/e4676843-0722-fce7-0fd4-b897b6228d2f.htm" />
   <HelpKINode Title="TryGetRealPathName メソッド" Url="html/bf5610d9-6336-efce-e7b5-4f0630343a46.htm" />
-  <HelpKINode Title="Type プロパティ" Url="html/fb0718a1-b825-f716-5123-bc08f4521c9a.htm" />
+  <HelpKINode Title="Type プロパティ">
+    <HelpKINode Title="BehaviorCrossReferenceInfo.Type プロパティ " Url="html/28b06ea5-6182-74ac-bce1-c9bb949ce7da.htm" />
+    <HelpKINode Title="BehaviorInfo.Type プロパティ " Url="html/18844ee9-e4f9-8f98-848d-c074fd52b96d.htm" />
+    <HelpKINode Title="ClangCursor.Type プロパティ " Url="html/fb0718a1-b825-f716-5123-bc08f4521c9a.htm" />
+  </HelpKINode>
   <HelpKINode Title="Type 列挙体メンバー" Url="html/d264dae5-b2b3-9b1a-6f01-407c24715795.htm" />
   <HelpKINode Title="TypeAliasDeclaration 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="TypeAliasTemplateDecl 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
@@ -3989,12 +4322,13 @@
   <HelpKINode Title="UnaryExpression 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="UnaryOperator 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="Unavailable フィールド" Url="html/4486a46d-ba5d-051b-56b6-eaa79a062028.htm" />
+  <HelpKINode Title="Undeduced 列挙体メンバー" Url="html/220bb168-afb2-1872-c3e2-6f85721f03b2.htm" />
   <HelpKINode Title="UnderscoreAlignof 列挙体メンバー" Url="html/5e60d057-b142-d60e-39d9-24af6fa66c4c.htm" />
   <HelpKINode Title="Unevaluated 列挙体メンバー" Url="html/7718f6c6-9dbd-75fe-7b83-dd57f561326b.htm" />
   <HelpKINode Title="Unexposed 列挙体メンバー">
+    <HelpKINode Title="CallingConvention 列挙体" Url="html/0772be6a-d3b1-1288-722c-212576fc69e4.htm" />
     <HelpKINode Title="CompletionContext 列挙体" Url="html/33d54941-a6af-3bad-38aa-392a924fefb2.htm" />
     <HelpKINode Title="TypeKind 列挙体" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
-    <HelpKINode Title="CallingConvention 列挙体" Url="html/0772be6a-d3b1-1288-722c-212576fc69e4.htm" />
     <HelpKINode Title="IndexAttributeKind 列挙体" Url="html/4bd739ad-bc12-891b-6fde-24141ac4d1fd.htm" />
     <HelpKINode Title="IndexEntityKind 列挙体" Url="html/ed31d8e1-e2f9-2b4e-5204-29a4f56ef0de.htm" />
   </HelpKINode>
@@ -4012,6 +4346,7 @@
     <HelpKINode Title="LoadDiagError 列挙体" Url="html/742e3f91-d045-e40e-57b7-03725a9c045f.htm" />
     <HelpKINode Title="SaveError 列挙体" Url="html/93b07cb2-948c-aa87-f4b5-4c4c7b6d60ba.htm" />
   </HelpKINode>
+  <HelpKINode Title="Unparsed 列挙体メンバー" Url="html/7718f6c6-9dbd-75fe-7b83-dd57f561326b.htm" />
   <HelpKINode Title="UnsafeUnretained 列挙体メンバー" Url="html/c6f90457-9f4b-d1cd-2cfc-2982d916294e.htm" />
   <HelpKINode Title="Unspecified 列挙体メンバー" Url="html/a1619218-048d-441b-b81a-c3b548e64619.htm" />
   <HelpKINode Title="UserIncludes プロパティ" Url="html/2f548449-c387-860a-d7a4-4589d4d0922b.htm" />
@@ -4025,6 +4360,28 @@
     <HelpKINode Title="ClangCursor.USR プロパティ " Url="html/9b8318ac-6927-1c5d-adfd-df8a3babf28d.htm" />
     <HelpKINode Title="ClangIndexEntityInfo.USR プロパティ " Url="html/1546ccd4-29c6-66c0-3252-2ac52f7545e7.htm" />
   </HelpKINode>
+  <HelpKINode Title="ValueObject(Of T) クラス" Url="html/3979fe0f-b786-a9de-e748-f332ed1a70c9.htm" />
+  <HelpKINode Title="ValueObject(Of T) クラス、コンストラクター" Url="html/afc22e82-55e1-c21b-b937-ab3b633b1e5e.htm" />
+  <HelpKINode Title="ValueObject(Of T) クラス、メソッド" Url="html/3511ca55-4533-f437-5268-5f8066159a8c.htm" />
+  <HelpKINode Title="ValueObject(Of T) クラス、演算子" Url="html/c32a4c39-f4f5-276e-3fb8-a508c0218f29.htm" />
+  <HelpKINode Title="ValueObject(Of T).Equality 演算子" Url="html/b4e6480d-3891-88b7-c747-d4d756c57ac1.htm" />
+  <HelpKINode Title="ValueObject(Of T).Equals メソッド" Url="html/a5ce5c76-0bc9-fc17-1dcc-504a6841bd1f.htm" />
+  <HelpKINode Title="ValueObject(Of T).EqualsCore メソッド" Url="html/f452548d-1294-60d6-a2ef-cee89c308661.htm" />
+  <HelpKINode Title="ValueObject(Of T).GetHashCode メソッド" Url="html/cd822819-b509-e7ec-7ec9-d5b76e984c9b.htm" />
+  <HelpKINode Title="ValueObject(Of T).GetHashCodeParameters メソッド" Url="html/833c0df0-bd9e-2e23-bee1-7fedf5f0be5a.htm" />
+  <HelpKINode Title="ValueObject(Of T).Inequality 演算子" Url="html/6c215984-5ad3-f919-44ba-46a214ace6d2.htm" />
+  <HelpKINode Title="ValueObject(Of T).ValueObject コンストラクター" Url="html/afc22e82-55e1-c21b-b937-ab3b633b1e5e.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt; クラス" Url="html/3979fe0f-b786-a9de-e748-f332ed1a70c9.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt; クラス、コンストラクター" Url="html/afc22e82-55e1-c21b-b937-ab3b633b1e5e.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt; クラス、メソッド" Url="html/3511ca55-4533-f437-5268-5f8066159a8c.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt; クラス、演算子" Url="html/c32a4c39-f4f5-276e-3fb8-a508c0218f29.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt;.Equality 演算子" Url="html/b4e6480d-3891-88b7-c747-d4d756c57ac1.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt;.Equals メソッド" Url="html/a5ce5c76-0bc9-fc17-1dcc-504a6841bd1f.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt;.EqualsCore メソッド" Url="html/f452548d-1294-60d6-a2ef-cee89c308661.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt;.GetHashCode メソッド" Url="html/cd822819-b509-e7ec-7ec9-d5b76e984c9b.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt;.GetHashCodeParameters メソッド" Url="html/833c0df0-bd9e-2e23-bee1-7fedf5f0be5a.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt;.Inequality 演算子" Url="html/6c215984-5ad3-f919-44ba-46a214ace6d2.htm" />
+  <HelpKINode Title="ValueObject&lt;T&gt;.ValueObject コンストラクター" Url="html/afc22e82-55e1-c21b-b937-ab3b633b1e5e.htm" />
   <HelpKINode Title="VarDeclaration 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="Variable 列挙体メンバー" Url="html/ed31d8e1-e2f9-2b4e-5204-29a4f56ef0de.htm" />
   <HelpKINode Title="VariableArray 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
@@ -4050,7 +4407,10 @@
   <HelpKINode Title="VisibilityKind 列挙体" Url="html/0825be9f-6265-1bdc-f4b1-678c10236dba.htm" />
   <HelpKINode Title="Visit フィールド" Url="html/47b8cc11-ad94-2312-0074-a63758e7859d.htm" />
   <HelpKINode Title="VisitBreak 列挙体メンバー" Url="html/a7dba5c8-08b2-23cc-9f2f-9fb558982ea5.htm" />
-  <HelpKINode Title="VisitChild メソッド" Url="html/87e5832e-466f-160d-dbbc-ff4ab2a79071.htm" />
+  <HelpKINode Title="VisitChild メソッド">
+    <HelpKINode Title="CursorVisitor.CursorVisitorImpl.VisitChild メソッド " Url="html/87e5832e-466f-160d-dbbc-ff4ab2a79071.htm" />
+    <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.VisitChild メソッド " Url="html/09720bb6-3e0f-c8f6-3221-de874514a730.htm" />
+  </HelpKINode>
   <HelpKINode Title="VisitChildren(Of T) メソッド" Url="html/d3af527a-77bd-5201-762d-9ee860954a48.htm" />
   <HelpKINode Title="VisitChildren&lt;T&gt; メソッド" Url="html/d3af527a-77bd-5201-762d-9ee860954a48.htm" />
   <HelpKINode Title="VisitFields メソッド" Url="html/10eb45d2-1e44-3acc-d7a7-1275d457ee39.htm" />
@@ -4058,6 +4418,7 @@
   <HelpKINode Title="Visitor メソッド">
     <HelpKINode Title="CursorVisitor.CursorVisitorImpl.Visitor メソッド " Url="html/9083e908-43e2-5a62-a183-7e6e1c6333e5.htm" />
     <HelpKINode Title="InclusionVisitor.InclusionVisitorImpl.Visitor メソッド " Url="html/c3c11010-5a21-d21e-5178-a4f364b9309d.htm" />
+    <HelpKINode Title="TranslationUnitsParser.TranslationUnitsParserImpl.Visitor メソッド " Url="html/766050aa-6032-86d3-14f8-a89d226c6531.htm" />
   </HelpKINode>
   <HelpKINode Title="VisitorResult 列挙体" Url="html/061995db-c2f1-dfa8-b21f-5d65c3214054.htm" />
   <HelpKINode Title="Void 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
@@ -4071,6 +4432,8 @@
     <HelpKINode Title="Messenger.Warn メソッド " Url="html/1408a3b2-c76e-f66d-61e5-66c3b1044e13.htm" />
   </HelpKINode>
   <HelpKINode Title="Warning 列挙体メンバー" Url="html/1b6aeb84-ff73-6285-d1fe-ddd2416e673a.htm" />
+  <HelpKINode Title="WarnUnusedAttr 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
+  <HelpKINode Title="WarnUnusedResultAttr 列挙体メンバー" Url="html/5664ba25-28b8-3c1e-d20c-ccd540d3c868.htm" />
   <HelpKINode Title="WChar 列挙体メンバー" Url="html/87341fdd-7b54-b86a-991b-20e0455ba993.htm" />
   <HelpKINode Title="Weak 列挙体メンバー" Url="html/c6f90457-9f4b-d1cd-2cfc-2982d916294e.htm" />
   <HelpKINode Title="Welcome" Url="html/d357d1b3-948f-447c-b29b-2bd0cf5eec16.htm" />

@@ -52,7 +52,7 @@
     <strong>名前空間:</strong> 
    <a href="56206511-e128-4c2f-f3a9-aefe73ab5cb3.htm">ClangNet.Native</a><br />
     <strong>アセンブリ:</strong>
-   ClangNet (in ClangNet.dll) バージョン: 1.0.0<div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID2RB')" onkeypress="SectionExpandCollapse_CheckKey('ID2RB', event)" tabindex="0"><img id="ID2RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />構文</span></div><div id="ID2RBSection" class="collapsibleSection"><div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID1EACA_tab1" class="codeSnippetContainerTabSingle">C#</div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EACA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EACA');return false;" title="コピー">コピー</a></div></div><div id="ID1EACA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="keyword">internal</span> <span class="keyword">static</span> <span class="keyword">class</span> <span class="identifier">LibClang</span></pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EACA");</script></div><p><span class="selflink">LibClang</span> 型は下記のメンバーを公開します。</p><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID3RB')" onkeypress="SectionExpandCollapse_CheckKey('ID3RB', event)" tabindex="0"><img id="ID3RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />メソッド</span></div><div id="ID3RBSection" class="collapsibleSection"><table class="members" id="methodList"><tr><th class="iconColumn">
+   ClangNet (in ClangNet.dll) バージョン: 1.1.0<div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID2RB')" onkeypress="SectionExpandCollapse_CheckKey('ID2RB', event)" tabindex="0"><img id="ID2RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />構文</span></div><div id="ID2RBSection" class="collapsibleSection"><div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID1EACA_tab1" class="codeSnippetContainerTabSingle">C#</div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EACA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EACA');return false;" title="コピー">コピー</a></div></div><div id="ID1EACA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="keyword">internal</span> <span class="keyword">static</span> <span class="keyword">class</span> <span class="identifier">LibClang</span></pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EACA");</script></div><p><span class="selflink">LibClang</span> 型は下記のメンバーを公開します。</p><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID3RB')" onkeypress="SectionExpandCollapse_CheckKey('ID3RB', event)" tabindex="0"><img id="ID3RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />メソッド</span></div><div id="ID3RBSection" class="collapsibleSection"><table class="members" id="methodList"><tr><th class="iconColumn">
 								 
 							</th><th>名前</th><th>説明</th></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="a4ce56bd-dc3d-4bbc-c7b0-3addc9024c12.htm">clang_annotateTokens</a></td><td><div class="summary">
              Annotate the given set of tokens by providing cursors for each token
@@ -215,7 +215,7 @@
              (via -include-pch) allows 'exclude_declarations_from_pch' to remove redundant callbacks
              (which gives the indexer the same performance benefit as the compiler).
             
-             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAAA0VK0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAAA0VK0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EAAA0VK0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-comment">// exclude_declarations_from_pch = 1, display_diagnostics=1</span>
+             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAAA0XK0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAAA0XK0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EAAA0XK0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-comment">// exclude_declarations_from_pch = 1, display_diagnostics=1</span>
 Idx = clang_createIndex(<span class="highlight-number">1</span>, <span class="highlight-number">1</span>);
 
 <span class="highlight-comment">// IndexTest.pch was produced with the following command:</span>
@@ -233,7 +233,7 @@ clang_disposeTranslationUnit(TU);
 TU = clang_createTranslationUnitFromSourceFile(Idx, <span class="highlight-literal">"IndexTest.c"</span>, <span class="highlight-number">2</span>, args, <span class="highlight-number">0</span>, <span class="highlight-number">0</span>);
 
 clang_visitChildren(clang_getTranslationUnitCursor(TU), TranslationUnitVisitor, <span class="highlight-number">0</span>);
-clang_disposeTranslationUnit(TU);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAAA0VK0CDA");</script></div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="650ae66e-9bf0-cd42-7aaa-b6813dad152f.htm">clang_createTranslationUnit</a></td><td><div class="summary">
+clang_disposeTranslationUnit(TU);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAAA0XK0CDA");</script></div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="650ae66e-9bf0-cd42-7aaa-b6813dad152f.htm">clang_createTranslationUnit</a></td><td><div class="summary">
             Same as <span class="code">clang_createTranslationUnit2()</span>, but returns
             the <span class="code">CXTranslationUnit</span> instead of an error code.
             In case of an error this routine returns a <span class="code">NULL</span><span class="code">CXTranslationUnit</span>,
@@ -430,6 +430,9 @@ clang_disposeTranslationUnit(TU);</pre></div></div></div><script type="text/java
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="50b23286-ad87-6c5a-2ba4-511cd91494f0.htm">clang_Cursor_hasAttrs</a></td><td><div class="summary">
             Determine whether the given cursor has any attributes.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="39d6123e-108d-c5b4-749c-5cc731f00ddd.htm">clang_Cursor_isAnonymous</a></td><td><div class="summary">
+            Determine whether the given cursor represents an anonymous
+            tag or namespace.
+            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="ccbdc366-c624-66bd-1b5d-1719ac98be6f.htm">clang_Cursor_isAnonymousRecordDecl</a></td><td><div class="summary">
             Determine whether the given cursor represents an anonymous record
             declaration.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="7b092d79-17b6-6b1b-d94a-a5e300601742.htm">clang_Cursor_isBitField</a></td><td><div class="summary">
@@ -448,6 +451,18 @@ clang_disposeTranslationUnit(TU);</pre></div></div></div><script type="text/java
              </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="d3539e5e-4694-87c1-4534-cc2bb73aec4f.htm">clang_Cursor_isExternalSymbol</a></td><td><div class="summary">
             Returns non-zero if the given cursor points to a symbol marked with
             external_source_symbol attribute.
+            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="cadf6602-fe44-5fa9-ee37-2431124694cd.htm">clang_Cursor_isFunctionInlined</a></td><td><div class="summary">
+             Determine whether a CXCursor that is a function declaration, is an
+             inline declaration.
+            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="30f142c0-0436-c9a2-ef07-f80d9e98088b.htm">clang_Cursor_isInlineNamespace</a></td><td><div class="summary">
+            Determine whether the given cursor represents an inline namespace
+            declaration.
+            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="d74df623-1b84-c02c-30d9-ec4c19e9d6e4.htm">clang_Cursor_isMacroBuiltin</a></td><td><div class="summary">
+            Determine whether a  CXCursor that is a macro, is a
+            builtin one.
+            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="171c57fc-5e15-daa0-f33c-60ec72bad242.htm">clang_Cursor_isMacroFunctionLike</a></td><td><div class="summary">
+            Determine whether a  CXCursor that is a macro, is
+            function like.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="3c237a9a-a445-1de7-461b-b2f730aa23fd.htm">clang_Cursor_isNull</a></td><td><div class="summary">
             Returns non-zero if <span class="parameter">cursor</span> is null.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="9a2c74a1-60f2-5e98-4e63-8c62ecd911ad.htm">clang_Cursor_isObjCOptional</a></td><td><div class="summary">
@@ -464,10 +479,10 @@ clang_disposeTranslationUnit(TU);</pre></div></div></div><script type="text/java
             Gets the general options associated with a CXIndex.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="6fd3e267-d9f9-10f7-d54e-4a9fd81bcddd.htm">clang_CXIndex_setGlobalOptions</a></td><td><div class="summary">
             Sets general options associated with a CXIndex.
-            <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAAA0LJ0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAAA0LJ0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EAAA0LJ0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve">CXIndex idx = ...;
+            <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAAA0IJ0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAAA0IJ0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EAAA0IJ0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve">CXIndex idx = ...;
 clang_CXIndex_setGlobalOptions(idx,
   clang_CXIndex_getGlobalOptions(idx) |
-    CXGlobalOpt_ThreadBackgroundPriorityForIndexing);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAAA0LJ0CDA");</script></div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="c32a019b-44c6-5b15-5c37-8da8c93e939a.htm">clang_CXIndex_setInvocationEmissionPathOption</a></td><td><div class="summary">
+    CXGlobalOpt_ThreadBackgroundPriorityForIndexing);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAAA0IJ0CDA");</script></div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="c32a019b-44c6-5b15-5c37-8da8c93e939a.htm">clang_CXIndex_setInvocationEmissionPathOption</a></td><td><div class="summary">
              Sets the invocation emission path option in a CXIndex.
             
              The invocation emission path specifies a path which will contain log
@@ -675,12 +690,12 @@ clang_CXIndex_setGlobalOptions(idx,
              times within a single translation unit.For example, a structure type can
              be forward-declared(possibly multiple times) and later defined:
             
-             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EADA0PH0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EADA0PH0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EADA0PH0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">struct</span> X;
+             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EADA0MH0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EADA0MH0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EADA0MH0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">struct</span> X;
 <span class="highlight-keyword">struct</span> X;
 <span class="highlight-keyword">struct</span> X
 {
     <span class="highlight-keyword">int</span> member;
-};</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EADA0PH0CDA");</script>
+};</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EADA0MH0CDA");</script>
             
              The declarations and the definition of <span class="code">X</span> are represented by three
              different cursors, all of which are declarations of the same underlying
@@ -793,10 +808,10 @@ clang_CXIndex_setGlobalOptions(idx,
              unit, but only one of those declarations can also be a
              definition.For example, given:
             
-             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EADA03G0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EADA03G0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EADA03G0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">int</span> f(<span class="highlight-keyword">int</span>, <span class="highlight-keyword">int</span>);
+             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EADA0ZG0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EADA0ZG0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EADA0ZG0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">int</span> f(<span class="highlight-keyword">int</span>, <span class="highlight-keyword">int</span>);
 <span class="highlight-keyword">int</span> g(<span class="highlight-keyword">int</span> x, <span class="highlight-keyword">int</span> y) { <span class="highlight-keyword">return</span> f(x, y); }
 <span class="highlight-keyword">int</span> f(<span class="highlight-keyword">int</span> a, <span class="highlight-keyword">int</span> b) { <span class="highlight-keyword">return</span> a + b; }
-<span class="highlight-keyword">int</span> f(<span class="highlight-keyword">int</span>, <span class="highlight-keyword">int</span>);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EADA03G0CDA");</script>
+<span class="highlight-keyword">int</span> f(<span class="highlight-keyword">int</span>, <span class="highlight-keyword">int</span>);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EADA0ZG0CDA");</script>
             
              there are three declarations of the function "f", but only the
              second one is a definition.The <span class="code">clang_getCursorDefinition()</span>
@@ -846,12 +861,12 @@ clang_CXIndex_setGlobalOptions(idx,
              They diverge when declarations or
              definitions are provided out-of-line.For example:
             
-             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAPA0VG0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAPA0VG0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EAPA0VG0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">class</span> C
+             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAPA0SG0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAPA0SG0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EAPA0SG0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">class</span> C
  {
  <span class="highlight-keyword">void</span> f();
 };
 
-<span class="highlight-keyword">void</span> C::f() { }</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAPA0VG0CDA");</script>
+<span class="highlight-keyword">void</span> C::f() { }</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAPA0SG0CDA");</script>
             
              In the out-of-line definition of <span class="code">C::f</span>, the semantic parent is
              the class <span class="code">C</span>, of which this function is a member. The lexical parent is
@@ -915,12 +930,12 @@ clang_CXIndex_setGlobalOptions(idx,
              are equivalent (the lexical parent is returned by
              <span class="code">clang_getCursorLexicalParent()</span>). They diverge when declarations or
              definitions are provided out-of-line.For example:
-             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAPA0MG0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAPA0MG0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EAPA0MG0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">class</span> C
+             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAPA0JG0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAPA0JG0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EAPA0JG0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">class</span> C
  {
  <span class="highlight-keyword">void</span> f();
 };
 
-<span class="highlight-keyword">void</span> C::f() { }</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAPA0MG0CDA");</script>
+<span class="highlight-keyword">void</span> C::f() { }</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAPA0JG0CDA");</script>
             
              In the out-of-line definition of <span class="code">C::f</span>, the semantic parent is
              the class <span class="code">C</span>, of which this function is a member. The lexical parent is
@@ -967,9 +982,7 @@ clang_CXIndex_setGlobalOptions(idx,
              If the cursor refers to a C++ declaration, its access control level within its
              parent scope is returned.Otherwise, if the cursor refers to a base specifier or
              access specifier, the specifier itself is returned.
-             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="906ae883-96cd-9e57-cdc9-c70254ada705.htm">clang_getDeclObjCEncoding</a></td><td><div class="summary">
-            Returns the Objective-C type encoding for the specified CXType.
-            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="62bb2a3f-335a-041f-2ca3-f52da3256a4e.htm">clang_getDeclObjCTypeEncoding</a></td><td><div class="summary">
+             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="62bb2a3f-335a-041f-2ca3-f52da3256a4e.htm">clang_getDeclObjCTypeEncoding</a></td><td><div class="summary">
             Returns the Objective-C type encoding for the specified declaration.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="35b1996b-fe51-7146-311d-7100d528a4da.htm">clang_getDefinitionSpellingAndExtent</a></td><td><div class="summary">
             Get Definition Spelling And Extent
@@ -1105,11 +1118,7 @@ clang_CXIndex_setGlobalOptions(idx,
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="3a0eff0e-4157-5784-159a-e45b04f803b4.htm">clang_getLocationForOffset</a></td><td><div class="summary">
             Retrieves the source location associated with a given character offset
             in a particular translation unit.
-            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="67184c30-26da-3197-ae45-638c923b1645.htm">clang_getNamedType</a></td><td><div class="summary">
-             Retrieve the type named by the qualified-id.
-            
-             If a non-elaborated type is passed in, an invalid type is returned.
-             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="2dec26fb-ebdd-7d38-1906-b77011e50da5.htm">clang_getNullCursor</a></td><td><div class="summary">
+            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="2dec26fb-ebdd-7d38-1906-b77011e50da5.htm">clang_getNullCursor</a></td><td><div class="summary">
             Retrieve the NULL cursor, which represents no entity.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="17b2e5d3-9b1e-8857-bb91-2d3445482e58.htm">clang_getNullLocation</a></td><td><div class="summary">
             Retrieve a NULL (invalid) source location.
@@ -1174,12 +1183,12 @@ clang_CXIndex_setGlobalOptions(idx,
             
              Example: given the following source code in a file somefile.c
             
-             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EADA0SE0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EADA0SE0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EADA0SE0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-preprocessor">#123</span> <span class="highlight-literal">"dummy.c"</span> <span class="highlight-number">1</span>
+             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EADA0RE0CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EADA0RE0CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EADA0RE0CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-preprocessor">#123</span> <span class="highlight-literal">"dummy.c"</span> <span class="highlight-number">1</span>
 
 <span class="highlight-keyword">static</span> <span class="highlight-keyword">int</span> func(<span class="highlight-keyword">void</span>)
 {
  <span class="highlight-keyword">return</span> <span class="highlight-number">0</span>;
-}</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EADA0SE0CDA");</script>
+}</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EADA0RE0CDA");</script>
             
              the location information returned by this function would be
             
@@ -1386,9 +1395,6 @@ clang_CXIndex_setGlobalOptions(idx,
             Determine whether the given header is guarded against
             multiple inclusions, either with the conventional
             #ifndef/#define/#endif macro guards or with #pragma once.
-            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="4dd93f22-a0f3-99ab-f300-f5814cd87492.htm">clang_isFunctionInlined</a></td><td><div class="summary">
-             Determine whether a CXCursor that is a function declaration, is an
-             inline declaration.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="4eb6a476-353b-cd66-b746-c65a11f769ff.htm">clang_isFunctionTypeVariadic</a></td><td><div class="summary">
             Return 1 if the CXType is a variadic function type, and 0 otherwise.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="35371497-fb2f-ce6c-9958-cc33f3469be7.htm">clang_isInvalid</a></td><td><div class="summary">
@@ -1397,13 +1403,7 @@ clang_CXIndex_setGlobalOptions(idx,
              Determine whether the given declaration is invalid.
             
              A declaration is invalid if it could not be parsed successfully.
-             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="eed68fcf-1a2a-beb7-71da-f85a1a456442.htm">clang_isMacroBuiltin</a></td><td><div class="summary">
-            Determine whether a  CXCursor that is a macro, is a
-            builtin one.
-            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="8c2e1738-c230-47b6-82c4-e5aef79bee6d.htm">clang_isMacroFunctionLike</a></td><td><div class="summary">
-            Determine whether a  CXCursor that is a macro, is
-            function like.
-            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="cc9fe1ed-496a-c0e3-a68d-dd7eeca9775d.htm">clang_isPODType</a></td><td><div class="summary">
+             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="cc9fe1ed-496a-c0e3-a68d-dd7eeca9775d.htm">clang_isPODType</a></td><td><div class="summary">
             Return 1 if the CXType is a POD (plain old data) type, and 0
             otherwise.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="f737334f-b740-48b9-f9f0-4d13df16390c.htm">clang_isPreprocessing</a></td><td><div class="summary">
@@ -1562,16 +1562,16 @@ clang_CXIndex_setGlobalOptions(idx,
              Get Depth of Template Param Command Comment
             
              For example,
-              <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EABA4CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EABA4CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EABA4CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve">template&lt;typename C, template&lt;typename T&gt; <span class="highlight-keyword">class</span> TT&gt;
-    <span class="highlight-keyword">void</span> test(TT&lt;<span class="highlight-keyword">int</span>&gt; aaa);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EABA4CDA");</script>
+              <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EABA6CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EABA6CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EABA6CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve">template&lt;typename C, template&lt;typename T&gt; <span class="highlight-keyword">class</span> TT&gt;
+    <span class="highlight-keyword">void</span> test(TT&lt;<span class="highlight-keyword">int</span>&gt; aaa);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EABA6CDA");</script>
               for C and TT nesting depth is 0,
               for T nesting depth is 1.
              </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="38c51256-3cba-4eab-12f6-0f565ff77210.htm">clang_TParamCommandComment_getIndex</a></td><td><div class="summary">
              Get Index of Template Param Command Comment
             
              For example,
-             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EABA3CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EABA3CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EABA3CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve">template&lt;typename C, template&lt;typename T&gt; <span class="highlight-keyword">class</span> TT&gt;
-    <span class="highlight-keyword">void</span> test(TT&lt;<span class="highlight-keyword">int</span>&gt; aaa);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EABA3CDA");</script>
+             <div class="codeSnippetContainer"><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EABA5CDA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EABA5CDA');return false;" title="コピー">コピー</a></div></div><div id="ID1EABA5CDA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve">template&lt;typename C, template&lt;typename T&gt; <span class="highlight-keyword">class</span> TT&gt;
+    <span class="highlight-keyword">void</span> test(TT&lt;<span class="highlight-keyword">int</span>&gt; aaa);</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EABA5CDA");</script>
              for C and TT nesting depth is 0, so we can ask for index at depth 0:
              at depth 0 C's index is 0, TT's index is 1.
             
@@ -1606,6 +1606,10 @@ clang_CXIndex_setGlobalOptions(idx,
              Return the type that was modified by this attributed type.
             
              If the type is not an attributed type, an invalid type is returned.
+             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="d1a3aeef-4996-3cbf-0888-2078c860ed98.htm">clang_Type_getNamedType</a></td><td><div class="summary">
+             Retrieve the type named by the qualified-id.
+            
+             If a non-elaborated type is passed in, an invalid type is returned.
              </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="29b2a3b9-f400-b13d-d691-d7e086bcbc31.htm">clang_Type_getNullability</a></td><td><div class="summary">
             Retrieve the nullability kind of a pointer type.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="ab7f1247-15a9-c3e5-b417-b9fbaef87695.htm">clang_Type_getNumObjCProtocolRefs</a></td><td><div class="summary">
@@ -1619,6 +1623,8 @@ clang_CXIndex_setGlobalOptions(idx,
              </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="0fa6fc74-9ee1-9c1d-3ff2-9e7c275502dc.htm">clang_Type_getNumTemplateArguments</a></td><td><div class="summary">
             Returns the number of template arguments for given template
             specialization, or -1 if type <span class="parameter">type</span> is not a template specialization.
+            </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="fbc70420-9ee1-fac4-fbe9-2f984d84bca0.htm">clang_Type_getObjCEncoding</a></td><td><div class="summary">
+            Returns the Objective-C type encoding for the specified CXType.
             </div></td></tr><tr data="protected;static;declared;notNetfw;"><td><img src="../icons/protmethod.gif" alt="Protected メソッド" title="Protected メソッド" /><img src="../icons/static.gif" alt="静的メンバー" title="静的メンバー" /></td><td><a href="a0b5633e-148d-9ffc-4fbe-966b40272b72.htm">clang_Type_getObjCObjectBaseType</a></td><td><div class="summary">
              Retrieves the base type of the ObjCObjectType.
             
