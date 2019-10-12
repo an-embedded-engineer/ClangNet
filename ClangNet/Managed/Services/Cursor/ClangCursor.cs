@@ -804,7 +804,7 @@ namespace ClangNet
                     }
                     catch(Exception ex)
                     {
-                        service_exception = new ClangServiceException("Visit Cursor Children Failed", ex);
+                        service_exception = new ClangServiceException($"Visit Cursor Children Failed : {ex.Message}", ex);
 
                         return ChildVisitResult.Break;
                     }
