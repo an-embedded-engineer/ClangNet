@@ -13,6 +13,11 @@ namespace ClangNet.Samples
         public string ID { get; }
 
         /// <summary>
+        /// Behavior Definition
+        /// </summary>
+        public string Definition { get; }
+
+        /// <summary>
         /// Behavior Name
         /// </summary>
         public string Name { get; }
@@ -35,6 +40,8 @@ namespace ClangNet.Samples
                 this.Declaration = BehaviorInfoFactory.Create(cursor.Referenced);
 
                 this.ID = this.Declaration.ID;
+
+                this.Definition = this.Declaration.Definition;
             }
             else
             {

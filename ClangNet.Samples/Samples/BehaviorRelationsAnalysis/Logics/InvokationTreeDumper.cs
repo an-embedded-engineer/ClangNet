@@ -96,7 +96,7 @@ namespace ClangNet.Samples
 
                     var indent2 = new string(' ', (depth + 1) * 2);
 
-                    this.SendMessage($"{indent}{invokation.ID} @ {invokation.Location}");
+                    this.SendMessage($"{indent}{invokation.Definition} @ {invokation.Location}");
 
                     if (behavior.ID == invokation.ID)
                     {

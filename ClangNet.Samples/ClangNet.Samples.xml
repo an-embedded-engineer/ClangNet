@@ -256,6 +256,11 @@
             Reference Type
             </summary>
         </member>
+        <member name="P:ClangNet.Samples.BehaviorCrossReferenceInfo.Definition">
+            <summary>
+            Definition
+            </summary>
+        </member>
         <member name="P:ClangNet.Samples.BehaviorCrossReferenceInfo.Location">
             <summary>
             Referenced Location
@@ -565,6 +570,11 @@
         <member name="P:ClangNet.Samples.InvokationInfo.ID">
             <summary>
             Behavior ID
+            </summary>
+        </member>
+        <member name="P:ClangNet.Samples.InvokationInfo.Definition">
+            <summary>
+            Behavior Definition
             </summary>
         </member>
         <member name="P:ClangNet.Samples.InvokationInfo.Name">

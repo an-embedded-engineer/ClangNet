@@ -18,6 +18,11 @@ namespace ClangNet.Samples
         public string Type { get; }
 
         /// <summary>
+        /// Definition
+        /// </summary>
+        public string Definition { get; }
+
+        /// <summary>
         /// Referenced Location
         /// </summary>
         public string Location { get; }
@@ -32,6 +37,8 @@ namespace ClangNet.Samples
 
             this.Type = info.Type;
 
+            this.Definition = info.Definition;
+
             this.Location = info.Location;
         }
 
@@ -45,6 +52,8 @@ namespace ClangNet.Samples
 
             this.Type = "Call";
 
+            this.Definition = info.Definition;
+
             this.Location = info.Location;
         }
 
@@ -54,7 +63,7 @@ namespace ClangNet.Samples
         /// <returns>Detail</returns>
         public override string ToString()
         {
-            return $"[{this.Type}]{this.ID} @ {this.Location}";
+            return $"[{this.Type}]{this.Definition} @ {this.Location}";
         }
 
         /// <summary>
@@ -64,7 +73,7 @@ namespace ClangNet.Samples
         /// <returns>Equality</returns>
         protected override bool EqualsCore(BehaviorCrossReferenceInfo other)
         {
-            return (this.ID == other.ID && this.Type == other.Type && this.Location == other.Location);
+            return (this.ID == other.ID && this.Type == other.Type && this.Definition == other.Definition && this.Location == other.Location);
         }
 
         /// <summary>
@@ -76,6 +85,7 @@ namespace ClangNet.Samples
             var objs = new List<object>()
             {
                 this.ID,
+                this.Definition,
                 this.Type,
                 this.Location,
             };

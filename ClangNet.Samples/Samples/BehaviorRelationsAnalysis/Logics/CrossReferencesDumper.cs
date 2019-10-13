@@ -100,7 +100,6 @@ namespace ClangNet.Samples
                     foreach (var xref_info in xref_hash_set)
                     {
                         var type = xref_info.Type;
-                        var def = xref_info.ID;
                         var loc = xref_info.Location;
                         this.SendMessage($"  [{type}] @ {loc}");
                     }
