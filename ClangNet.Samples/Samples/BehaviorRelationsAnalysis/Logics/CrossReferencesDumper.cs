@@ -55,24 +55,26 @@ namespace ClangNet.Samples
             /// </summary>
             private void AnalyseCrossReferences()
             {
+                var map1 = new BehaviorCrossReferenceMap();
+
                 foreach (var tu in this.TranslationUnitMap.Values)
                 {
                     foreach (var behavior in tu.BehaviorMap.Values)
                     {
                         var xref_behavior = new BehaviorCrossReferenceInfo(behavior);
 
-                        this.CrossReferenceMap.Add(xref_behavior);
+                        map1.Add(xref_behavior);
 
                         foreach (var invoke in behavior.Invokations)
                         {
                             var xref_invoke = new BehaviorCrossReferenceInfo(invoke);
 
-                            this.CrossReferenceMap.Add(xref_invoke);
+                            map1.Add(xref_invoke);
                         }
                     }
                 }
 
-                var map = new BehaviorCrossReferenceMap();
+                var map2 = new BehaviorCrossReferenceMap();
 
                 foreach (var key in this.CrossReferenceMap.Keys)
                 {
@@ -80,10 +82,10 @@ namespace ClangNet.Samples
 
                     var sorted_set = set.OrderBy(x => x.Type).ToHashSet();
 
-                    map.Add(key, sorted_set);
+                    map2.Add(key, sorted_set);
                 }
 
-                this.CrossReferenceMap = map;
+                this.CrossReferenceMap = map2;
             }
 
             /// <summary>
