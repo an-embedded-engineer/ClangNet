@@ -29,7 +29,7 @@
         {
             var ns = this.NameSpace == string.Empty ? "" : $"{this.NameSpace}::";
 
-            return $"{ns}{this.Name}{this.Parameters}";
+            return $"{this.ReturnType} {ns}{this.Name}{this.Parameters}";
         }
 
         /// <summary>
