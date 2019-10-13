@@ -76,9 +76,9 @@ namespace ClangNet.Samples
 
                 var map2 = new BehaviorCrossReferenceMap();
 
-                foreach (var key in this.CrossReferenceMap.Keys)
+                foreach (var key in map1.Keys)
                 {
-                    var set = this.CrossReferenceMap[key];
+                    var set = map1[key];
 
                     var sorted_set = set.OrderBy(x => x.Type).ToHashSet();
 
