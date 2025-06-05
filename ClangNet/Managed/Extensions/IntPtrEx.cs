@@ -54,12 +54,15 @@ namespace ClangNet
             }
             else
             {
-                var contents_bytes = new byte[size];
                 if (size > int.MaxValue)
                 {
                     throw new InvalidOperationException($"Buffer Size is out of range : {size}");
                 }
+
+                var contents_bytes = new byte[(int)size];
+
                 Marshal.Copy(ptr, contents_bytes, 0, (int)size);
+
                 return contents_bytes;
             }
         }
@@ -162,18 +165,17 @@ namespace ClangNet
             }
             else
             {
-                var x = 0;
-
                 var bytes = new List<byte>();
 
                 unsafe
                 {
                     var byte_ptr = (byte*)char_ptr;
+                    var x = 0;
 
                     while (byte_ptr[x] != 0)
                     {
-                        x++;
                         bytes.Add(byte_ptr[x]);
+                        x++;
                     }
 
                     var byte_array = bytes.ToArray();
