@@ -16,6 +16,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="libclang" Version="20.1.2" />
+    <PackageReference Include="libclang.runtime.win-x64" Version="20.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ClangNet.Samples\ClangNet.Samples.csproj" />
   </ItemGroup>
 
